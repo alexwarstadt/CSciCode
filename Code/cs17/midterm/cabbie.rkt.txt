@@ -1,0 +1,155 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname cabbie) (read-case-sensitive #t) (teachpacks ((lib "cs17.ss" "installed-teachpacks"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "cs17.ss" "installed-teachpacks")))))
+;; TASK 1
+
+;; data definition :
+
+;; (NElistof nn/inf)
+;;     - (cons ((natural number) or +inf.0) empty)
+;;     - (cons ((natural number) or +inf.0) (NElistof nn/inf))
+
+;; (traffic map)
+;;    - (cons (NElistof nn/inf) of length n) empty)
+;;    - (cons (NElistof nn/inf) of length n) traffic map)
+;;    - i.e. a (listof (NElistof nn/inf) of length n) of equal length))
+;;    - each (listof (natural number)) is a "row" of the traffic map, 
+;;      and the first member of the listof (listof (natural number) of equal length)
+;;      is the northernmost row, the second the second-from-the-north row, etc., and the
+;;      first of each member the westernmost column, the second of each member the
+;;      second-from-the-west, etc.
+
+;; cabbie : (traffic map) => number
+;; I/P : a traffic map, atm
+;; O/P : a natural number equal to the number of mintures it takes to get from 
+;; the top left corner to the bottom right corner only traveling down and right
+(define (cabbie atm)
+  (cond
+    [(equal? +inf.0 (first (first atm))) +inf.0]
+    [(or (zero? (first (first atm))) (succ? (first (first atm)))) ;; in lieu of a natural-number? predicate
+     (+ (first (first atm))
+        (cond
+          [(empty? (rest atm)) 
+           (cond
+             [(empty? (rest (first atm))) 0]
+             [(cons? (rest (first atm))) (cabbie (map rest atm))])]
+          [(cons? (rest atm))
+           (cond
+             [(empty? (rest (first atm))) (cabbie (rest atm))]
+             [(cons? (rest (first atm))) (min (cabbie (rest atm))
+                                              (cabbie (map rest atm)))])]))]))
+
+;; test cases
+(check-within .01 (cabbie (list (list 1 7 +inf.0) (list +inf.0 3 4) (list 6 1 5))) 17)
+(check-within .01 (cabbie (list (list 1 7 +inf.0 1 1) (list +inf.0 3 4 1 1) (list 6 1 5 2 1))) 18)
+(check-expect (equal? +inf.0 
+                      (cabbie (list (list 1 7 0) (list 0 3 4) (list 6 1 +inf.0))))
+              true)
+(check-expect (equal? +inf.0 (cabbie (list (list +inf.0)))) true)
+(check-expect (cabbie (list (list 1 1 1 1 1) (list 1 1 1 1 1) (list 1 1 1 1 1))) 7)
+(check-expect (equal? +inf.0 (cabbie (list (list 1 +inf.0 1) (list +inf.0 +inf.0 1) (list 0 0 0)))) true)
+(check-expect (cabbie (list (list 0 0) (list 0 0) (list 0 0))) 0)
+(check-expect (cabbie (list (list 1 2 3 4 5) (list 1 1 2 3 4) (list 2 1 1 1 1))) 7)
+(check-expect (cabbie (list (list 3))) 3)
+(check-expect (cabbie (list (list 1) (list 1) (list 1))) 3)
+(check-expect (cabbie (list (list 1 1 1 1))) 4)
+(check-expect (equal? +inf.0 (cabbie (list (list 1) (list +inf.0) (list 1)))) true)
+(check-expect (equal? +inf.0 (cabbie (list (list 1 1 +inf.0 1)))) true)
+
+
+
+
+
+;; TASK 2
+
+;; Worst case, the traffic map contains no intersections labeled with infinities, then cabbie must
+;; compute each possible sub-path through the traffic map. Let n be the length of atm and let m be
+;; the length of each element in atm. For every call on which n and m are both greater one,
+;; cabbie must make two recursive calls, that is calculate the lengths of two sub-pathways. Thus there
+;; is exponential binary branching of the number of sub-pathways up to at least the 
+;; p=((min n m)-1)th intersection passed through, 
+;; at which point one of the sub-pathways has reached either the far east or 
+;; far south of the map and only take one pathway. On at the pth intersection, cabbie considers
+;; 2^p intersections. After this point, some number of sub-pathways stops branching at each
+;; successive intersection, but for a very large map, this dropping off would be dominated by
+;; the exponential growth.
+
+;; Now consider that there are always (n+m-1) intersections called in order to get 
+;; from one corner to the other. The reasoning here is that
+;; for an n by m map, every pathway starts at the top right hand intesection and then considers
+;; travels two pathways, one going east and one south, each of which also considers two pathways.
+;; In total, n-1 times and east m-1 times in no particular order, thus passing through 1+(n-1)+(m-1) intersections.
+;; The path from the second to last intersection of a path to the last intersection is never
+;; branching. At this point, the exponential binary branching seems to have been dominated, but not
+;; before then. Thus at the (n+m-2)th intersection, the cabbie calls on some number on the order of
+;; 2^(n+m-2) intersections, and at the (n+m-1)th intersection, i.e. the last intersection, cabbie
+;; calls on on some number on the order of 2^(n+m-2) intersections as well. 2*2^(n+m-2) is in fact
+;; 2^(n+m-1), so there are this many calls at just the last two steps. 
+;; For all the previous steps combined, the number of intersections called is on the order of
+;; 2^0+2^1+2^2+...+2^(n+m-3). It so happens that the sum of all the powers of 2 up to some number k
+;; is equal to 2^(k+1)-1. So this number of earlier intersections is on the order of 2^(n+m-2).
+;; This constant is still dominated by 2^(n+m-1), so in total the number of calls is on the order
+;; of 2^(n+m-1). One step further, 2^(n+m-1) is actually just 2^(-1)*2^(n+m), so the constant
+;; coefficient is dominated and the number of calls is really on the order of 2^(n+m).
+
+;; Finally, at each intersection in each pathway, cabbie calls only constant procedures, so this
+;; constant coeffiecient of 2^(n+m) is dominated. Thus, the worst case runtime of cabbie is on the
+;; order of 2^(m+n). In big O notation, that is O(c^(m+n))
+
+
+
+
+
+;; TASK 3
+
+;; I would need to alter only one case in my procedure, the last case where both the traffic map
+;; contains more than one element and each element of the traffic map contains more than one
+;; element, i.e. (and (cons? (rest atm)) (cons (rest (first atm)))). In this case, the procedure
+;; would add the (first (first atm)) to the min of the two same recursive calls as above and a 
+;; third recursive call on (map rest (rest atm)).
+
+;; The worst case, as before, is one where all the intersections are finite.
+;; Now, the possible pathways would grow exponentially by a factor of three. However, in this case
+;; some pathways only go through p= (max m n) -1 intersections, where as before n is the number of
+;; of elements in atm and m is the number of elements in each element of atm. This is because
+;; following a path that looks at every sub-path in third case, that is the sub-path starting 
+;; at the intersection diagonal to it, can traverse diagonally only as long far as the shorter
+;; dimension has not been fully traversed, after this point it may only travel along the longer
+;; dimension, but since it has already traversed (min m n)-1 intersections in both dimensions,
+;; it only needs to travel the p - (min m n) -1) more intersections. Thus, a total of
+;; just p intersections. After this point, some intersections still consider one, two,
+;; or three subpaths but others consider no subpaths because they have reached the end. Thus the
+;; greatest number of diagonal intersections that can be considered grows by a factor of 3 only
+;; at most p times. Then the number of calls that lead to "ending short" should be on the order
+;; 3^(max m n) by the reasoning in TASK 2.
+
+;; The binary branching nonetheless continues as in regular cabbie, however, because new cabbie 
+;; must still consider all subpaths that are only east or south, not diagonal. As before, there will
+;; (m + n -1) intersections called, so the number of calls should be on the order 2^(m+n) for the
+;; same reasoning as in TASK 2.
+
+;; Thus the total runtime should be on the order 3^(max m n) + 2^(m+n). The expression cannot be simplified
+;; further because (max m n) is not comparable to (m+n). Thus, in big O notation, the worst case
+;; runtime is on the order O(c^(max m n) + d^(m+n))
+
+
+
+
+
+;; TASK 4
+
+;; This procedure would take two additional inputs, two posns, and navigates to the starting point
+;; by recurring on the rest of atm and (sub1 posn1-y) until posn1-y is zero, and then recurring on
+;; (map rest atm) and (sub1 posn1-x) until posn1-x is zero. Then it would calculate all the subpaths
+;; from the starting point as before, but for each navigation to the south recur on (sub1 posn2-y)
+;; and for each navigation to the east recur on (sub1 posn2-x) until posn2 is (0,0).
+
+;; This preliminary navigation to the starting point, as far as worst case run time, will be
+;; dominated by the binary branching of the subpath calculating. We cannot say that the runtime is
+;; just on the order 2^(m+n) (where n is the lenght of atm and m is the lenght of each element
+;; in atm) anymore, because this new cabbie does not traverse the entire map. Instead, it considers
+;; m-(posn1-x)-(posn2-x)-1 intersections to the east and n-(posn1-y)-(posn2-y)-1 interesctions to
+;; the south. Let X=(posn1-x)=(posn2-x) and let Y=(posn1-y)+(posn2-y). Then, the new cabbie proceeds
+;; mostly just like the original cabbie (but recurring on the posn arguments, which turns out to
+;; be a negligent coefficient), but on a sub-map of atm m-X by n-Y. Thus, the worst case run time
+;; should be on the order O(2^((m-X)+(n-Y)).

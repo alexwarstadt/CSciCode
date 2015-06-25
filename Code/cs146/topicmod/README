@@ -1,0 +1,11 @@
+README
+
+All code is in TopicMod/TopicMod.java
+
+This file contains methods which:
+	read in data
+	initialize hash tables for storing counts
+	perform the gibbs sampling
+	perform a single iteration of gibbs sampling
+	find all P(d|t) for some given d
+	find the 15 words that maximize P(t|w) for all topics

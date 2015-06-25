@@ -1,0 +1,191 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Include files, leave this alone
+\documentclass[12pt,letterpaper]{article}
+\usepackage{amsmath}
+\usepackage{fullpage}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\setlength{\parindent}{0.0in}
+\setlength{\parskip}{0.1in}
+\newcommand{\tab}{\hspace{3em}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% Edit these as appropriate
+\newcommand\course{CS 17}
+\newcommand\semester{Fall 2013}       % <-- current semester
+\newcommand\hwnum{9}                  % <-- homework number
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%This section setups the header for the document, leave this alone
+\pagestyle{fancy}
+\headheight 28pt
+\fancyhead[R]{\course, \semester\\ Homework \hwnum - \today}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newenvironment{answer}[5]{
+  \section*{Problem \hwnum.#1}
+}{\newpage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%The document begins here!
+\begin{document}
+
+
+\begin{answer}{6}
+\textbf{Analysis 2} \\
+
+Task 1\\
+
+(a) The size of the input is the value of $n$\\
+(b) Let the amount of work done in the base cases be $k_0$ and $k_1$, respectively.\\
+(c) Let the amount of work done in the recursive case be $l$\\
+(d) There are two recursive calls made at each step, on $(n-1)$ and $(n-2)$
+
+The recurrence relation for $fib$, $B(n)$ is as follows:
+\[ B(n) = \left\{ 
+  \begin{array}{l l}
+    k_0 & \quad \text{if $n = 0$}\\
+    k_1 & \quad \text{if $n = 1$}\\
+    l + B(n - 1) + B(n - 2) & \quad \text{if $n > 1$}
+  \end{array} \right.\]\\
+
+Task 2\\
+
+I have calculated an exact closed form for $B(n)$ by using a slightly altered tree. Rather than assuming a binary branching tree with some power of 2 nodes on each level as an upper bound, I discovered that if I have input sizes $(n-1)$ and $(n-2)$ as daughers of input size $n$ but consider $(n-1)$ on level 2 and $(n-2)$ on level 3, etc., so that all inputs of the same size are on the same level, then there are $(n+1)$ levels and number of nodes on each level $l$, not including the last base case is the $l^{th}$ Fibonacci number, i.e. $F(l)$. I understand from reading the hints that this was not the expected solution, but assuming my proof is correect I think it is a more elegant one. I did consult TA Evan Fuller beforehand to check that this approach would be acceptable.
+
+The table is as follows:\\
+
+\begin{tabular}{c|c|c|c|c}
+level & I/P Size & cost per node & \# of nodes & level cost \\ \hline
+1 & $n$ & $l$ & 1 & $F(1)*l$\\
+2 & $n-1$ & $l$ & 2 & $F(2)*l$\\
+3 & $n-2$ & $l$ & 3 & $F(3)*l$\\
+4 & $n-3$ & $l$ & 4 & $F(4)*l$\\
+... & ... & ... & ... & ...\\
+$n-1$ & 2 & $l$ & $F(n-1)$ & $F(n-1)*l$\\
+$n$ & 1 & $k_1$ & $F(n)$ & $F(n)*k_1$\\
+$n+1$ & 0 & $k_0$ & $F(n-1)$ & $F(n-1)*k_0$\\
+\end{tabular}
+
+\newpage
+
+So the total cost is the sum of all the level costs.
+
+\begin{align*}
+B(n) &=
+\sum_{i=1}^{n-1} F(i)l + F(n)k_1 + F(n-1)k_0 \\
+&= G(n-1)l + F(n)k_1 + F(n-1)k_0 \\
+\intertext{where G(n) is the sum of the first $n^{th}$ Fibonacci numbers, as in Problem 5}
+&= (F((n+2)-1)-1)l + F(n)k_1 + F(n-1)k_0\\
+\intertext{by the closed form of G(n) as proved in Problem 5}
+&= (F(n+1)-1)l + F(n)k_1 + F(n-1)k_0\\
+\end{align*}
+Here I provide the closed form in terms of F(n) for the sake of readability. I could instead express it in terms of the closed form of F(n), 
+$F(n)=\frac{1}{\sqrt{5}}(\phi_+^n - \phi_-^n)$, where $\phi_+^n=\frac{1+\sqrt{5}}{2}$ and $\phi_-^n=\frac{1-\sqrt{5}}{2}$\\
+
+In the inductive proof I use the recurrence relation F(n) for clarity, but in order to prove B(n)'s order, I will provide a brief proof for the closed form of F(n).\\\\
+Task 3
+
+
+Now to prove the closed form is correct by induction.
+PF:
+
+basis:
+\begin{align*}
+B(0) &= k_0\\
+&= 0l + 0k_1 + 1k_0\\
+&= (1-1)l + F(0)k_1 + F(-1)k_0\\
+\intertext{(Note that by the definition of F earlier in the assignment, F is defined for all integers, and its value at -1 is 1. If this step is still a concern to the grader, I could have rewritten this term in the closed form as $(F(n+1) - F(n))k_0$ and this would certainly be equivalent to my current closed form throughout.)}
+&= (F(1)-1)l + F(0)k_1 + F(-1)k_0\\
+&= (F(0+1)-1)l + F(0)k_1 + F(0-1)k_0\\
+\end{align*}
+\begin{align*}
+B(1) &= k_1\\
+&= 0l + 1k_1 + 0k_0\\
+&= (1-1)l + F(1)k_1 + F(0)k_0\\
+&= (F(2)-1)l + F(1)k_1 + F(1-1)k_0\\
+&= (F(1+1)-1)l + F(1)k_1 + F(1-1)k_0\\
+\end{align*}
+
+Step: Assume
+\begin{align*}
+B(n-1) &= (F((n-1)+1)-1)l + F(n-1)k_1 + F((n-1)-1)k_0\\
+&= (F(n)-1)l + F(n-1)k_1 + F(n-2)k_0\\
+\intertext{and}
+B(n-2) &= (F((n-2)+1)-1)l + F(n-2)k_1 + F((n-2)-1)k_0\\
+&= (F(n-1)-1)l + F(n-2)k_1 + F(n-3)k_0\\
+\intertext{Then}
+B(n) &= l + B(n-1) + B(n-2)\\
+&= l + (F(n)-1)l + F(n-1)k_1 + F(n-2)k_0 + (F(n-1)-1)l + F(n-2)k_1 + F(n-3)k_0\\
+&= l + (F(n)-1)l + (F(n-1)-1)l + F(n-1)k_1 + F(n-2)k_1 + F(n-2)k_0 + F(n-3)k_0\\
+&= (1+ F(n)-1 + F(n-1)-1)l + (F(n-1) + F(n-2))k_1 + (F(n-2) + F(n-3))k_0\\
+&= (F(n+1)-1)l + F(n)k_1 + F(n-1)k_0
+\intertext{by the recurrence relation F(n)}
+\end{align*}
+Q.E.D.
+
+PF of the closed form of F(n), $F(n)=\frac{1}{\sqrt{5}}(\phi_+^n - \phi_-^n)$\\
+basis:
+\begin{align*}
+F(0) &= 0\\
+&= \frac{1}{\sqrt{5}}(0)\\
+&= \frac{1}{\sqrt{5}}(1-1)\\
+&= \frac{1}{\sqrt{5}}(\phi_+^0 - \phi_-^0)\\\\
+F(1) &= 1\\
+&= \frac{1}{\sqrt{5}}(\sqrt{5})\\
+&= \frac{1}{\sqrt{5}}\left( \frac{1-1 +\sqrt{5}+\sqrt{5}}{2} \right)\\
+&= \frac{1}{\sqrt{5}}\left( \frac{1+\sqrt{5}}{2} + \frac{1-\sqrt{5}}{2} \right)\\
+&= \frac{1}{\sqrt{5}}(\phi_+^1 - \phi_-^1)\\
+\end{align*}
+Step: Assume
+\begin{align*}
+F(n-2) &= \frac{1}{\sqrt{5}}(\phi_+^{n-2} - \phi_-^{n-2}),\\
+F(n-1) &= \frac{1}{\sqrt{5}}(\phi_+^{n-1} - \phi_-^{n-1})\\
+\intertext{Then}
+F(n) &= F(n-1) + F(n-2)\\
+&= \frac{1}{\sqrt{5}}(\phi_+^{n-1} - \phi_-^{n-1}) + \frac{1}{\sqrt{5}}(\phi_+^{n-2} - \phi_-^{n-2})\\
+&= \frac{1}{\sqrt{5}}(\phi_+^{n-1} - \phi_-^{n-1} + \phi_+^{n-2} - \phi_-^{n-2})\\
+&= \frac{1}{\sqrt{5}}(\phi_+^{n-1} + \phi_+^{n-2} - (\phi_-^{n-1} + \phi_-^{n-2}))\\
+&= \frac{1}{\sqrt{5}}(\phi_+^{n} - \phi_-^{n})\\
+\intertext{by the identity provided in the assignment}
+\end{align*}
+Q.E.D.\\\\\
+
+
+
+Finally, I can prove that $B(n) \in O(\phi_+^{n})$
+
+\begin{align*}
+&\lim_{n \to \infty} \frac{B(n)}
+{\phi_+^{n}}\\
+&=\lim_{n \to \infty} \frac{(F(n+1)-1)l + F(n)k_1 + F(n-1)k_0}
+{\phi_+^{n}}\\
+&=\lim_{n \to \infty} \frac{((1/\sqrt{5})(\phi_+^{n+1}-\phi_-^{n+1})-1)l + (1/\sqrt{5})(\phi_+^{n}-\phi_-^{n})k_1 + (1/\sqrt{5})(\phi_+^{n-1}-\phi_-^{n-1})k_0}
+{\phi_+^{n}}\\
+&= l\lim_{n \to \infty}\frac{(1/\sqrt{5})(\phi_+^{n+1}-\phi_-^{n+1})-1}{\phi_+^{n}} + 
+\frac{1}{\sqrt{5}}k_1\lim_{n \to \infty}\frac{\phi_+^{n}-\phi_-^{n}}{\phi_+^{n}} +
+\frac{1}{\sqrt{5}}k_0\lim_{n \to \infty}\frac{\phi_+^{n-1}-\phi_-^{n-1}}{\phi_+^{n}} \\
+&= \frac{1}{\sqrt{5}}l\lim_{n \to \infty}\frac{\phi_+^{n+1}-\phi_-^{n+1}}{\phi_+^{n}} -
+l\lim_{n \to \infty}\frac{1}{\phi_+^{n}} +
+\frac{1}{\sqrt{5}}k_1\lim_{n \to \infty}\frac{\phi_+^{n}}{\phi_+^{n}}-
+\frac{1}{\sqrt{5}}k_1\lim_{n \to \infty}\frac{\phi_-^{n}}{\phi_+^{n}} +
+\frac{1}{\sqrt{5}}k_0\lim_{n \to \infty}\frac{\phi_+^{n-1}}{\phi_+^{n}} \\&-
+\frac{1}{\sqrt{5}}k_0\lim_{n \to \infty}\frac{\phi_-^{n-1}}{\phi_+^{n}}\\
+&= \frac{1}{\sqrt{5}}l(\lim_{n \to \infty} 
+\left( \phi_+ \left( \frac{\phi_+}{\phi_+}\right)^n - \phi_- \left( \frac{\phi_-}{\phi_+}\right)^n \right) - 0 + \frac{1}{\sqrt{5}}k_1 - 0 + 
+\frac{1}{\sqrt{5}}*\frac{1}{\phi_+}k_0\lim_{n \to \infty}\frac{\phi_+^{n}}{\phi_+^{n}} \\&-
+\frac{1}{\sqrt{5}}*\frac{1}{\phi_-}k_0\lim_{n \to \infty}\frac{\phi_-^{n}}{\phi_+^{n}}\\
+&= \frac{1}{\sqrt{5}}l\phi_+ 
++ \frac{1}{\sqrt{5}}k_1 
++ \frac{1}{\sqrt{5}}*\frac{1}{\phi_+}k_0-0\\
+&= \frac{1}{\sqrt{5}}\left(l\phi_+ 
++ k_1 
++ \frac{1}{\phi_+}k_0 \right)
+\end{align*}
+
+Since this limit as n approaches infinity of B(n) divided by $\phi_+^n$ is a constant ($l$, $k_1$, $k_0$, and $\phi_+$ are all constants), $B(n) \in O(\phi_+^{n})$.
+
+\end{answer}
+
+\end{document}

@@ -1,0 +1,29 @@
+README
+
+Langmod
+
+All my code is part of the langmod package.
+
+executables reside in the directory above the code.
+
+The Counter class contains:
+	A few hashmaps which:
+		store mappings from words in the corpus to Integer encodings and back
+		store unigram counts
+		store bigram counts
+	Methods which count unigrams and bigrams
+	A class definition Bi for bigrams
+
+The LanguageModel anonymous class contains:
+	an instance of a Counter
+	an implemented method for doing a golden line search
+	an implemented method for finding the negative log probability of a document
+	an implemented method for counting the fraction of sentences correctly identified in goodbad
+	an abstract method for finding theta of the model
+	an abstract method for finding the log probability of a single line of a file
+
+The Unigram class implements LanguageModel
+
+The Bigram class implements LanguageModel
+
+

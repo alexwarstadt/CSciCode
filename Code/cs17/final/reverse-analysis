@@ -1,0 +1,133 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Include files, leave this alone
+\documentclass[12pt,letterpaper]{article}
+\usepackage{amsmath}
+\usepackage{fullpage}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\setlength{\parindent}{0.0in}
+\setlength{\parskip}{0.1in}
+\newcommand{\tab}{\hspace{3em}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% Edit these as appropriate
+\newcommand\course{CS 17}
+\newcommand\semester{Fall 2013}       % <-- current semester
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%This section setups the header for the document, leave this alone
+\pagestyle{fancy}
+\headheight 28pt
+\fancyhead[R]{\course, \semester\\ Final - \today}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newenvironment{answer}[1]{
+  \section*{Problem #1}
+}{\newpage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%The document begins here!
+\begin{document}
+
+\begin{answer}{1}
+\textbf{double-map Analysis} \\
+
+The runtime of double-map is an element of $O(n*p)$ where $n$ is the length of the inputted list alod and p is the runtime of the inputted procedure, proc. double-map makes $\frac{n}{2}$ recursive calls. On each call, it makes a number of calls of constant procedures, and a single call of proc, whose runtime I will call $p$. Since proc is at fastest constant, we can ignore the cost of the constant calls at each step when giving an upper bound. Thus, the total work is $\frac{n}{2}p$ plus the cost of the base case, which is constant and thus can be ignored in an upper bound. The coefficient $\frac{1}{2}$ can then be droped in the upper bound, giving $O(n*p)$.\\
+
+
+
+\textbf{alt-reverse-helper Analysis} \\
+
+Let A be the runtime of alt-reverse-helper, n the length of alol, and m the length of each of the elements of alol. The only initial call of alt-reverse-helper is on alol with length equal to the length of the list inputted to alt-reverse and with the length of each element equal to one.
+\[ A(n,m) = \left\{ 
+  \begin{array}{l l}
+    k_0 & \quad \text{if $n = 0$}\\
+    k_1 & \quad \text{if $n = 1$}\\
+    k_2 + DM(n, App(m)) + A(\frac{n}{2}, 2m) & \quad \text{if $n > 1$}
+  \end{array} \right.\]\\
+  
+In the above, $DM$ represents the double-map procedure, and $App$ the append procedure. append's runtime is linear in the length of the first input list, which is m, so it's just an element of $O(m)$. Given the run-time of double-map given above and the definition of big-$O$, the entire case where $n>1$ can just be rewritten as $k_2 + nm+ A(\frac{n}{2}, 2m)$. Finally, since for the sake of this problem I can assume that n is a power of 2, n will never equal 0, so the recurrence that I must consider is :
+
+\[ A(n, m) = \left\{ 
+  \begin{array}{l l}
+    k_1 & \quad \text{if $n = 1$}\\
+    k_2 + nm + A(\frac{n}{2}, 2m) & \quad \text{if $n > 1$}
+  \end{array} \right.\]\\
+
+
+
+
+To find the closed from of A, I use the following table:\\
+
+\begin{tabular}{c|c|c|c|c}
+level & I/P Size & cost per node & \# of nodes & level cost \\ \hline
+1 & $n$, $m$ & $k_2 + nm $ & 1 & $k_2 + nm$\\
+2 & $\frac{n}{2}$, $2m$ & $k_2 + nm$ & 1 & $k_2 + nm$\\
+3 & $\frac{n}{4}$, $4m$ & $k_2 + nm$ & 1 & $k_2 + nm$\\
+... & ... & ... & ... & ...\\
+$\log_2n$ & 2, $\frac{n}{2}m$ & $k_2 + nm$ & $1$ & $k_2 + nm$\\
+$(\log_2n)+1$ & 1, $nm$ & $k_1$ & $1$ & $k_1$\\
+\end{tabular}\\
+
+
+
+The closed form of the A should equal sum of the level costs:
+
+\begin{align*}
+A(n,m) &\stackrel{?}{=}
+\sum_{i=1}^{\log_2n} (k_2+nm) + k_1 \\
+&= (\log_2n)k_2 + (\log_2n)nm + k_1 \\
+\end{align*}
+
+Claim: For all natural numbers n, $A(n,m) = (\log_2n)k_2 + (\log_2n)nm + k_1$ \\
+
+Proof: The proof is by induction on n.
+
+
+  Basis: In the base case, n = 1, m = m
+  \begin{align*}
+A(1, m) &= k_1 \\
+&= 0 + 0 + k_1 \\
+&= (\log_21)k_2 + (\log_21)(1)m + k_1 \\
+\end{align*}
+
+  Step: In the inductive step, $n > 1$\\
+  Assume the induction hypothesis:
+  \begin{align*}
+A(\frac{n}{2}, 2m) &= (\log_2\frac{n}{2})k_2 + (\log_2\frac{n}{2})\frac{n}{2}2m + k_1 \\
+&= ((\log_2n)-1)k_2 + ((\log_2n)-1)nm + k_1 \\
+&= (\log_2n)k_2-k_2 + (\log_2n)nm + k_1
+\end{align*}
+
+  Now to show that $A(n,m) = (\log_2n)k_2 + (\log_2n)nm + k_1$
+  \begin{align*}
+A(n,m) &= k_2 + nm + A(\frac{n}{2}, 2m) \\
+&= k_2 + nm + (\log_2n)k_2-k_2 + (\log_2n)nm - nm + k_1  \\
+&= (\log_2n)k_2 + (\log_2n)nm + k_1
+\end{align*}
+Q.E.D.\\
+
+Now to show that $A(n,m) \in O(nm\log n)$\\
+
+
+
+\begin{align*}
+&\lim_{n \to \infty} \frac{A(n,m)}
+{nm \log_2n}\\
+&=\lim_{n \to \infty} \frac{(\log_2n)k_2 + (\log_2n)nm + k_1}
+{nm \log_2n}\\
+&=\lim_{n \to \infty} \frac{(\log_2n)k_2}
+{nm \log_2n} + \lim_{n \to \infty} \frac{(\log_2n)nm }
+{nm \log_2n} + \lim_{n \to \infty} \frac{k_1}{nm \log_2n}\\
+&= 0 + 1 + 0\\
+&= 1
+\end{align*}
+
+Therefore, $A(n,m) \in O(nm\log_2n)$. By the logarithm rule, the base of the logarithm can be dropped, thus $A(n,m) \in O(nm\log n)$. Finally, since alt-reverse-helper is defined within alt-reverse and only called in alt-reverse on a list of singleton lists, m can be assumed to always be equal to 1. Since $A(n,1) \in O(n\log n)$ and $m=1$, $A(n) \in O(n\log n)$.
+
+
+\end{answer}
+
+
+\end{document}

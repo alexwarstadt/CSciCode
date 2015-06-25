@@ -1,0 +1,466 @@
+GUIZILLA TESTING
+
+SERVER TESTING
+
+
+
+
+
+
+
+
+GET REQUESTS
+server receives good get request:
+
+
+testing rendering on page with a form:
+Action: (1) Back, (2) New URL, (3) Quit: 2
+Please enter a URL: http://localhost/Geoffs
+Parsing page...
+
+Sandwiches
+
+Enter your desired meat: _______[4]
+[Submit][5]
+
+testing page with only paragraph:
+Action: (1) Back, (2) New URL, (3) Quit: 2
+Please enter a URL: http://localhost/YoungO
+Parsing page...
+
+Welcome to Young Orchard!
+These incredible apartment-style dorms cater to all your college needs! The kitchen is fully equipped with a fridge, an oven, and storage space. You can entertain in the common room and hang on to the option of retreating to your own private space. Yep, Young Orchard has it all! Each member will have a single. Livin the dream!
+
+
+Action: (1) Back, (2) New URL, (3) Quit: 
+
+
+
+testing rendering on a page with only paraStuff":
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-5) Select Page Element: 2
+Please enter a URL: http://localhost/Dining
+Parsing page...
+
+Thank you for visiting the Dining room homePage!
+You've come to the right guide for all of your dining dreams at Brown
+Please feel free to browse between sites as you decide which place will best quench your hunger. The first place on our tour is < The Ratty> [4] which is located on Wriston Quad. Please press the link to view more on the ratty. Our tour will continue as you navigate through these pages.
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-4) Select Page Element: 
+
+
+testing rendering on links:
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-5) Select Page Element: 2
+Please enter a URL: http://localhost/Dining
+Parsing page...
+
+Thank you for visiting the Dining room homePage!
+You've come to the right guide for all of your dining dreams at Brown
+Please feel free to browse between sites as you decide which place will best quench your hunger. The first place on our tour is < The Ratty> [4] which is located on Wriston Quad. Please press the link to view more on the ratty. Our tour will continue as you navigate through these pages.
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-4) Select Page Element: 4
+Parsing page...
+
+Welcome to the Ratty!
+The Ratty is a hub of food with cereal galore, steamed veggies for days, and a hearty salad bar. Take a trip around all of the sections before committing to one part. You don't want to miss anything! 
+Be sure to check out the < Ivy Room> [4] which is located just below the Ratty, in case you're feeling particularly fancy. 
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-4) Select Page Element: 
+
+render page with a form:
+Action: (1) Back, (2) New URL, (3) Quit, (4-6) Select Page Element: 2
+Please enter a URL: http://localhost/Geoffs
+Parsing page...
+
+Sandwiches
+
+Enter your desired meat: _______[4]
+[Submit][5]
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-5) Select Page Element: 
+
+render page after submit a form:
+
+Sandwiches
+
+Enter your desired meat: _______[4]
+[Submit][5]
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-5) Select Page Element: 4
+Input value for field meat:Turkey
+You have just put Turkey in the field meat
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-5) Select Page Element: 5
+Parsing page...
+
+What kind of bread do you want on your Turkey sandwich? 
+
+Enter your desired bread: : _______[4]
+Add some toppings!: _______[5]
+[Submit][6]
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-6) Select Page Element: 
+
+
+
+
+
+bad get request:
+check when not get or post request --> Browser using badClient:
+BADclient sent 
+NOPE /YoungO HTTP/1.0
+Connection: close
+User-Agent: Sparkzilla/1.0
+
+/gpfs/main/home/kj13/course/cs018/workspace/javaproject/src $ java spark1.Browser
+Welcome to Sparkzilla.
+
+Action: (1) Back, (2) New URL, (3) Quit: 2
+Please enter a URL: http://localhost/YoungO
+Path cannot be found
+
+
+need to check when connection isn't close, 
+when content-type isn't text/html
+when HTTP isn't HTTP/1.0 or HTTP/1.1
+
+
+check when get request header is invalid --> browser using badClient:
+bad client sent:
+GET /Shop HTTP/1.0
+HAHAH: close
+User-Agent: Sparkzilla/1.0
+
+server sends:
+GET /Shop HTTP/1.0
+HAHAH: close
+User-Agent: Sparkzilla/1.0
+
+/gpfs/main/home/kj13/course/cs018/workspace/javaproject/src $ java spark1.Browser
+Welcome to Sparkzilla.
+
+Action: (1) Back, (2) New URL, (3) Quit: 2
+Please enter a URL: http://localhost/Shop
+Path cannot be found
+
+
+
+
+
+
+POST REQUESTS
+server receives good post request:
+
+render dynamic page:
+Action: (1) Back, (2) New URL, (3) Quit, (4-5) Select Page Element: 2
+Please enter a URL: http://localhost/Geoffs
+Parsing page...
+
+Sandwiches
+
+Enter your desired meat: _______[4]
+[Submit][5]
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-5) Select Page Element: 4
+Input value for field meat:turkey
+You have just put turkey in the field meat
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-5) Select Page Element: 5
+Parsing page...
+
+What kind of bread do you want on your turkey sandwich? 
+
+Enter your desired bread: : _______[4]
+Add some toppings!: _______[5]
+[Submit][6]
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-6) Select Page Element: 4
+Input value for field bread:mustard
+You have just put mustard in the field bread
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-6) Select Page Element: 5
+Input value for field toppings:oranges
+You have just put oranges in the field toppings
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-6) Select Page Element: 6
+Parsing page...
+
+You have built your sandwich!! You ordered turkey as your meat, mustard as your bread! These are your toppings:  oranges If you would like moretoppings, enter here: 
+
+: _______[4]
+[Submit][5]
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-5) Select Page Element: 
+
+render dynamic page after input field:
+
+You have built your sandwich!! You ordered turkey as your meat, mustard as your bread! These are your toppings:  oranges If you would like moretoppings, enter here: 
+
+: _______[4]
+[Submit][5]
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-5) Select Page Element: 4
+Input value for field toppings:pickles
+You have just put pickles in the field toppings
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-5) Select Page Element: 5
+Parsing page...
+
+You have built your sandwich!! You ordered turkey as your meat, wonderbread as your bread! These are your toppings:  oranges pickles If you would like moretoppings, enter here: 
+
+: _______[4]
+[Submit][5]
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-5) Select Page Element: 
+
+
+
+
+render page with single form:
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-5) Select Page Element: 2
+Please enter a URL: http://localhost/Shop
+Parsing page...
+
+Welcome to Kim's Antiques!
+Thanks for visiting us! We hope that you'll be able to find all the antiques you could imagine! Please enter your name, number, and what antique you're searching for in the form below:
+
+Enter your first name: : _______[4]
+Enter your last name: : _______[5]
+Enter your number: : _______[6]
+Enter your desired antique: : _______[7]
+[Submit][8]
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-8) Select Page Element: 
+
+
+render after submitting an empty form:
+Action: (1) Back, (2) New URL, (3) Quit: 2
+Please enter a URL: http://localhost/Shop
+Parsing page...
+
+Welcome to Kim's Antiques!
+Thanks for visiting us! We hope that you'll be able to find all the antiques you could imagine! Please enter your name, number, and what antique you're searching for in the form below:
+
+Enter your first name: : _______[4]
+Enter your last name: : _______[5]
+Enter your number: : _______[6]
+Enter your desired antique: : _______[7]
+[Submit][8]
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-8) Select Page Element: 8
+Parsing page...
+
+Great! Thanks, Mike Wazowski! we'll be searching for bench and will give you a call at 555.555.5555 when we find something we think you'll like!
+Have a great day!
+
+
+Action: (1) Back, (2) New URL, (3) Quit: 
+
+server receives bad post request:
+using ShopBadRequest, sending in a form with an invalid id
+
+
+
+bad client sent:
+POST /id:17b5179/getAntique HTTP/1.0
+Connection: close
+User-Agent: Sparkzilla/1.0
+Content-Type: application/x-www-form-urlencoded
+Content-Length: not
+
+
+server reaction: 
+Action: (1) Back, (2) New URL, (3) Quit: 2
+Please enter a URL: http://localhost/Shop
+Parsing page...
+
+Welcome to Kim's Antiques!
+Thanks for visiting us! We hope that you'll be able to find all the antiques you could imagine! Please enter your name, number, and what antique you're searching for in the form below:
+
+Enter your first name: : _______[4]
+Enter your last name: : _______[5]
+Enter your number: : _______[6]
+Enter your desired antique: : _______[7]
+[Submit][8]
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-8) Select Page Element: 4
+Input value for field first:man
+You have just put man in the field first
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-8) Select Page Element: 5
+Input value for field last:woman
+You have just put woman in the field last
+
+
+Action: (1) Back, (2) New URL, (3) Quit, (4-8) Select Page Element: 8
+Path cannot be found
+
+
+
+bad form id:
+
+home/kj13/course/cs018/workspace/javaproject/src $ java spark
+Welcome to Sparkzilla.
+
+Action: (1) Back, (2) New URL, (3) Quit: 2
+Please enter a URL: http://localhost/ShopBadRequest
+Path cannot be found
+
+server received: 
+GET /ShopBadRequest HTTP/1.0
+Connection: close
+User-Agent: Sparkzilla/1.0
+
+server sent: 
+HTTP/1.0 400 Bad Request
+Server: Sparkserver/1.0
+Connection: close
+Content-Type: text/html
+
+<html><body><p>400 Bad Request</p></body></html>
+
+
+
+
+
+
+
+
+
+CONNECT GOOD METHOD --> READDING FOREVER
+public void connect(){
+		try {
+			while (true) {
+				this.socket = ss.accept();
+				BufferedReader r = new BufferedReader(new InputStreamReader(this.socket.getInputStream()));
+				System.out.println("reader");
+
+				String header = r.readLine();
+				String received = "";
+				int k = 0;
+				while(header != null){
+					//for chrome, its never ending!!
+					received += header + "\r\n";
+					System.out.println(k);
+					k++;
+					header = r.readLine();
+				}
+				System.out.println(received);
+				String[] stuff = received.split("\r\n");
+				if (this.checkHeaders(stuff)){
+					System.out.println("valid header");
+					if (received.length() > 2 && received.substring(0, 3).equals("GET")){
+						
+						String[] toSend = new String[4];
+						for (int i = 0; i < 3; i++){
+							toSend[i] = stuff[i];
+						}
+						this.get(toSend);
+					} else if (received.length() > 4 && received.substring(0, 4).equals("POST")){
+
+						String[] toSend = new String[7];
+						for (int i = 0; i < 7; i++){
+							toSend[i] = stuff[i];
+						}
+						this.post(toSend);
+					} else {
+						this.badRequest();
+					}
+				} else {
+					this.badRequest();
+				}
+				socket.shutdownOutput();
+			}
+
+		} catch (IOException e) {
+			this.badRequest();
+		}
+	}
+
+
+
+	attempt to break read number of lines based on post or get --> chrome
+	stuff array is throwing out of bounds indexes --> not splitting properly.
+	need to add to stuff as build receieved string.
+		public void connect(){
+		try {
+			while (true) {
+				this.socket = ss.accept();
+				BufferedReader r = new BufferedReader(new InputStreamReader(this.socket.getInputStream()));
+				System.out.println("reader");
+
+				String header = r.readLine();
+				String received = "";
+				
+				if (header.substring(0, 3).equals("GET")){
+					String[] stuff = new String[4];
+					for(int i = 0; i < 4; i++){
+						stuff[i] = header;
+						if(header != null) {
+					received += header;
+					header = r.readLine();
+					
+						}
+					}
+					System.out.println(stuff[0]);
+					System.out.println(received);
+					String[] toSend = new String[4];
+					if(this.checkHeaders(stuff)) {
+					for (int i = 0; i < 3; i++){
+						toSend[i] = stuff[i];
+					}
+					this.get(toSend);
+					} else {
+						this.badRequest();
+					}
+				} else if (header.substring(0, 4).equals("POST")){
+					String[] stuff = new String[7];
+					for(int i = 0; i < 7; i++){
+						stuff[i] = header;
+						if(header != null) {
+					received += header;
+					header = r.readLine();
+						}
+					}
+					String[] toSend = new String[7];
+					if(this.checkHeaders(stuff)) {
+					for (int i = 0; i < 7; i++){
+						toSend[i] = stuff[i];
+					}
+					this.post(toSend);
+					} else {
+						this.badRequest();
+					}
+				} else {
+					this.badRequest();
+				}
+				System.out.println(received);
+				socket.shutdownOutput();
+			}
+
+		} catch (IOException e) {
+			this.badRequest();
+		}
+	}

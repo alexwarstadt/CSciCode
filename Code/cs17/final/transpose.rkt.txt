@@ -1,0 +1,65 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-intermediate-lambda-reader.ss" "lang")((modname transpose) (read-case-sensitive #t) (teachpacks ((lib "cs17.ss" "installed-teachpacks"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "cs17.ss" "installed-teachpacks")))))
+;; DATA DEFINITION
+;; matrix : a non-empty listof (non-empty listof numbers) 
+;; such that each element of the outer list is of equal length
+
+;; transpose : matrix -> matrix
+;; I/P : a matrix, amatrix
+;; O/P : the transpose of amatrix
+(define (transpose amatrix)
+  (cond
+    ((empty? amatrix) (make-error "a matrix may not be empty"))
+    ((cons? amatrix) (cons (map first amatrix)
+                           (cond
+                             ((empty? (rest (first amatrix))) empty)
+                             ((cons? (rest (first amatrix))) (transpose (map rest amatrix))))))))
+;; testing
+(check-expect (transpose (list (list 1 4) (list 2 5) (list 3 6))) (list (list 1 2 3) (list 4 5 6)))
+(check-expect (transpose (list (list 1 2 3) (list 4 5 6))) (list (list 1 4) (list 2 5) (list 3 6)))
+(check-expect (transpose (list (list 1 2 3) (list 4 5 6) (list 7 8 9))) 
+              (list (list 1 4 7) (list 2 5 8) (list 3 6 9)))
+(check-error (transpose empty) "error: a matrix may not be empty")
+
+
+
+;; tr-map : (datum -> datum) (listof datum) -> (listof datum)
+;; I/P : a one argument procedure, proc; a list of data of the type taken by proc, alod
+;; O/P : a list containing the result of applying proc to each element in alod
+(define (tr-map proc alod)
+(local ((define (-tr-map proc alod acc)
+  (cond
+    ((empty? alod) (reverse acc))
+    ((cons? alod) (-tr-map proc (rest alod) (cons (proc (first alod)) acc))))))
+  (-tr-map proc alod empty)))
+;;testing
+(check-expect (tr-map sqrt (list 1 4 9 16 25)) (list 1 2 3 4 5))
+(check-expect (tr-map (lambda (x) (string-append "un" x)) (list "intentional" "stopable" "kind"))
+                      (list "unintentional" "unstopable" "unkind"))
+(check-expect (tr-map zero? empty) empty)
+
+
+
+
+;; tr-transpose : matrix -> matrix
+;; I/P : a matrix, amatrix
+;; O/P : the transpose of amatrix
+(define (tr-transpose amatrix)
+  (local ((define -tr-transpose 
+            (lambda (amatrix acc)
+              (cond
+                ((empty? amatrix) (make-error "a matrix may not be empty"))
+                ((cons? amatrix) (cond
+                                   ((empty? (rest (first amatrix))) (reverse (cons (tr-map first amatrix) acc)))
+                                   ((cons? (rest (first amatrix))) 
+                                    (-tr-transpose (tr-map rest amatrix) (cons (tr-map first amatrix) acc)))))))))
+    (-tr-transpose amatrix empty)))
+;;testing
+(check-expect (tr-transpose (list (list 1 6) (list 2 7) (list 3 8) (list 4 9) (list 5 10))) 
+              (list (list 1 2 3 4 5) (list 6 7 8 9 10)))
+(check-expect (tr-transpose (list (list 1 2 3 4 5) (list 6 7 8 9 10))) 
+              (list (list 1 6) (list 2 7) (list 3 8) (list 4 9) (list 5 10)))
+(check-expect (tr-transpose (list (list 1 2 3) (list 4 5 6) (list 7 8 9))) 
+              (list (list 1 4 7) (list 2 5 8) (list 3 6 9)))
+(check-error (tr-transpose empty) "error: a matrix may not be empty")

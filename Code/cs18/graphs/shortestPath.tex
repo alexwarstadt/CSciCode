@@ -1,0 +1,115 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Include files, leave this alone
+\title{CS18 HW6.4 analysis}
+
+\documentclass[12pt,letterpaper]{article}
+\usepackage{amsmath}
+\usepackage{algpseudocode}
+\usepackage{fullpage}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\setlength{\parindent}{0.0in}
+\setlength{\parskip}{0.1in}
+\newcommand{\tab}{\hspace{3em}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% Edit these as appropriate
+\newcommand\course{CS 18}
+\newcommand\semester{Spring 2014}       % <-- current semester
+\newcommand\hwnum{8}                  % <-- homework number
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%This section setups the header for the document, leave this alone
+\pagestyle{fancy}
+\headheight 28pt
+\fancyhead[R]{\course, \semester\\ Homework \hwnum, \today}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newenvironment{answer}[1]{
+  \section*{Problem \hwnum.#1}
+}{\newpage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%The document begins here!
+\begin{document}
+
+\newcommand{\tabb}[1]{\hspace{.2\textwidth}\rlap{#1}}
+
+\begin{answer}{3}
+
+\textbf{Reachable} \\
+
+\begin{algorithmic}
+\tt{
+
+	\Require a DAG $(V, E)$ and a source node s
+	\Ensure a $reachable$ array of booleans that stores whether or not each $v \in V$ is reachable from $s$.
+    \Function{reachable}{$V, E, s$}
+	\State reachable $\leftarrow$ new array[size of $V$]
+	\For{v $\in$ $[V^*(0), V(s))$}
+		\State $reachable[v] \leftarrow$ false
+    \EndFor
+    \State $reachable[s] \leftarrow$ true
+    \For{v $\in$ $(V^*(s), V($size of $V-1))$}
+    	\For{\{$u|(u,v) \in E\}$}
+			\State $reachable[v] \leftarrow reachable[parent[v]]$
+        \EndFor
+    \EndFor
+\EndFunction
+}
+\end{algorithmic}
+
+\begin{verbatim}
+
+
+
+\end{verbatim}
+
+
+
+
+
+
+
+
+
+
+\textbf{Number of Paths} \\
+
+$NP_s$ denotes a function that gives the longest paths from a source node s. The summation in o/w case is the sum of the function NP applied to all the parent nodes of the inputted node. This is all the nodes u such that there as an edge starting at u and ending at v, the argument passed in. 
+
+
+
+\[ NP_s(v) = \left\{ 
+  \begin{array}{l l}
+    1 & \quad \text{if $v = s$}\\
+    0 & \quad \text{if $\neg reachable_s(v)$}\\
+    \sum_{u|(u,v)\in E} NP_s(u)& \quad \text{o/w}
+  \end{array} \right.\]\\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{answer}
+
+\end{document}

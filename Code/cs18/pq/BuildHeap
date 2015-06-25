@@ -1,0 +1,166 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Include files, leave this alone
+\title{CS18 HW6.4 analysis}
+
+\documentclass[12pt,letterpaper]{article}
+\usepackage{amsmath}
+\usepackage{algpseudocode}
+\usepackage{fullpage}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\setlength{\parindent}{0.0in}
+\setlength{\parskip}{0.1in}
+\newcommand{\tab}{\hspace{3em}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% Edit these as appropriate
+\newcommand\course{CS 18}
+\newcommand\semester{Spring 2014}       % <-- current semester
+\newcommand\hwnum{6}                  % <-- homework number
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%This section setups the header for the document, leave this alone
+\pagestyle{fancy}
+\headheight 28pt
+\fancyhead[R]{\course, \semester\\ Homework \hwnum, \today}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newenvironment{answer}[2]{
+  \section*{Problem \hwnum.#1}
+}{\newpage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%The document begins here!
+\begin{document}
+
+\newcommand{\tabb}[1]{\hspace{.2\textwidth}\rlap{#1}}
+
+\begin{answer}{4}
+
+\textbf{Insert Algorithm} \\
+
+\begin{algorithmic}
+\tt{
+\Function{insertBuild}{pairs}
+	\State input: array of KVpairs
+	\State output: min heap containing each KVpair
+
+	\State heap $\leftarrow$ new array[size of pairs]
+	\ForAll{pair $\in$ pairs}
+		\State insert pair in heap
+    \EndFor
+\EndFunction
+}
+\end{algorithmic}
+
+\begin{verbatim}
+
+
+
+\end{verbatim}
+
+
+
+
+
+
+
+
+
+
+\textbf{Sift Down Algorithm} \\
+
+\begin{algorithmic}
+\tt{
+\Function{siftDownBuild}{pairs}
+	\State input: array of KVpairs
+	\State output: min heap containing each KVpair
+
+	\State heap $\leftarrow$ new array[size of pairs]
+	\For{int i from 0 to (size of heap)/2 - 1}
+		\State\Call{siftDown}{heap[i]}
+    \EndFor
+\EndFunction
+}
+\end{algorithmic}
+
+
+
+
+\begin{verbatim}
+
+
+\end{verbatim}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\textbf{Analysis for \textsc{insertBuild}} \\
+
+\textsc{insertBuild} runs in loglinear time. For all $n$ pairs in the list inputted, it must perform an insert operation, which means it must call \textsc{siftUp} on every pair as well. In the worst case, \textsc{siftUp}'s runtime is logarithmic with respect to the size of the heap at the time it is called. For the first few inserts, the size is much smaller than $n$. However, in a balanced tree, the entire second half of the pairs will be inserted when the tree is at its full depth. Therefore, for $n/2$ pairs, this algorithm calls a function with complexity $O(\log n)$, making the total complexity of the algorithm $O(n\log n)$\\\\
+
+
+
+\textbf{Analysis for \textsc{siftDownBuild}} \\
+
+\textsc{siftDownBuild} runs in linear time. The intuition for why \textsc{siftDown} is faster that \textsc{siftUp} is that, while both do run in logarithmic time given an arbitrary slot in the tree, \textsc{siftDown} only performs at worst the number of swap operations equal to the depth below the level of the pair being \textsc{siftDown}-ed. On the other hand, \textsc{siftUp} performs the number of swaps equal to the depth above the relevant pair. This is significan because, in a balanced tree, a full half (plus one) of the pairs are located in the bottom row. While this means, for \textsc{insertBuild}, that half of the calls to \textsc{siftDown} will be maximally costly, for \textsc{siftDownBuild} half the operations will be maximally cheap. In fact, in the algorithm I suggest for \textsc{siftDownBuild}, the entire bottom row of the tree need not be traversed because there is nowhere below these nodes to \textsc{siftDown} to. Thus the algorithm starts at the first node and iterates until the last node with daughters, which is index $\frac{n}{2}-1$.\\\\
+
+Below is a slightly more formal demonstration of the runtime of \textsc{siftDownBuild}. I assume a balanced heap and define the cost of a constant time swap as 1.
+
+\begin{tabular}{c|c|c|c}
+level & \# of nodes & \# of swaps/node & \# level cost \\ \hline
+0 & 1 & $\lfloor{\log_2n}\rfloor$ & $\lfloor{\log_2n}\rfloor$ \\
+1 & 2 & $\lfloor{\log_2n}\rfloor-1$ & $2(\lfloor{\log_2n}\rfloor-1)$ \\
+2 & 4 & $\lfloor{\log_2n}\rfloor-2$ & 1 $4(\lfloor{\log_2n}\rfloor-2)$\\
+3 & 8 & $\lfloor{\log_2n}\rfloor-3$ & $8(\lfloor{\log_2n}\rfloor-3)$ \\
+... & ... & ... & ... \\
+$i$ & $2^i$ & $\lfloor{\log_2n}\rfloor-i$ & $2^i(\lfloor{\log_2n}\rfloor-i)$ \\
+... & ... & ... & ... \\
+$\lfloor{(\log_2n)}\rfloor-1$ & $\frac{n}{2}$ & 1 & $\frac{n}{2}$
+\end{tabular}
+
+The total cost of \textsc{siftDownBuild} is the sume of all the level costs. This sum can be expressed as:
+
+\begin{align*}
+&\sum_{i=0}^{(\log_2n)-1} 2^i(\lfloor{\log_2n}\rfloor-i) \\
+&= 2n-\log_2n-2
+\end{align*}
+
+\hfill sum calculated by WolframAlpha
+
+Since log terms are lower order than linear terms, the total cost is an element of $O(n)$.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{answer}
+
+\end{document}

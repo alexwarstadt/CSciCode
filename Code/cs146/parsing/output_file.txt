@@ -1,0 +1,1228 @@
+(TOP (S (NP (DT the) (NNP economy) (POS 's)) (ADVP (RB *UNK*)) (VP=3 (MD will) (VP (VB be) (VP (VBN taken) (PRT (IN from)) (NP (JJ several) (JJ *UNK*) (NNS points) (NN this) (NN week)) (, ,) (PP (IN with) (ADVP (RB *UNK*)) (NP (NP (IN on)) (NN trade) (, ,) (NN output) (, ,) (NN housing) (CC and) (NN inflation))))))))
+(TOP (NP (DT the) (ADJP (ADVP (RBS most) (JJ troublesome) (S (NP (NN report)) (MD may) (VP (VB be)))) (NP (DT the) (NNP august) (NN merchandise) (NN trade) (NN deficit)) (JJ due)) (ADJP (RP out)) (NN tomorrow)))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (INTJ (RB meanwhile)) (, ,) (NP (NNP september) (NN housing) (VBZ starts)) (, ,) (NP (JJ due) (NAC (NNP wednesday)) (, ,)) (VP (VBP are) (NP (NN thought)) (PP (TO to) (SBAR (S (VP (VB have) (VP (VBD inched)))))) (ADVP (RB upward)))))
+(TOP (S (`` ``) (INTJ (RB there)) (VP (VBZ 's) (NP (DT a) (PRN (PP (NP (NN possibility)) (IN of) (NP (DT a)))) (NN surprise) ('' '')) (NP (RB in) (DT the) (NN trade) (NN report)) (, ,) (S (VP (VBD said) (NP (NNP michael)) (ADVP (RB *UNK*)) (, ,) (NP (NN director) (QP (IN of) (NN research) (IN at) (CD *UNK*))))))))
+*IGNORE*
+(TOP (SINV (FRAG (NP=1 (NP (RBR in) (DT any) (NN event))) (, ,) (NP (NNP mr.) (JJ *UNK*) (CC and) (JJ many) (NNS others))) (VP (VBP say) (NP (DT that) (DT the) (JJ easy) (NNS gains)) (PRT (RP in)) (NP (NN narrowing))) (NP (DT the) (NNP trade) (NN gap) (S (VP (VBP have) (RB already) (VP (VBN been) (VP (VBN made))))))))
+*IGNORE*
+(TOP (S (VP (VBZ exports) (SQ (VBP are) (NP (NN thought) (TO to) (VB have)) (VP (VBN risen) (PRT (RB strongly)) (PP (IN in) (UCP (ADJP (JJ august)) (, ,) (CC but) (RB probably) (ADVP (RB not)))) (S (VP (RB enough) (TO to) (VP (VBP offset) (DT the) (VP (VB jump) (PRT (RP in)) (NP (NNS imports)) (, ,) (NP (NNS economists))))))) (S (VP (VBD said)))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (NP (DT the) (NNP consensus) (NN view) (S (VP (VBZ expects) (NP (DT a) (CD 0.4) (NP (NN %)) (NN increase)) (PRT (RP in)) (NP (DT the) (NNP september) (NN *UNK*) (S (NP (IN after) (DT a) (JJ flat) (NN reading)) (PP=4 (IN in) (NP (NNP august)))))))))
+*IGNORE*
+(TOP (S (`` ``) (PP (NP (NN auto) (NNS prices) (S (VP (VBD had) (NP (DT a) (ADJP (JJ big)) (NN effect) (SBAR (IN in) (FRAG (DT the)))) (NP (NNP *UNK*)) (, ,) (ADVP (CC and))))) (IN at) (NP (DT the) (NNP *UNK*) (NN level) (S (NP (PRP they)) (MD wo) (VP (ADVP (RB n't)))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said))))
+*IGNORE*
+(TOP (NP (NP (PRP he)) (VP (ADVP (RB also)) (VBZ says) (NP (PRP he)) (S (VP (VBZ thinks) (`` ``) (NP (NN core)) (ADVP (NN inflation)) (, ,) ('' '') (SBAR (WDT which) (S (VP (PP (FW *UNK*) (NP (DT the) (ADJP (JJ volatile)) (NN food) (CC and) (NN energy) (NNS prices))) (, ,) (VBD was) (ADJP (JJ strong)))))))) (JJ last) (NN month)))
+(TOP (S (NP (PRP he) (VBZ expects) (NN a) (NN gain)) (ADVP (IN of) (RB as) (RB much)) (VP (QP=1 (IN as) (CD 0.5) (NN %)) (PP (NP (IN in) (ADJP (JJ core)) (NN inflation)) (IN after) (NP (DT a)))) (PP (NP (NN summer)) (IN of) (NP (RB far) (JJR smaller) (NNS increases)))))
+(TOP (S (NP (NN housing)) (VBZ starts) (VP (VBP are) (ADJP (JJ expected) (TO to) (JJR *UNK*)) (NP (DT a) (ADJP (ADVP (RB bit)) (NP (ADJP (IN from)) (NNP august) (POS 's)) (JJ annual)) (QP (NN pace) (IN of) (JJ *UNK*)) (NNS units)))))
+*IGNORE*
+(TOP (S (VP (VBN *UNK*))))
+*IGNORE*
+(TOP (S (VP (LST (: --)) (VB *UNK*) (NP (NNP s.)) (S (VP (VBN *UNK*))))))
+(TOP (S (VP (VBN *UNK*))))
+(TOP (S (INTJ (WRB when)) (NP (NN research)) (VP (VBZ projects) (S (VP (VBP are) (X (VBD curtailed)) (PP (JJ due) (TO to) (NP (NN government) (VBG funding) (NNS cuts))) (, ,) (S (VP (VBP are))))) (S (NP (PRP we)) (`` ``) (VP (ADJP (VBN caught)) (PP=4 (IN with) (NP (PRP$ our) (NNS grants) (RB down)))) ('' '')))))
+(TOP (PRN (: --) (ADVP (RB *UNK*)) (UCP (ADJP (JJ *UNK*)))))
+*IGNORE*
+(TOP (NP (`` ``) (JJ capital) (NN city) ('' '') (S (VP (VBZ is) (NP (DT a) (NNP weekly) (NNP series) (IN that) (NNP *UNK*)) (NP (ADVP (RB here)) (CD three) (NNS weeks)) (PP (RB ago) (IN amid) (ADJP (JJ unprecedented))) (PP (JJ *UNK*) (IN by) (NP (PRP$ its) (ADJP (NN producer)) (, ,) (JJ *UNK*) (NN television)))))))
+(TOP (S (VP (ADVP (DT the) (RB early) (RB *UNK*)) (VBP make) (NP (PRP you)) (PP (JJ long) (IN for) (NP (DT a) (NP (QP (JJR *UNK*) (IN of) (DT the) (NN crash) (IN of))) (CD 1987))))))
+(TOP (S (VP (VB let) (VP (POS 's) (VP (VB make) (PRT (IN that)) (UCP (ADJP (JJ *UNK*)) (, ,) (CONJP (RB just) (TO to) (VB be)) (NP (JJ sure))))))))
+*IGNORE*
+(TOP (S (NP (PRP you)) (MD need) (RB n't) (VP (VB be) (PP (NP (DT a) (NNPS *UNK*) (NNPS securities) (NN lawyer)) (TO to) (S (VP (VBP realize) (DT the) (NP (NN prospectus))))) (S (VP (VBZ is) (PP (JJ guilty) (IN of) (NP (QP (RBR less) (IN than) (JJ full)))) (NP (NN disclosure)))))))
+*IGNORE*
+(TOP (S (VP (VBN turned) (NP (NP (QP (RB loose) (IN in) (CD *UNK*) (CD *UNK*))) (POS 's) (VBG trading) (NN room)) (, ,) (NP (DT the) (JJR *UNK*) (NNP dealers) (NNP do) (JJ little) (NN right)))))
+*IGNORE*
+(TOP (S (NP (IN in) (DT the) (JJ opening) (NN episode)) (NP (PRP we)) (S (VP (VBP learn) (NP (DT that) (ADJP (JJ *UNK*)) (, ,) (ADJP (DT a)) (NN junior) (NN bond)) (NP (NN trader)) (, ,) (SBAR (S (VP (VBZ has) (RB indeed) (VP (VBN pulled) (PRT (RP off)) (S (NP (DT another) (CD million) (RB before) (NN lunch)))))))))))
+(TOP (S (NP (NP (NN trouble)) (VP (VBZ is)) (, ,) (NP (PRP she))) (VBZ has) (VP (VBD lost) (NP (PRP it)) (ADVP (RB just)) (PP (IN as)) (ADVP (RB quickly)))))
+*IGNORE*
+(TOP (S (ADVP (RB little)) (NP (NN chance)) (NP (DT that) (CD *UNK*) (NN *UNK*) (VBZ is)) (VP (VBG going) (VP (TO to) (S (VP (VB recoup) (VP (NN today))))))))
+(TOP (S (NP (NNS traders)) (VP=2 (VB spend) (NP (DT the) (ADJP (NN morning) (NP (RB frantically) (VBG selling) (NNS bonds)) (, ,) (PP (NP (RBR in) (DT the) (NN belief)) (IN that) (NP (DT the)))) (NNP u.s.) (JJ monthly) (NN trade) (NP (NNS figures)) (NN will) (NN look) (NN *UNK*)))))
+(TOP (NP (JJ *UNK*) (, ,) (JJ *UNK*) (NNP columbia)))
+(TOP (S (X (DT the)) (X (NN trade)) (NP (NNS figures)) (VP (VB turn) (PRT (RP out)) (UCP (ADVP (RB well)) (, ,) (CC and) (ADVP (RB all)) (PP (NP (DT those) (ADJP (RB recently)) (JJ *UNK*) (NNS bonds) (NN spurt)) (IN in) (NP (NN price)))))))
+(TOP (S (VP (ADVP (CC so) (RB much) (IN for)) (VBG anticipating) (NP (DT the)) (PP (NP (NNP market) (IN by) (NNP a) (NN fraction)) (IN of) (NP (DT a))) (ADVP (RB second)))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (ADVP (RB but)) (NP (DT the)) (NP (NN investigation)) (VP (VBZ continues))))
+*IGNORE*
+(TOP (S (SBAR (IN in) (FRAG (NP (NN fact)))) (, ,) (ADJP (JJ few)) (VP (VB consume) (VP (ADJP=3 (JJ much)) (PP=4 (IN of) (NP (NN anything)))))))
+(TOP (S (NP (CD two)) (ADJP (NN share)) (NP (DT a) (NNP house) (RB almost)) (PP (JJ *UNK*) (IN of) (NP (NN furniture)))))
+*IGNORE*
+*IGNORE*
+(TOP (UCP (PP (IN after) (SBARQ (RB all) (, ,) (WHNP (DT this)) (SQ (VP (VBZ is) (ADVP (RB n't)) (ADJP (JJ old)) (NP (NN money)))))) (, ,) (CC but) (NP (NNP new) (UCP (NP (NN money)) (, ,) (CC and) (PP (IN in) (JJ many) (NNS cases)) (, ,) (ADJP (JJ young))) (NN money))))
+(TOP (S (VP (NP=2 (DT this) (NN attitude)) (S (VP (VBZ is) (RB clearly) (NP (NNP illustrated) (IN in) (DT the) (NNP treatment)) (SBAR (IN of) (FRAG (NP=1 (NNP max)) (, ,) (NP (NP (DT the) (VBG trading) (NN room) (POS 's)) (ADJP (JJS most)) (ADJP (JJ flamboyant)) (NN character)))))))))
+(TOP (S (VP (VBG *UNK*) (NP (ADJP (JJ enough) (PRN (, ,) (NP (PRP he)) (PP (NP (NNS lives)) (IN in) (NP (DT a) (RB *UNK*) (JJ *UNK*) (JJ converted) (NN church))) (, ,)) (S (VP (VBZ wears)))) (NN designer) (NNS clothes) (CC and) (NNS drives)) (FRAG (DT an) (INTJ (UH *UNK*)) (NP (NN car))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (RBR in) (VBG producing) (CC and) (VBG promoting)) (NP (`` ``) (NN capital) (NN city) (, ,) ('' '')) (S (VP (ADVP (RB *UNK*)) (VBZ has) (VP (VBD spent) (RB about) (VP (ADVP (ADVP (RB as)) (RB much) (RB as) (JJ *UNK*)) (ADVP (RB *UNK*)) (VBZ loses) (NP (IN on) (DT a) (JJ good) (NN day))))))))
+(TOP (NP (QP (DT another) (PDT half)) (NP (CD million)) (ADJP (ADVP (RB *UNK*)) (ADJP (VBD went) (IN for) (PP (NP (DT a) (CD *UNK*) (IN of) (CD *UNK*) (NNS advertisements)) (IN in) (NP (CD six) (JJ major) (JJ british) (NNS newspapers)))) (CC and) (ADJP (IN for) (JJ huge) (PP (JJ *UNK*) (IN in) (NP (DT the))))) (JJ london) (NN subway)))
+*IGNORE*
+(TOP (S (VP (VB *UNK*) (VP (POS 's) (NP (NP (NP (NNP u.s.) (NN marketing) (NAC (NNP agent) (, ,) (NNP donald) (NNP *UNK*) (, ,))) (VBZ is) (VBG preparing)) (TO to) (NP (VB do))) (ADVP (RB just)) (SBAR (WHNP (WDT that)))))))
+*IGNORE*
+(TOP (S (ADVP (DT the)) (NP (NNS seeds)) (ADVP (RB already)) (VP (VBP are) (PRT (RP in)) (NP (DT the)) (NP (NN script)))))
+*IGNORE*
+(TOP (S (NP (NP (NP (ADVP (CC and) (RB many) (IN in)) (DT the) (JJ young) (NN cast) (NN bear)) (VBG striking) (NNS *UNK*)) (TO to) (NP (NNP american) (NN tv) (CC and) (NN movie) (NNS *UNK*))) (VP=5 (VBN known) (PP (IN for) (JJ light) (NNS roles)))))
+(TOP (S (VP (NP=2 (DT the) (NN pressure)) (S (VP (VBZ is) (RB too) (ADJP (QP (RB much) (IN for) (CD *UNK*) (CD *UNK*))) (, ,) (SBAR (WHNP (WP who)) (FRAG (NP (RB *UNK*) (DT a) (NN security) (NN guard)))))))))
+(TOP (S (NP (PRP he)) (ADJP (JJ *UNK*)) (NP (NP (IN into) (DT a) (ADJP (JJ desktop)) (NNP computer) (NN terminal)) (, ,) (NP (WDT which)) (NP (NNP *UNK*)) (, ,) (NP (NNP covering) (NNPS *UNK*) (NNP hall) (POS 's))) (PP (JJ face) (IN with) (NP (NNP *UNK*)))))
+(TOP (FRAG (CC and) (RB all) (SBAR (DT the) (S (X (IN while)) (, ,) (X (DT the)) (NP (NNS bonds)) (VP (VBP are) (PRT (RP in)) (NP (DT the) (NNP baby) (POS 's)) (NP (NNP *UNK*)))))))
+(TOP (S (NP (PRP it)) (MD should) (VP (VB run) (FRAG (ADVP (RB forever))))))
+(TOP (S (NP=3 (NP (NNP mr.)) (PP (NP (NP (NNP *UNK*)) (VP (VBZ is)) (JJ senior) (NN correspondent)) (IN in) (NP (DT the) (NNP journal) (POS 's)))) (NP=4 (NNP london) (NNP bureau))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (SINV (ADVP (RB as)) (PP (NP (NN part)) (IN of) (NP (NP (DT the)) (NP (NN agreement)) (, ,) (ADVP (NNP axa)))) (VBD agreed) (NP (TO to)) (VP (VB invest) (VP (NP=2 ($ $) (CD 1)) (NP (NP (ADJP (QP (CD billion) (IN in) (CD *UNK*))) (NNP investments) (NNP ltd.) (, ,)) (NNP sir) (NNP james) (NNP 's) (NNP acquisition) (NN vehicle))))))
+(TOP (S (X (DT the)) (PP (NP (ADJP (JJ other)) (VBG banking) (NNS companies)) (IN in) (NP (NP (NP (DT the)) (NN group) (S (VP (VBP are) (NP (NN credit)) (NP (NNP lyonnais)) (, ,) (NP (NNP societe))))) (NNP generale) (, ,) (NNP bankamerica) (NNP corp.) (CC and) (NNP citicorp))) (, ,) (NP (PRP he)) (VP (VBD said))))
+*IGNORE*
+*IGNORE*
+(TOP (S (`` ``) (PP (NP (NP (PRP we)) (VP (MD wo) (RB n't) (VP (VB put) (X (DT any)))) (NN burden)) (IN on) (NP (NNS farmers))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said))))
+*IGNORE*
+(TOP (S (VP (DT any) (VB change) (SBAR (IN of) (NN control) (IN in) (S (VP (NNS farmers) (NP (NNS needs)) (PP (NP (NN approval)) (IN of) (NP (DT the) (NP (NN insurance) (NNS commissioners) (S (NP (IN in) (DT the) (CD nine) (NNS states)) (ADVP (WRB where)) (NP (NNS farmers)))) (CC and) (NP (PRP$ its) (VBN related) (NNS companies) (S (VP (VBP are)))) (ADJP (JJ incorporated))))))))))
+*IGNORE*
+(TOP (SINV (ADVP (DT a)) (PP (NP (NN spokesman)) (IN for) (NP (NNP b.a.t))) (VBD said) (NP (IN of) (DT the) (ADJP (ADJP (VBN amended)) (NP (NNS filings)) (SBAR (IN that) (, ,) (`` ``) (S (NP (PRP it)) (MD would) (VP (VB appear) (FRAG (WHNP (WDT that))))))) (NN nothing)) (VP (ADVP (RB *UNK*)) (VBZ has) (VP (VBN changed)))))
+*IGNORE*
+(TOP (S (FRAG (SBAR (IN that) (NN dividend) (S (VP (VBZ is) (RB almost) (NP (JJ double) (DT the) (ADJP (CD 35)) (NN %)) (SBAR (S (VP (ADVP (RB currently)) (VBN taken) (PRT (RP out)) (PP (IN of)) (PP (NP (NNS farmers)) (IN by) (NP (NNP b.a.t)))))))))) (, ,) (X (DT the)) (NP (NN spokesman)) (VP (VBD added))))
+(TOP (SINV (`` ``) (S (NP (PRP it)) (MD would) (VP (VBP have) (ADJP (JJ severe)) (NP (QP (NNS implications) (IN for) (NNS farmers))))) ('' ') (VP (NN policy)) (NP (NNS holders)) (. .)))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (NP (JJ *UNK*) (VBN built) (NN truck) (NNS sales)) (VBD were) (SBAR (S (ADJP (QP (RB down) (CD 10.4) (NN %) (TO to) (CD *UNK*) (NN *UNK*))))) (, ,) (S (NP (NNS vans) (CC and) (NN sport) (NN utility) (NNS vehicles))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (ADVP (RB overall)) (, ,) (NP (NNS sales)) (ADVP (IN of) (RB all) (RB *UNK*)) (NP (NNS vehicles)) (VP (VBD fell) (RB *UNK*) (ADVP (NN %)) (NP (IN from) (DT a) (NN year) (RB ago)))))
+(TOP (S (X (X (IN without)) (ADJP (NNP gm) (, ,) (JJ overall))) (X (NP (NNS sales))) (NP (IN for) (DT the) (ADJP (JJ other)) (NNP u.s.) (NN *UNK*)) (VP (VBD were) (ADVP (RB roughly)) (ADJP (QP (JJ flat) (IN with) (CD 1989))) (NP (NNS results)))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (NN car) (NNS sales) (S (VP (VBD fell) (PP (TO to) (NP (DT a) (RB seasonally) (JJ adjusted) (JJ annual) (NN selling)) (NP (NN rate))) (NP (QP (IN of) (CD 5.8) (CD million) (NNS vehicles))) (, ,) (ADVP (DT the))))) (ADVP (JJS lowest)) (NP (IN since) (NNP october) (CD 1987))))
+(TOP (NP (S (NP (DT the) (NNP poor) (NN performance) (S (VP (VBZ contrasts) (NP (ADVP (IN with)) (DT a) (JJ robust) (NN selling) (NN rate)) (PRT (IN of)) (ADVP (RB almost))))) (NP=2 (CD eight) (CD million))) (JJ last) (NN month)))
+(TOP (S (ADVP (RB furthermore)) (, ,) (NP (NNS dealers)) (ADVP (RB *UNK*)) (NP (ADVP (RB late)) (JJ last) (NN week)) (VP (VBD said) (NP (PRP they)) (S (VP (MD could) (RB n't) (VP (VB see)))) (NP (DT any) (ADJP (JJ immediate) (ADVP (NP (NN impact)) (RP on)) (NP (NNP sales) (IN of) (NNP friday) (POS 's))) (NN steep) (NN market) (NN decline)))))
+*IGNORE*
+(TOP (S (X (DT all)) (X (IN of)) (NP (DT the) (NNP gm) (NAC (NNS divisions) (SBAR (IN except) (NN cadillac) (S (VP (VBD showed))))) (NNP big)) (VP (VBZ declines))))
+(TOP (SINV (FRAG (NP (NNP cadillac))) (VP (VBD posted) (NP (DT a) (CD 3.2) (NP (NN %)) (NN increase)) (PP (NP (IN despite) (ADJP (JJ new)) (NN competition)) (IN from) (NP (NNP lexus))) (, ,) (NP (DT the) (NAC (VBN *UNK*) (NN luxury-car) (NNP division) (PP (IN of))) (NNP toyota) (NNP motor))) (NP (NNP corp))))
+(TOP (NP (NNP lexus) (NNS sales) (S (VP (VBD were) (RB n't) (NP (NP (UCP (ADJP (JJ available)) (: ;) (NP (DT the))) (NNPS cars)) (NNP are) (NNP imported) (CC and) (NNP toyota) (NNS reports)) (PP (NP (PRP$ their) (NNS sales) (RB only)) (IN at) (NP (NNP *UNK*)))))))
+*IGNORE*
+(TOP (SINV (FRAG (NP=1 (JJ last) (NN year)) (, ,) (NP (NNP gm))) (VP (VBD had)) (NP (DT a) (ADJP (JJ different)) (NN program) (SBAR (IN in) (NN place) (S (VP (PP (NP (DT that) (VBN continued) (NN rewarding) (NNS dealers)) (IN until) (NP (RB all) (DT the) (CD 1989) (NNS models))) (VBD had) (VP (VBN been) (VP (VBN sold)))))))))
+(TOP (S (ADVP (RB aside)) (NP (IN from) (ADJP (NNP gm) (, ,) (JJ other)) (NN car)) (NP (NNS makers)) (VP (VBD posted) (ADVP (RB generally)) (ADJP (JJ mixed)) (NP (NNS results)))))
+(TOP (S (NP (NP (NP (NNP ford)) (NNP motor) (NNP co.) (VBN had)) (NP (DT a) (CD 1.8) (NP (NN %)) (NN drop)) (NP (ADJP (IN in)) (JJ domestic) (NN car) (NNS sales)) (CC but) (NP (DT a) (CD 2.4) (NP (NN %)) (NN increase))) (PP=4 (IN in) (NP (ADJP (JJ domestic)) (NNP truck) (NNS sales)))))
+(TOP (S (VP (NNP chrysler) (NP (NNP corp.)) (S (VP (VBD had) (NP (DT a) (CD 7.5) (NP (NN %)) (NN drop)) (NP (IN in) (NN car) (NNS sales)) (, ,) (S (VP (VBG echoing) (NP (PRP$ its) (RB generally) (JJ slow) (NN performance)) (ADVP (RB all)) (S (NP (NN year))))))))))
+(TOP (NP (NP (NP (RB however)) (, ,) (ADJP (QP (NNS sales) (IN of) (NNS trucks))) (, ,) (NP (NP (VBG including)) (NP (DT the) (NNP company) (POS 's)) (JJ popular) (NNS *UNK*)) (, ,)) (ADJP (VBD rose)) (CD 4.3) (NN %)))
+(TOP (S (NP (NP (NP (NN honda) (NNP motor) (NNP co.) (POS 's)) (ADJP (QP (NNS sales) (IN of) (NNS *UNK*))) (VBN built) (NNS vehicles)) (ADJP (VBN plunged)) (CD 21.7) (NN %)) (NP=2 (QP (IN from) (DT a) (NN year) (JJR earlier)))))
+(TOP (S (NP (NN honda) (POS 's)) (NP (QP (NN plant) (IN in) (JJ *UNK*))) (PRN (, ,) (NNP ohio) (, ,)) (VP (VBD was) (NP (NP (NNP *UNK*)) (CONJP (RB up) (TO to) (VB build)) (NP (CD 1990)) (NX (NN model))) (NP (NNS accords)) (, ,) (NP (DT a) (NNP honda) (NN spokesman) (S (VP (VBD said)))))))
+(TOP (S (`` ``) (ADJP (ADVP (PRP we)) (PRN (S (VP (VBP 're)))) (RB really) (JJ confident) (S (NP (NN everything)) (MD will) (VP (NN bounce) (PRT (RP back)) (PP (TO to) (ADJP (JJ normal)))))) (, ,) ('' '') (NP (PRP he)) (VP (VBD added))))
+*IGNORE*
+(TOP (FRAG (NP (NN firm)) (S (NP (NNS prices)) (VP (VBD were)) (ADVP (RB generally)) (SBAR (IN in) (NN line) (S (NP (IN with) (DT the) (JJ tentative) (NNS prices)) (VP=6 (VBN announced))))) (NP (RBR earlier) (DT this) (NN fall))))
+*IGNORE*
+(TOP (S (NP (DT a) (: -) (NNS totals)) (VP=2 (VB include) (NP (NP (RB only) (NN vehicle) (NNS sales)) (VBN reported) (ADJP (IN in)) (NN period)))))
+(TOP (FRAG (FRAG (NP (NNP c))) (: -) (FRAG (ADJP (JJ domestic)))))
+(TOP (FRAG (NP (NNP d)) (: -) (NP (NN percentage) (NN change) (VBZ is)) (ADVP (JJR greater) (IN than) (JJ *UNK*)) (VP (NN %))))
+(TOP (S (VP (VP (VBN *UNK*)) (: -) (RB there) (VP (VBD were) (NP (CD 8) (VBG selling) (NNS days)) (NP (NP (RB in) (DT the) (JJS most) (JJ recent) (NN period)) (CC and) (NP (CD 8) (DT a)) (NX (NN year))) (ADVP (RB earlier))))))
+(TOP (S (VP (NN percentage) (NP (NP (NNS differences)) (ADJP (VBN based) (RP on)) (NN daily) (NNS sales) (NN rate)) (NP (RB rather) (IN than) (JJ sales) (NN volume)))))
+(TOP (S (VP (NNP antonio) (NP (NP (NNP l.) (NN *UNK*) (, ,) (CD 66)) (NNS years) (S (VP (ADVP (JJ old)) (, ,) (VBD was) (S (VP (VBN named)))))) (PP (NP (NN president) (CC and) (JJ chief) (NN executive) (NN officer)) (IN of) (NP (DT the) (NNP atlantic) (NN research) (NN corp.) (NN subsidiary))))))
+(TOP (NP (NP (NP (NNP mr.) (NNS *UNK*) (S (VP (VBD had)))) (VBN been) (NN a) (NN consultant)) (TO to) (NP (DT the) (NP (NN subsidiary) (POS 's)) (NN *UNK*) (NNS operations))))
+(TOP (S (NP (NNP mr.)) (RB *UNK*) (VP (VBZ succeeds) (NP (ADJP (NNP william)) (NNP h.) (NNP *UNK*) (, ,)) (X (WP who)) (PP (JJ resigned) (TO to) (NP (VB pursue) (JJ personal) (NNS interests))))))
+(TOP (NP (JJ *UNK*) (UCP (VP (VBZ makes)) (CC and) (NP (NNS repairs))) (NN jet) (NNS engines)))
+(TOP (S (NP (PRP it)) (ADVP (RB also)) (VP (VBZ has) (NP (NNS interests)) (UCP (PP (IN in) (JJ military) (NNS electronics)) (CC and) (NP (JJ *UNK*) (, ,) (JJ marine) (NN transportation) (CC and) (NN machinery)))) (PP (JJ used) (TO to) (NP (NNP make) (NN food) (CC and) (NN beverage) (NNS cans)))))
+*IGNORE*
+(TOP (S (FRAG (ADVP (RB now))) (, ,) (X (DT the)) (NP (NN network)) (VP (VBZ has) (NP (ADJP (VBN opened)) (DT a) (NN news) (NN bureau)) (PRT (RP in)) (NP (DT the) (UH *UNK*) (NN capital)))))
+(TOP (NP (UCP (VP (NNS employees) (NP (JJ held) (DT an) (JJ open) (NN house)) (PP (TO to) (ADJP (JJ *UNK*)))) (CC and) (RB even) (NP (NP (QP (JJ hung) (IN out) (DT a) (NN sign))) (: :) (`` ``) (NP (FW *UNK*) (FW *UNK*) (NN radio)) ('' '') (: --))) (NNP radio) (NNP free) (NNP europe)))
+*IGNORE*
+(TOP (S (INTJ (RB in)) (NP (NN fact)) (, ,) (NP (DT the) (NNP network) (VBZ hopes)) (ADVP (TO to) (VB set) (RP up)) (VP (NNS offices) (PP (IN in)) (NP (NNP warsaw)) (SBAR (SINV (CC and) (PP (ADVP (RB anywhere)) (RB else) (IN in) (NP (DT the) (NNP east) (NNP bloc) (IN that) (NNP will))) (VBP have) (NP (PRP it)))))))
+(TOP (S (NP (CC but) (DT the) (ADJP (JJ rapid)) (NNS changes)) (S=3 (VP (VBN brought) (PRT (RP on)) (NP (NP (IN by)) (NN glasnost) (CC and) (JJ open) (NNS borders)) (S (VP (VBP are) (ADVP (RB *UNK*)) (NP (DT the) (NNP network) (POS 's)) (PP (NP (NN life)) (IN in) (NP (JJR more))) (PP (NP (NNS ways)) (IN than) (NP (CD one)))))))))
+(TOP (S (SBAR (IN in) (FRAG (NP=1 (NN fact)) (, ,) (NP (NN radio)))) (ADVP (RB free)) (NP (NNP europe)) (VP (VBZ is) (PRT (RP in)) (NP (NN danger)) (ADVP (IN of)) (PP (NP (NN suffering)) (IN from) (NP (PRP$ its) (NX (NN success)))))))
+(TOP (S (NP (IN while) (DT the) (NN network) (RB currently)) (MD can) (VP (VBP operate) (RB freely) (ADJP (IN in)) (ADVP (RB *UNK*)) (, ,) (SBAR (SINV (ADVP (RB so)) (MD can) (NP (NNS others)))))))
+(TOP (S (INTJ (RB in)) (NP (NN addition)) (, ,) (NP (NN competition)) (ADVP (IN for)) (VP (ADVP (RB *UNK*)) (VBZ is) (VP (VBG getting) (ADVP (JJR tougher) (IN in) (JJ many)) (SBAR (NP (NNS ways)) (IN than) (S (INTJ (WRB when)) (NP (NNP broadcasting)) (ADVP (RB here)) (VP (VBD was) (RB strictly) (VP (VBN controlled)))))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (`` ``) (NP (DT the) (NNP *UNK*) (-LRB- -lcb-) (NNP radio) (-RRB- -rcb-)) (NP (NNS reporters)) (VP (VBP seem) (ADJP (ADVP (RB better)) (ADJP (JJ informed)) (CC and) (ADJP (RBR more) (JJ critical) (PP (IN about)))) (SBAR (WHPP (IN about) (WHNP (WP what))) (S (VP (VBZ 's) (NP (VBG going)) (PRT (RP on)) (ADVP (RB here)))))) (. .)))
+(TOP (S (INTJ (INTJ (UH indeed)) (, ,) (INTJ (JJ hungary))) (VP (VBZ is) (NP (RBR in) (DT the) (NN midst)) (PP (IN of) (DT a) (NNS media)) (NP (NN explosion)))))
+(TOP (S (VP (NNS boys) (PRT (RP on)) (NP (JJ busy) (NNP street) (NNPS corners) (NNS *UNK*)) (PP (NP (NNS newspapers)) (IN of) (NP (DT every) (ADJP (JJ political)) (NNPS *UNK*))))))
+(TOP (S (VP (VB *UNK*) (VP (VBP are) (S (VP (VBN packed))) (PP (NP (IN with) (DT a) (JJ *UNK*) (NN array)) (IN of) (NP (NNS magazines)))))))
+(TOP (S (VP (VP (NN radio)) (CC and) (ADVP (NN television)) (VP (VBP are)) (NP (VBG getting) (NNS *UNK*) (CC and) (NNS *UNK*)))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (CC but) (NN radio)) (RB free) (ADVP (NNP europe)) (VP (VBZ does) (RB n't) (ADJP (QP (NN plan) (TO to) (NN *UNK*))) (ADVP (RB away)))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (NP=3 (NP (DT the)) (PP (NP (NN establishment)) (IN of) (NP (NP (PRP$ its) (JJ first) (NX (NNP bureau) (IN in) (NNP warsaw) (NNP pact))) (NN territory) (S (VP (VBZ shows) (ADVP (DT the)) (PP (JJ *UNK*) (IN of) (NP (DT some))) (PP (IN of) (DT the) (NNS changes)) (PP (IN in))))))) (NP=4 (NNP eastern) (NNP europe))))
+*IGNORE*
+(TOP (S (NP (PRP it)) (NP (JJ proved) (DT a) (JJ perfect) (NN time)) (SBAR (IN for) (NN radio) (S (ADVP (RB free)) (NP (NNP europe)) (ADVP (TO to) (VB ask) (RP for)) (VP (NN permission) (ADVP (TO to) (VB set) (RP up)) (NP (NN office)))))))
+(TOP (S (`` ``) (ADVP (RB that)) (VP (VBZ is) (DT a) (NP (NNP *UNK*))) (. .)))
+*IGNORE*
+(TOP (SINV (`` ``) (S (NP (EX there))) (VP (VBD were)) (NP (DT some) (RB very) (JJ *UNK*) (NNS *UNK*)) (. .)))
+(TOP (S (VP (ADVP (DT the) (RB *UNK*) (SBAR (S (, ,) (ADVP (RB too)) (, ,) (VP (VBD had))))) (TO to) (VP (VB be) (VP (VBN *UNK*))))))
+(TOP (S (PP (IN through)) (PP (JJ much) (IN of) (NP (DT the) (VBG *UNK*) (NNP war) (NNP ii) (NN period))) (, ,) (NP (NP (NN listening)) (TO to) (NP (NNP western))) (ADVP (RB *UNK*)) (VP (VBD was) (DT a) (PP (NP (NN crime)) (IN in) (NP (NNP hungary))))))
+(TOP (S (VP (PRN (S (`` ``) (SBAR (WHADVP (WRB when)) (FRAG (NP (PRP we)) (S (VP (VB listen) (VP (TO to)))) (NP (DT the) (NNP europe) (NX (NN station))))) (, ,) (NP (PRP$ my) (NX (NN mother))) (VP (ADVP (RB still)) (VBZ gets) (ADJP (JJ nervous))) (, ,) ('' ''))) (VBZ says) (NP (DT a) (NNPS *UNK*) (NNS *UNK*)))))
+(TOP (SINV (`` ``) (S (NP (PRP she))) (VP (VBZ wants) (ADVP (TO to) (VB turn) (RP down)) (SBAR (DT the) (S (VP (NN volume) (CC and) (NN close) (NP (DT the)))))) (NP (NNP *UNK*)) (. .)))
+(TOP (S (ADVP (RB now)) (, ,) (NP (DT the) (NNP *UNK*) (NNP competition) (IN for) (NNP radio)) (ADVP (RB free)) (NP (NNP europe)) (VP (VBZ comes) (PP (IN during) (DT the) (NNS *UNK*)) (NP (NNP *UNK*)))))
+(TOP (S (VP (VBG *UNK*) (NP (NN radio)) (ADVP (RB often)) (NP (RB *UNK*) (PRP$ its) (ADJP (RBS most) (RB politically) (JJ outspoken)) (NNS *UNK*)) (PP (IN for) (ADVP (RB around)) (NP (NN midnight))))))
+*IGNORE*
+(TOP (S (NP (PRP it)) (VBZ is) (VP (ADVP (DT a)) (VB talk) (NP (NP (NN show)) (NNP with) (NN opposition) (NNS leaders) (CC and) (JJ political) (NNS experts)) (SBAR (WHNP (WP who)) (FRAG (NP (NP (VB discuss) (NNP hungary) (POS 's)) (JJ domestic) (NP (NP (NNS problems)) (RB as) (RB well) (IN as) (NP (NNP foreign))) (NNS affairs)))))))
+*IGNORE*
+(TOP (NP (DT the) (ADJP (JJ competitive)) (NN spirit) (S (VP (VBZ is) (ADVP (RB clearly)) (NP (NNPS *UNK*) (NN radio) (NNP free) (NNP europe)) (, ,) (SBAR (WDT which) (S (VP (VBZ is) (NP (VBG trying)) (ADVP (TO to) (VB beef) (RP up)) (NP (NNS programs)))))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (ADVP (RB there)) (VBZ 's) (NP (RB also) (DT a) (ADJP (QP (NN host) (IN of) (JJ new))) (NNS programs)) (, ,) (S (VP (VBG trying) (PP (TO to) (ADJP (JJ *UNK*))) (ADVP (RB up)) (PP (NP (IN on) (DT the) (JJ traditional) (NN diet)) (IN of) (NP (NNS politics))))))))
+*IGNORE*
+(TOP (S (VP (ADVP (RB there)) (VBZ 's) (NP (DT a) (UCP (PP (NP (NN program)) (IN for) (NP (NNS women))) (CC and) (NP (DT a))) (NNP science)) (S (VP (VB show))))))
+(TOP (SINV (CC and) (PP (TO to) (SBAR (S (VP (VBP attract) (ADJP (JJR younger)) (NP (NNP *UNK*) (, ,) (NNP radio) (NNP free) (NNP europe)))))) (VBP *UNK*) (NP (DT the) (ADJP (JJS latest)) (NNP in) (JJ western) (NN rock) (NNS groups))))
+(TOP (S (NP (NP (DT the) (NNP pet) (NNP shop) (NNPS boys) (NNP are) (NNP big)) (DT this) (NN year)) (PP=4 (IN in) (NP (NNP *UNK*)))))
+(TOP (S (NP (`` ``) (NP (NP (PRP we)) (NP (VBP are) (NNP *UNK*)) (QP (IN for) (PDT all) (DT the) (NN news))) (, ,) ('' '') (VP (VBZ says) (ADVP (NNP mr.)) (VP (VBN *UNK*))) (, ,)) (NP=2 (DT the) (NN student))))
+(TOP (NP (`` ``) (DT every) (NN moment) (S (NP (NP (PRP we)) (VP (VBP want)) (X (TO to))) (VP=2 (VB know) (NP (NNP everything) (IN about) (DT the) (NNP world))))))
+(TOP (S (NP=3 (NP (DT the) (NNP disease) (NN metaphor) (S (VP (VBZ comes) (PP (TO to) (NP (NN mind)) (PP (, ,) (IN of) (NP (NN course)) (, ,))) (ADVP (RB not) (IN as) (DT an) (JJ *UNK*)) (PP (IN on) (DT the) (NNS advocates))))) (PP (IN of))) (NP=4 (NNP national) (NNP service))))
+*IGNORE*
+*IGNORE*
+(TOP (SINV (FRAG (WHADVP (WRB why))) (VP (VBZ does)) (NP (DT the) (NNP *UNK*) (NN virus) (S (VP (VB keep) (VP (VBG coming) (VP (VB back))))))))
+(TOP (S (INTJ (RB perhaps)) (NP (PRP it)) (VP (VBZ is) (RB because) (VP (ADVP (RB *UNK*)) (VBN *UNK*) (NP (JJ *UNK*) (DT both) (JJ military) (NN experience)) (NP (CC and) (DT the) (JJ social) (NN *UNK*))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (NN choice) (PRT (IN of)) (PP (NP (DT the) (ADJP (NN volunteer) (JJ military) (PP (IN in) (DT the) (NNS 1970s))) (ADJP (ADJP (VBN seemed)) (TO to) (ADJP (JJ *UNK*))) (JJ national) (NN service)) (IN as) (NP (RB much) (IN as) (DT the) (NN draft))))))
+(TOP (S (SBAR (S (CC but) (NP (NP (DT the)) (NN virus) (S (VP (VBD was)))) (VP (VBD kept) (PP (NP (QP (RB alive) (IN in) (CD *UNK*) (NNS departments))) (IN until) (NP (DT a))) (PP (JJ couple) (IN of) (NP (NNS years))) (ADVP (RB ago))) (, ,))) (ADVP (WRB when)) (NP (PRP it)) (VP (ADVP (RB again)) (VBD was) (S (VP (VB let) (VP (VB loose)))))))
+*IGNORE*
+(TOP (FRAG (WHADVP (WRB why)) (VP (RB not) (S (VP (VB keep) (CC and) (RB even) (VB expand) (NP (NNP the) (NNS loans) (CC and) (NNS grants)))) (, ,) (SBAR (DT the) (S (VP (VBZ advocates) (VP (VBD reasoned)) (, ,) (CC but) (VP (VBP require) (RB some) (VP (VB form) (IN of) (NP (NN service)) (PP (IN from) (DT each) (NNS *UNK*))))))))))
+(TOP (S (VP (NN military) (NP (NN service)) (, ,) (S (ADVP (RB moreover)) (, ,) (VP=3 (MD could) (VP (VB be) (FRAG (DT a) (INTJ (UH *UNK*)) (NP (NN option)))))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (NP (DT a)) (NN provision) (VBG allowing) (NNS grants)) (X (TO to)) (VP (VB be) (VP (VBN applied) (VP (TO to) (ADVP (RB *UNK*)) (VP (NP (NNS purchases)) (VBD was) (NP (NNP added)) (PP (TO to) (NP (NN appeal)) (PP (TO to) (SBAR (ADVP (DT those)) (WHNP (WP who)) (S (VP (VBN had) (VP (VBD had))))))) (PP (JJ enough) (IN of) (NP (NNP *UNK*)))))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (PRP they)) (MD would) (VP (VB be) (VP (VBG doing) (PRT (RB better)) (NP (RB financially) (IN under) (JJ national) (NN service)) (PP (IN than) (JJ many) (NNS taxpayers)) (NP (VBG working) (UCP (PP (NP (IN at) (DT the) (JJ same) (NNS kinds)) (IN of) (NP (NNS jobs))) (CC and) (RB perhaps) (ADJP (JJ supporting))) (NNS families))))))
+*IGNORE*
+(TOP (S (ADVP (RB clearly)) (, ,) (NP (DT a) (ADJP (JJ new)) (NX (NN rationale))) (ADVP (IN for)) (NP (NNP national)) (VP (VB service) (VP (VBD had) (PP (TO to) (SBAR (S (VP (VB be))))) (ADVP (RB *UNK*)) (ADVP (RB up))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (DT the) (VB *UNK*) (SBAR (IN of) (NN *UNK*) (S (VP (VBZ is) (PRT (RP in)) (NP (DT the)) (NP (NNP air))))))))
+(TOP (S (VP (VBZ is) (NP (DT the) (ADJP (JJ voluntary)) (NN sector) (RB so)) (PP (JJ weak) (IN that) (NP (PRP it))) (NP (NP (NNS needs)) (ADJP (JJ such)) (ADJP (JJ unsolicited)) (NN assistance)))))
+(TOP (S (X (IN on)) (PP (NP=2 (DT the) (JJ contrary))) (, ,) (NP (PRP it)) (VP (VBZ is) (ADVP (RB as)) (ADJP (JJ robust)) (SBAR (IN as) (FRAG (ADVP (RB ever)))))))
+*IGNORE*
+(TOP (SINV (FRAG (SBAR (RB even) (IN if) (NN government) (S (VP (VBZ does))))) (VP (VBP see) (ADJP (JJ various)) (NP (NP (`` ``) (NN *UNK*) (NNS needs) (, ,) ('' '')) (JJ national) (NN service) (S (VP (VBZ is) (ADVP (RB not)) (NP (DT the)) (NP (NN way) (TO to) (VB meet)))))) (NP (PRP them))))
+*IGNORE*
+(TOP (S (ADVP (CC or)) (NP (PRP we)) (NP (NN might)) (VP (VBP provide) (NP (DT a) (NNP tax) (NNP credit) (IN for) (NNP working)) (FRAG (NP (NNS students))))))
+(TOP (S (FRAG (WHNP (WP what))) (NP (PRP we)) (VP (VBP do) (RB not) (VP (VB need) (VP (TO to) (S (VP (VB do) (VP (VBZ is) (NP (NN start) (DT a) (NN war)) (PRN (, ,) (CC and) (ADVP (RB then)) (NP (NN try) (TO to) (VB justify))) (PP (NP (PRP it)) (IN by) (NP (ADJP (VBG creating)) (DT a) (JJ *UNK*) (NN bill)))))))))))
+(TOP (S (VP (MD will) (NP (NNP national)) (S (ADVP (NN service)) (, ,) (NP (NP (IN in) (DT the) (NN current) (RB highly)) (NN *UNK*) (CC and) (JJ *UNK*) (NN form) (NN *UNK*)) (ADVP (RB enough)) (NP (NN appeal) (TO to) (VB get)) (VP (VBN adopted))))))
+(TOP (SBAR (RB not) (FRAG (ADVP (RB necessarily)))))
+(TOP (S (VP (NNS polls) (NP (NP (NN show)) (JJ wide) (, ,) (JJ *UNK*) (NN support)) (PP (NP (IN for) (DT some) (JJ vague) (NN concept)) (IN of) (NP (NP (NN service)) (, ,) (CC but) (PP (NP (DT the) (NNP bill) (RB now)) (IN under) (NP (NN discussion) (VBZ lacks))) (NP (DT any) (VBN *UNK*) (ADJP (JJ public)) (NN backing)))))))
+*IGNORE*
+(TOP (S (ADVP (RB there)) (VP (VBZ 's) (RB no) (VP (VBP need))) (PP (IN for) (JJ such) (NNS concessions))))
+(TOP (S (NP (DT the) (ADJP (JJ omnibus)) (NN can) (S (VP (VB be) (VP (VBN defeated) (, ,) (NP (DT the) (ADJP (NN virus)) (ADJP (VBN controlled) (, ,) (CC and) (JJ real)) (NN service)))))) (VP=6 (VBN protected))))
+(TOP (S (NP (NNP mr.)) (RB *UNK*) (VP (VBZ is) (DT a) (PP (JJ fellow) (IN at) (NP (DT the) (NNPS *UNK*) (NNP hudson) (NN institute))))))
+(TOP (S (VP (NP=2 (DT this) (NN article)) (S (VP (VBZ is) (VP (VBN adapted) (IN from) (PP (NP (NNS remarks)) (IN at) (NP (DT a) (NNP *UNK*) (NNP institution) (NNP conference) (NNP on) (JJ national) (NN service)))) (, ,) (SBAR (WHPP (IN in) (WHNP (WDT which))) (S (NP (NNP mr.)) (RB *UNK*) (ADVP (RB also)) (VP (VBD participated)))))))))
+*IGNORE*
+(TOP (SINV (FRAG (NP (PRP he))) (VP (VBZ succeeds) (NP (PRP$ his)) (NP (NNP father) (, ,) (NNP philip) (NNP t.) (NNP *UNK*)) (, ,) (SBAR (WHNP (WP who)) (VP (VBD founded)))) (NP (DT the) (UCP (NP (NN company)) (CC and) (VP (VBZ remains))) (NNP chairman))))
+*IGNORE*
+*IGNORE*
+(TOP (NP (NP (NNP american) (NNS physicians) (S (VP (VBD said) (NP (PRP it)) (ADVP (RB also)) (S (VP (VBD replaced) (NP (CD four) (NNP texas) (NNP american) (NNS representatives)) (PRT (RP on)) (ADVP (JJ prime))))))) (POS 's) (VBG *UNK*) (NN board)))
+(TOP (SINV (FRAG (ADJP (JJ american))) (VP (VBZ provides)) (NP (NP (DT a) (QP (NN variety) (IN of) (JJ financial)) (NNPS services)) (TO to) (NP (NNS doctors) (CC and) (NNPS hospitals)))))
+(TOP (NP (NP (NP (NP (NNP prime)) (, ,) (ADJP (ADJP (VBN based)) (IN in) (ADJP (JJ *UNK*))) (, ,) (NP (NNP n.j.)) (, ,)) (VBZ provides) (ADJP (NN management)) (NNS services)) (TO to) (NP (JJ *UNK*) (NNP rehabilitation) (NNP *UNK*) (CC and) (NNP diagnostic) (NNP *UNK*) (NNS centers))))
+(TOP (S (SBAR (WHPP (IN for) (WHNP (DT the))) (S (VP (ADVP (NN year)) (VBN ended) (NP (NNP june)) (NP (CD 30))))) (, ,) (ADJP (JJ prime)) (VP (VBD had) (DT a) (ADJP (JJ net)) (PP (NP (NN loss)) (IN of) (NP ($ $) (QP (CD 3)))) (NP (QP (CD million) (IN on) (NP (NP (NNS sales)) (ADJP (IN of)) ($ $) (CD 13.8)) (CD million))))))
+*IGNORE*
+(TOP (NP (NP (DT the) (NNP state) (NN agency) (S (NP (ADVP (VBD said)) (DT the) (JJS latest) (NN revision) (NN left)) (NP=2 (DT the) (NN growth)))) (NN rate) (ADJP (IN for) (DT the) (JJ first-quarter) (PP (VBN compared) (IN with) (NP (NP (DT the)) (JJ previous) (CD three) (NNS months))) (PP (JJ unchanged) (IN at) (NP (CD 1.3)))) (NN %)))
+*IGNORE*
+(TOP (S (VP (ADVP (RB that)) (MD would) (VP (VB be) (PRT (RP down)) (PP (IN from)) (NP (DT the) (CD 3.8) (NP (NN %)) (NN rise)) (PP (VBN posted) (IN in) (NP (CD 1988)))))))
+(TOP (NP (DT the) (ADJP (JJ canadian)) (NN government) (S (VP (VBD announced) (NP (DT a) (ADJP (NNP new) (, ,) (JJ 12-year)) (NNP canada) (NNP savings) (NN bond) (NN issue)) (SBAR (DT that) (S (VP (MD will) (NP (NN yield)) (S (NP=3 (NNS investors)) (NP=4 (CD 10.5) (NN %)))))) (NP (IN in) (DT the) (JJ first) (NN year))))))
+*IGNORE*
+(TOP (NP (NP (NP (NNP canada) (NNPS savings) (NNS bonds)) (VP (VBP are)) (JJ major) (NN government)) (NNS instruments) (SBAR (IN for) (NN meeting) (S (NP (PRP$ its) (JJ financial) (NX (NNS requirements)))))))
+(TOP (S (NP (NP (DT the)) (NN government) (S (VP (VBZ has) (RB about) (VP (VBZ *UNK*) (NP (CD billion) (JJ canadian) (NX (NNS dollars))) (PRN (-LRB- -lrb-) (VP (NP=2 ($ us$) (CD *UNK*)) (NP (CD billion))) (-RRB- -rrb-)) (PP (IN of) (JJ such) (NNS bonds)))))) (ADVP (RB currently)) (ADJP (JJ outstanding))))
+(TOP (S (ADVP (RB only)) (NP (NNP canadian)) (NP (NNS residents)) (VP (VBP are) (ADJP (VBN permitted)) (PP (TO to) (NP (JJ buy) (NNP canada) (NNP savings) (NNS bonds)) (, ,)) (SBAR (WDT which) (FRAG (NP (NNP may)) (S (VP (VB be) (VP (VBN redeemed)))) (NP (DT any) (NNP time) (IN at) (NNP face) (NNP value)))))))
+(TOP (S (VP (NP=3 (DT the) (NNS bonds)) (PP (NP (VB go)) (IN on) (NP (NN sale) (NNP oct.) (CD 19))))))
+(TOP (SINV (NP (DT the) (ADJP (QP (NN debate) (IN over) (JJ national))) (NN service) (S (VP (VBZ has)))) (VP=3 (VBN begun) (ADVP (RB again)))))
+*IGNORE*
+(TOP (S (ADVP (IN at)) (NP (JJS least)) (NP (CD 10) (NP (NNS bills) (VBG proposing) (NN one)) (CC or) (NP (DT another) (NNP national) (NN program) (S (VP (VBD were))))) (VP (VBN introduced) (PRT (RP in)) (S (NP (NNP congress)) (NP=2 (DT this) (NN spring))))))
+*IGNORE*
+(TOP (S (NP (PRP it)) (MD might) (VP (ADVP (RB well)) (VB win) (NP (NNP senate)) (NP (NN passage)))))
+(TOP (S (NP (NN president)) (NP (NNP bush)) (PRN (S (VP (VBZ has) (S (VP (VBN outlined) (NP (PRP$ his) (JJ own) (NN youth) (VBG entering) (NN service)) (PRN (-LRB- -lrb-) (INTJ (UH yes)) (-RRB- -rrb-)) (SBAR (S (VP (VBP plan)))))) (, ,) (PP (IN though) (PRP$ its) (NNS details))))) (VP (VB remain) (VP (TO to) (S (VP (VB be) (VP (VBN specified))))))))
+(TOP (SINV (FRAG (WHNP (WP what))) (VP (VBZ is) (NP (NN one) (TO to) (VB think)) (PRT (IN of)) (ADVP (RB all))) (NP (DT this))))
+(TOP (S (FRAG (UCP (NNP doctrine) (CC and) (JJ special))) (NP (NNS interests)) (VP (VBP govern) (DT some) (NP (NNS responses)))))
+(TOP (S (VP (NP=3 (NNS people)) (PP (JJ eager) (TO to) (NP (NP (VBP have) (NN youth)) (NP (`` ``) (NP (NP (NN pay) (PRP$ their) (NN *UNK*)) (TO to) (NP (NN society))) ('' '') (NP (NN favor) (NN service) (NNS proposals) (: --))) (JJ *UNK*) (JJ mandatory) (NNS ones))))))
+(TOP (S (VP (ADVP (RB so)) (VB do) (NP (DT those)) (SBAR (WHNP (WP who)) (S (VP (VBP seek) (PP (NP (DT a) (`` ``) (JJR *UNK*) (NN concept)) (IN of) (NP (NNP *UNK*))) (, ,) ('' '') (ADVP (DT a)))) (PP (NP (NP (NN concept)) (VBG imposing) (JJ stern) (NNS obligations)) (IN as) (NP (QP (RB well) (IN as) (CD *UNK*) (NNS rights))))))))
+(TOP (S (INTJ (RB then)) (NP (EX there)) (VP (VBP are) (ADJP (JJ *UNK*)) (NP (NNS opponents)))))
+(TOP (SINV (PP (TO to) (NP (JJ *UNK*) (, ,) (JJ mandatory) (NN service) (NNS is)) (NP (DT an) (NNP *UNK*) (CC and) (NNP voluntary) (NNS systems))) (VBP are) (NP (NNP *UNK*)) (VP (VBZ uses) (PRT (IN of)) (NP (NN tax)) (NP (NN money)))))
+(TOP (S (NP (QP (JJ *UNK*) (IN of) (DT the) (NN market))) (NP (NN question) (DT the) (NN value)) (S (NP (IN of) (DT the) (ADJP (NN work)) (JJ national) (NN service)) (MD would) (VP (VB perform)))))
+(TOP (S (X (IN if)) (PP (NP (NP (DT the)) (NN market) (S (VP (MD wo) (RB n't) (VP (VB pay))))) (IN for) (NP (PRP it))) (, ,) (NP (PRP they)) (VP (VB argue) (, ,) (FRAG (NP (PRP it)) (S (VP (MD ca) (RB n't) (VP (VB be)))) (NP (NN worth) (PRP$ its) (NN cost))))))
+*IGNORE*
+(TOP (SBAR (WHPP (IN but) (WHNP (WP what))) (S (VP (ADVP (ADVP (RB about)) (PP (DT those) (IN of) (NP (PRP us))) (SBAR (WP$ whose) (S (VP (VBZ views))))) (VBP are) (RB not) (ADJP (JJ *UNK*)) (PP (IN by) (UCP (NP (NN formula)) (CC or) (ADJP (JJ *UNK*))))))))
+(TOP (FRAG (WHADVP (WRB how)) (VP (MD should) (NP (PRP we)) (S (VP (VBP think) (RB about) (ADVP (JJ national)) (VP (VB service)))))))
+(TOP (S (VP (VB let) (VP (POS 's) (VP (VB begin) (PRT (RP by)) (NP (ADJP (VBG recognizing)) (DT a) (JJ main) (NN source)) (SBAR (IN of) (FRAG (NP (NN confusion)) (: --) (NP (`` ``) (JJ national) (NN service) ('' '') (S (VP (VBZ has)))) (ADVP (RB no)) (VP (VBN agreed) (VP (VBG meaning))))))))))
+(TOP (S (VP (MD would) (X (NN service)) (VP (VB be) (UCP (NNP voluntary) (CC or) (JJ *UNK*))))))
+(TOP (UCP (NNP short) (CC or) (JJ long)))
+(TOP (UCP (NNP *UNK*) (CC or) (JJ full-time)))
+(TOP (UCP (VP (VBN paid)) (CC or) (ADJP (JJ unpaid))))
+(TOP (S (VP (MD would) (ADVP (NP (NNS participants)) (RB live) (PP (IN at))) (ADVP (RB home)) (VP (CC and) (VP (VB work) (UCP (ADVP (RB nearby)) (CC or) (PP (JJ live) (IN in) (NP (NNP *UNK*))))) (CC and) (VP (VB work)) (PP (IN on) (JJ public) (NNS *UNK*))))))
+(TOP (SBAR (WHNP (WP what) (NNS kinds)) (IN of) (S (VP (VB work) (VP (MD would) (NP (PRP they)) (S (VP (VBP do))))))))
+(TOP (X (X (WP what)) (S (VP (VBZ does) (`` ``) (ADJP (JJ national)) ('' '') (S (VP (VB mean)))))))
+(TOP (S (VP (MD would) (DT the) (VP (VB program) (VP (VB be) (VP (VBN run) (NP (IN by) (DT the) (JJ federal) (NN government)) (, ,) (NP (UCP (PP (IN by) (JJ local) (NNS governments)) (, ,) (CC or) (SBAR (IN by) (FRAG (ADJP (JJ private))))) (JJ voluntary) (NNS organizations))))))))
+(TOP (SBAR (ADVP (CC and)) (WHNP (WP who)) (S (VP (MD would) (SBAR (S (VP (VB serve))))))))
+(TOP (NP (NP (RB only) (NNPS males)) (, ,) (NP (RB as) (IN with) (DT the) (NN draft)) (, ,) (CC or) (ADVP (DT both)) (NP (NNP *UNK*))))
+(TOP (S (VP (NN youth) (ADVP (ADVP (RB only)) (CC or) (ADVP (RB all))) (NP (NNS ages)))))
+(TOP (S (VP (NN middle-class) (NP (NP (NNS people)) (, ,) (CC or) (ADVP (JJ poor)) (NP (NNS people)) (, ,)) (NP (CC or) (DT a) (JJ genuine) (NN *UNK*)))))
+(TOP (UCP (ADVP (RB many)) (CC or) (ADJP (JJ few))))
+(TOP (S (NP (DT those) (VP (VBP are) (RB not) (VP (VB *UNK*) (UCP (NP (NNS questions)) (, ,) (CC and) (FRAG (DT the) (INTJ (VB label)) (NP (`` ``) (JJ national) (NN service) ('' '') (NNS answers)))))) (NN none)) (PP=4 (IN of) (NP (PRP them)))))
+(TOP (S (SBAR (ADVP (RB then)) (WHADVP (WRB how)) (S (VP (MD should) (NP (PRP we)) (S (VP (VBP think)))))) (ADVP (RB about)) (NP (NNP national)) (VP (VB service))))
+(TOP (S (NP (NP (RB as) (DT a) (VBG starting) (NN point)) (PRN (, ,) (RB here) (NP (NNP are) (CD five) (NNS *UNK*))) (: :) (NP (CD 1)) (. .)) (VP=2 (VB consider) (NP (DT the) (NNP *UNK*) (PRN (, ,) (RB not) (NP (DT the))) (NN name)))))
+(TOP (S (VP (VBP ignore) (NP (`` ``) (JJ national) (NN service) ('' '') (S (NP (RBR in) (DT the) (NN *UNK*)))) (: ;) (NP (VB consider) (JJ specific) (NNS proposals)))))
+(TOP (S (NP (PRP they)) (MD will) (VP (VBP differ) (PRT (RP in)) (NP (JJ crucial)) (NP (NNS ways)))))
+(TOP (S (FRAG (ADVP (LS 2)) (. .)) (NP (`` ``) (NNP service) ('' '') (NNP should)) (VP (VB be) (VP (VB service)))))
+(TOP (S (ADVP (RB as)) (S (VP (ADVP (RB commonly)) (VBN understood) (, ,) (S (VP (VB service) (VP (VBZ implies)))))) (VP (VB sacrifice))))
+(TOP (S (NP (PRP it)) (VBZ involves) (VP (VBG accepting) (VP (VP (VB risk)) (, ,) (CC or) (VP (VBG giving) (PRT (RP up)) (SBAR (S (NP (NN income))))) (, ,) (CC or) (VP (VBG deferring) (VP (NP=2 (DT a) (NN career))))))))
+(TOP (S (NP (PRP it)) (S=3 (VP (VBZ follows) (ADVP (RB that)) (ADJP (QP (NNS proposals) (IN like) (NNS *UNK*))) (, ,) (SBAR (WP$ whose) (WHNP (NNS benefits)) (S (VP (TO to) (ADVP (RB *UNK*)) (VP (VBP are) (ADJP (JJ worth)) (NP (DT some) ($ $) (CD *UNK*) (NN a) (NN year)))))) (, ,) (SBAR (S (VP (VBP do) (RB not) (VP (VB qualify)))))))))
+*IGNORE*
+(TOP (S (ADVP (RB but)) (NP (DT the)) (NP (NNS earnings)) (VP (VB exceed) (VP (QP=1 (IN by) (CD 20) (NN %)) (PP (NP (DT the) (NAC (JJ average) (NNP income) (PP (IN of))) (JJ young) (JJ high-school) (NNS graduates)) (IN with) (NP (JJ full-time) (NX (NNS jobs))))))))
+(TOP (FRAG (WHADVP (WRB why)) (PP (JJ call) (IN that) (NP (NN service)))))
+(TOP (NP (NP (CD 3) (. .)) (NN encouragement) (S (VP (VBZ is) (ADJP (JJ fine)) (: ;) (S (VP (ADVP (RB *UNK*)) (VBZ is) (ADVP (RB not))))))))
+(TOP (S (VP (VBN compelled) (VP (ADVP (NN service)) (VBZ is) (ADJP (JJ unconstitutional))))))
+(TOP (S (NP (PRP it)) (VBZ is) (VP (RB also) (VBN *UNK*) (CC and) (VBN *UNK*))))
+(TOP (S (VP (PRN (-LRB- -lrb-) (UCP (ADJP (NP (WP who))))) (MD will) (VP (VB throw) (PP (NP (JJ several) (CD hundred) (CD thousand) (NNS *UNK*)) (IN in) (NP (NN jail) (DT each) (NN year))) (. ?)))))
+(TOP (S (VP (CC but) (VP (ADVP (RB through)) (NN tax) (NP (NN policy))) (CC and) (VP (PP (IN in) (JJ other) (NNS ways)) (NP=2 (DT the) (JJ federal))) (PP (NP (NP (NN government)) (VBZ encourages) (ADJP (JJ many)) (NNS kinds)) (IN of) (NP (NN behavior))))))
+(TOP (S (NP (PRP it)) (MD should) (RB also) (VP (VBP encourage) (NP (NN service)) (: --) (PP (JJ *UNK*) (IN by) (NP (DT all) (NP (NNS classes)) (CC and) (NP (DT all)) (NNS ages))))))
+*IGNORE*
+(TOP (NP (NP (CD 4) (. .)) (JJ good) (NNS programs) (S (VP (VBP are) (RB not) (VP (JJ cheap))))))
+*IGNORE*
+*IGNORE*
+(TOP (NP (JJ good) (NNP service) (NNS programs) (S (VP (VBP require) (NP (NNS *UNK*) (, ,) (NNS *UNK*) (, ,) (NN training) (CC and) (NN supervision)) (: --) (NP (RB all) (IN of) (JJ high) (NN quality))))))
+(TOP (S (NP (PRP they)) (VP=2 (VB involve) (NP (NP (NNP *UNK*)) (TO to) (NP (NNS participants))))))
+*IGNORE*
+(TOP (S (INTJ (UH *UNK*)) (NP (NNS programs)) (VP (VBP are) (ADJP (ADJP (JJR cheaper)) (, ,) (CC but) (ADJP (JJ good)) (ADVP (NNS ones))) (ADVP (RB still)) (PP (ADVP (VB come)) (TO to) (NP (DT some) ($ $) (CD 10,000) (NN a) (NN year))))))
+(TOP (S (VP (VBP are) (NP (PRP they)) (FRAG (WHPP (IN worth) (WHNP (WDT that)))))))
+(TOP (S (ADVP (RB *UNK*)) (VP (VBP suggest) (PP (IN that) (JJ good) (NNS ones)) (VP (VBP are))) (: --) (RB especially) (S (VP (ADVP (ADVP (RB so)) (PP (IN if) (DT the) (NNS effects)) (SBAR (IN on) (FRAG (NP (NNS participants))))) (VBP are) (VP (VBN counted))))))
+(TOP (SINV (FRAG (NP (ADVP (RB but)) (DT the) (NNS calculations))) (VP (VBP are)) (NP (NNP *UNK*))))
+(TOP (S (NP (NP (CD 5) (. .)) (JJ *UNK*) (NN youth) (S (VP (VBP are) (DT a) (ADJP (JJ special))))) (NP=2 (NN concern))))
+(TOP (S (VP (VBP are) (NP (JJ such) (NX (NNS expenditures))) (NP (NNP *UNK*)) (, ,) (ADVP (RB then)))))
+(TOP (SBARQ (RB yes) (, ,) (WHNP (IN if)) (SQ (VP (VBN targeted)))))
+*IGNORE*
+*IGNORE*
+(TOP (S (INTJ (UH *UNK*)) (NP (NN youth)) (VP (VBP do) (RB n't) (VP (VBP have) (DT those) (NP (NNS opportunities))))))
+(TOP (S (NP (PRP they)) (S=3 (VP (VBP are) (RB not) (VP (ADJP=3 (JJ *UNK*)) (PP=4 (IN in) (NP (ADJP (JJ high)) (NN school) (CC or) (NN college))))))))
+(TOP (S (VP (ADVP (PRP they)) (VBP are) (VP (RB unlikely) (TO to) (VP (VB be) (VP (VBN employed)))))))
+(TOP (S (ADVP (CC and)) (NP (NP (PRP they)) (VP (VB have) (VP (VBN grown) (PRT (RP up)) (ADVP (IN in)) (NP (VBG *UNK*) (JJ grim) (NNS circumstances)) (, ,) (PP (IN among)))) (NN family)) (NP (NNS structures)) (VP (VBG breaking) (ADVP (RB down)) (, ,) (PP (VBN surrounded) (IN by) (NP (JJ *UNK*) (JJ *UNK*) (CC and) (JJ bleak) (NNS prospects))))))
+(TOP (FRAG (CC but) (RB many) (SBAR (IN of) (SINV (NP (PRP them)) (VP=3 (MD can) (VP (VB be) (VP (ADVP (RB quite)) (ADVP (RB profoundly)) (VBD *UNK*) (NP (IN by) (ADJP (JJ productive) (CC and) (VBN disciplined)) (NN service)))))))))
+(TOP (S (VP (ADVP (RB some)) (MD wo) (RB n't) (VP (VB accept) (ADVP (DT the)) (NP (NN discipline)) (: ;) (PP (NP (NP (NNS others)) (NN drop) (RP out)) (IN for) (NP (JJ other) (NX (NNS reasons))))))))
+(TOP (SINV (FRAG (CC but) (RB some) (SBAR (WHNP (WP whom)) (FRAG (NP (NN nothing))))) (VP (ADVP (RB else)) (VBZ is) (VP (VBG reaching) (VP (VBP are)))) (NP (NNP *UNK*))))
+(TOP (S (VP (VBG learning) (NP (NNS skills)) (, ,) (S (VP (VBG producing) (NP (NN something)) (ADVP (RB *UNK*)) (, ,) (S (VP (VBG feeling) (S (ADVP (JJ useful)) (, ,) (NP (PRP they)) (VP (VBP are) (RB no) (ADVP (RB longer)) (ADJP (JJ dependent))) (: --)) (NP (NNS others)) (S (VP (ADVP (RB now)) (VBP depend) (PRT (RP on)) (NP (PRP them)))))))))))
+*IGNORE*
+(TOP (S (INTJ (RB strictly)) (NP (NN speaking)) (, ,) (NP (DT these)) (ADVP (NN youth)) (VP (VBP are) (RB not) (VP (VBG performing) (VP (VB service))))))
+(TOP (SINV (FRAG (NP (PRP they))) (VP (VBP are) (VP (VBG giving) (PRT (RP up)) (NP (DT no)) (NP (NN income))) (, ,) (S (VP (VBG deferring) (NP (DT no)) (NP (NNS careers)) (, ,) (FRAG (INTJ (UH *UNK*) (UH no)))))) (NP (NN risk))))
+*IGNORE*
+(TOP (SINV (FRAG (WHNP (WDT that))) (VP (VBZ is) (DT a) (NP (NP (NN service)) (TO to) (NP (DT the)))) (NP (NN nation))))
+(TOP (S (NP (NP (PRP it)) (VP (VBZ is) (FRAG (WHNP (WP what)))) (JJ federal) (NN support)) (MD should) (VP (VB try) (VP (ADVP (RBS hardest)) (TO to) (VP (VB achieve))))))
+(TOP (SINV (FRAG (NP (NNP mr.))) (VP (VB *UNK*) (, ,) (NP (DT a) (NNP carter) (NN administration) (NN budget) (NN official)) (, ,) (NP (NNS heads))) (NP (PRP$ his) (JJ own) (JJ washington-based) (JJ strategic) (NNP planning) (NN firm))))
+(TOP (S (NP (PRP he)) (VP (VBZ is) (DT a) (PP (NP (NN co-author)) (IN of) (NP (`` ``) (ADJP (JJ national)) (NN service)))) (: :) (SBARQ (WHNP (WP what)) (S (VP (MD would) (NP (PRP it)) (S (VP (VB mean))))) (. ?))))
+(TOP (PRN (-LRB- -lrb-) (NP (NNP lexington) (NX (NNS books))) (, ,) (NP (CD 1986)) (-RRB- -rrb-)))
+*IGNORE*
+*IGNORE*
+(TOP (S (PP (IN but) (DT the) (NNS officials)) (SBAR (S (VP (VBD feared)))) (NP (DT that) (DT any) (JJ public) (NNS announcements)) (VP (MD would) (RB only) (VP (VB increase) (PRT|ADVP (NN market)) (NP (NNS jitters))))))
+*IGNORE*
+(TOP (NP (NNP fed) (UCP (NP (NP (NN chairman)) (NP (NP (NNP greenspan)) (VP (VBD was) (PP (JJ surprised) (IN by) (NP (DT both))) (NP (NNS stories)) (, ,) (S (VP (VBG according)))) (X (TO to))) (JJ knowledgeable) (NNS sources)) (, ,) (CC and) (VP (VBD insisted) (NP (PRP he)) (S (VP (VBD had) (RB n't) (VP (VBD authorized)))) (NP (DT any)))) (JJ public) (NN comment)))
+(TOP (S (ADVP (RB nevertheless)) (, ,) (NP (NNP fed) (NNS officials) (S (VP (VBD acknowledged)))) (ADVP (DT the)) (NP (NNS stories)) (VP (VBD were) (ADVP (RB reasonably)) (ADJP (JJ accurate) (PP (JJ *UNK*) (IN of) (NP (DT the) (NNP central) (NNP bank) (POS 's))) (NP (NN game))) (NP (NN plan)))))
+*IGNORE*
+(TOP (NP (NP (DT the) (NNP fed) (VBZ provides)) (NN money) (PP (TO to) (NP (DT the) (NNP banking) (NNP system) (NNP by) (VBG buying) (NN government)) (NP (NNS securities))) (PP (IN from) (JJ financial) (NNS institutions))))
+(TOP (SINV (FRAG (NP (DT the) (NNP *UNK*) (IN of) (NNP federal) (NNP officials))) (VP (VBD was) (PP (JJ evident) (IN in) (NP (DT the) (NX (NN appearance)) (NX (NNP sunday) (IN of) (NNP budget) (NNP director)))) (NP (NNP richard)) (NP (NNP darman) (IN on) (NNP abc) (POS 's))) (NP (`` ``) (DT this) (NN week) (. .))))
+(TOP (S (`` ``) (PP (NP (NNP secretary)) (IN of) (NP (NP (NN the) (NN treasury) (NNP brady) (CC and) (NNP chairman) (NNP greenspan)) (CC and) (NP (DT the) (NNP chairman) (IN of) (NNP the) (NNP sec)) (CC and) (NP (NNS others)))) (VP (VB have) (VP (VBN been) (PRT (RP in)) (ADVP (RB close)) (S (VP (VB contact)))))))
+(TOP (S (NP (PRP i)) (VP (VBP 'm)) (ADVP (RB sure)) (SBAR (S (NP (PRP they)) (MD 'll) (VP (VBP do) (SBAR (WHNP (WP what)) (VP (VBZ 's) (SBARQ (RB right) (, ,) (WHNP (WP what)) (SQ (VP (POS 's) (ADJP (JJ prudent))))))) (, ,) (SBAR (WHNP (WP what)) (VP (VBZ 's) (ADJP (JJ *UNK*)) (, ,) ('' '') (S (NP (PRP he)) (VP=2 (VBD said))))))))))
+(TOP (S (INTJ (WRB when)) (NP (PRP it)) (VP (VBD was) (S (VP (VBD suggested) (NP (NP (PRP$ his) (NN comment) (S (VP (VBD was) (DT a) (NP (`` ``) (NNS *UNK*) (, ,) ('' ''))))) (NNP mr.) (NNP darman) (VBN replied)) (: :) (`` ``) (S (NP (PRP it))))) (S (VP (VBZ is) (DT a) (NP (NNP *UNK*)))))))
+(TOP (S (CC but) (, ,) (NP (RBR in) (DT this) (NN context)) (, ,) (NP (DT that)) (VP (VBZ 's) (ADVP (DT the)) (ADJP (JJ smart)) (NP (NN thing) (TO to) (VB do))) (. .)))
+(TOP (S (SBAR (IN at) (FRAG (NP (DT the) (NP (NAC (NNP treasury)) (, ,) (NNP secretary) (NNP brady)) (VBN issued) (NN a) (NN statement)))) (ADVP (RB *UNK*)) (NP (DT the) (NNP stock) (NN market) (POS 's)) (VP (VB drop))))
+(TOP (S (`` ``) (ADJP (PP (NP (NP (NN today) (POS 's)) (NN stock) (NN market) (S (VP (VB decline) (VP (VBZ does) (RB n't) (VP (VBP signal) (RB any) (VP (JJ fundamental) (NP (NN change)) (NP (RBR in) (DT the) (NN condition)))))))) (IN of) (NP (DT the))) (NN economy)) (, ,) ('' '') (NP (PRP he)) (VP (VBD said))))
+(TOP (S (`` ``) (NP (DT the)) (NP (NN economy)) (VP (VBZ remains) (RB *UNK*) (VP (PRN (, ,) (CC and) (ADVP (DT the)) (NP (NN outlook))) (VBZ is) (NP (IN for) (JJ continued) (JJ moderate) (NN growth)))) (. .)))
+(TOP (S (NP (NP (CC but) (NN administration)) (NNS officials) (S (VP (VBD conceded) (NP (DT that) (NNP friday) (POS 's)) (NP (NN drop)) (S (VP (VBD carried) (DT the) (NP (NN chance)))) (PP (IN of) (JJ further) (NNS declines))))) (NP=2 (DT this) (NN week))))
+*IGNORE*
+(TOP (S (`` ``) (SBAR (DT the) (S (VP (ADVP (JJ other)) (VBZ is) (PRT (IN that)) (NP (NP (PRP we)) (VP (VBP see) (DT another) (ADJP (JJ major))) (NN disaster))))) (, ,) (VP (VB like) (VP (NP=3 (CD two) (NNS years)) (ADVP (RB ago))))))
+(TOP (S (NP (PRP i)) (VP (VBP think)) (SBAR (IN that) (S (VP (VBZ 's))) (CC less) (RB likely)) (. .)))
+*IGNORE*
+(TOP (NP (DT both) (NNP the) (NNP treasury) (CC and) (NAC (DT the) (NNP fed) (NNP planned) (PP (TO to) (NP (NP (VB keep)) (NN market) (NNS rooms) (NN operating)) (NP (CONJP (IN throughout)) (NP (DT the)) (CONJP (RB night) (TO to) (VB monitor)) (NP (DT the))))) (NNS developments)))
+(TOP (SBAR (IN in) (FRAG (NP=1 (NNP tokyo)) (, ,) (NP (NP (NN share) (NNS prices) (S (VP (VBD dropped) (RB sharply) (VP (QP=1 (IN by) (CD 1.7) (NN %)) (PP (IN in)))))) (JJ early) (NNP monday) (NN morning) (NN trading)))))
+(TOP (S (FRAG (NP (IN after) (DT the) (JJ initial) (NN slide))) (, ,) (X (DT the)) (NP (NN market)) (VP (VBD appeared) (PP (TO to) (NP (VB be) (VBG turning)) (PP (IN around) (CC but) (IN by) (NP (RB early) (NN afternoon) (S (VP (VBD was)))))) (VP (VBN headed) (VP (VB lower))))))
+(TOP (NP (NP (NP (IN in) (DT the) (ADJP (NNP bush)) (NN administration)) (, ,) (NP (DT the) (NAC (JJ lead) (NNP is) (NN being) (PP (VBN taken) (IN by) (NP (NNP treasury)))) (NNP secretary) (NNP brady)) (, ,) (RB *UNK*) (NP (NNP robert))) (NNP *UNK*) (CC and) (NNP assistant) (NNP secretary) (NNP mullins)))
+*IGNORE*
+(TOP (S (VP (ADVP (RB as)) (NP=2 (DT a) (NN result)) (PP (NP (NP (PRP they)) (VP (VBP have)) (JJ extensive) (NN knowledge)) (IN in) (NP (JJ financial) (UCP (NP (NNS markets)) (, ,) (CC and) (ADJP (JJ financial))) (NN market) (NNS crises))))))
+(TOP (S (VP (NNP mr.) (NP (NNP brady)) (S (VP (VBD was) (ADVP (IN at)) (NP (NP (DT the)) (JJ white) (NNP house) (NNP friday) (NN afternoon)) (S (INTJ (WRB when)) (NP (DT the) (NNP stock) (NN market) (POS 's)) (VP (VB decline) (VP (VBD began)))))))))
+*IGNORE*
+(TOP (S (INTJ (RB later)) (, ,) (NP (NP (NNP mr.)) (NNP brady) (NNPS *UNK*) (NNP mr.) (NNP greenspan)) (, ,) (NP (NNP sec)) (VP (NN chairman) (NP (NNP richard) (UCP (NNP breeden) (CC and) (JJ numerous)) (NNS contacts)) (NP (RB in) (NNP new) (NNP york) (CC and) (NNP overseas)))))
+(TOP (S (VP (NNS aides) (S (VP (VBP say) (NP (PRP he)) (PP (JJ continued) (TO to) (NP (NN work))) (PP (ADVP (DT the)) (NP (NNS phones)) (IN through) (NP (DT the))) (NP (NN weekend)))))))
+(TOP (S (NP (NNP administration) (NNS officials) (NNP say) (NNP president) (NNP bush)) (VP (VBD was) (NP (NNP *UNK*) (IN throughout) (NNP friday) (NN afternoon)) (NP (CC and) (NN evening)) (, ,) (ADVP (RB even))) (ADVP (RB after)) (SBAR (S (VP (VBG leaving) (PRT (IN for)) (NP (NNP camp)) (NP (NNP david)))))))
+(TOP (S (NP (NP (PRP he)) (VBN had) (JJ frequent) (NN telephone)) (NP (NNPS *UNK*) (NNP with) (NNP mr.) (NNP brady) (CC and) (NNP michael) (NNP *UNK*)) (, ,) (S (NP (NN chairman)) (PP=4 (IN of) (NP (DT the) (QP (NN counsel) (IN of) (JJ economic)) (NNPS advisers))))))
+(TOP (S (VP (NN government) (NP (NNS officials)) (PP (NP (NP (QP (JJ tried) (IN throughout) (DT the) (NN weekend))) (TO to) (NP (JJ *UNK*) (DT a) (JJ *UNK*) (NN appearance))) (IN in) (NP (NN order) (TO to) (VB avoid))) (PP (ADVP (RB any)) (NP (NN sense)) (IN of) (NP (NN panic))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (FRAG (ADVP (RB ironically))) (, ,) (X (NP (NNP mr.))) (NP (NNP greenspan)) (VP (VBD was) (PP (JJ scheduled) (TO to) (NP (NN address))) (PP (NP (DT the) (ADJP (JJ same)) (NX (NN convention))) (IN in) (NP (NNP dallas))) (NP (IN on) (NNP oct.) (CD 20)) (, ,) (ADVP (CD 1987)))))
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (ADVP (RB also)) (VBN shown) (NP (NP (VBZ is)) (UCP (NP (DT the) (VBG closing) (JJ listed) (NN market) (NN price)) (CC or) (PP (NP (DT a) (NNP *UNK*) (VBD asked) (NN price)) (IN of) (NP (DT each) (NNP fund) (POS 's)))) (NNS shares)) (, ,) (SBAR (WHPP (IN with) (WHNP (DT the))) (S (NP (NN percentage)) (PP=4 (IN of) (NP (NN difference))))))))
+(TOP (NP (NP (NNP b)) (: -) (NP (NNP as) (IN of) (NNP thursday) (POS 's)) (X (RB close))))
+(TOP (S (VP (NNP c) (: -) (PP (VBN translated) (IN at) (NP (ADJP (JJ commercial)) (NNP rand) (NNP exchange) (NN rate))))))
+(TOP (S (VP (NNP e) (: -) (PP (IN in) (JJ canadian) (NNS dollars)))))
+(TOP (NP (NP (SYM f)) (: -) (NP (NNP as) (IN of) (NNP wednesday) (POS 's)) (X (RB close))))
+(TOP (S (ADJP (JJ *UNK*) (: -) (CC *UNK*) (NN *UNK*))))
+(TOP (NP (NP (NNP z)) (: -) (ADVP (RB not)) (NP (JJ available))))
+(TOP (S (VP (VB put) (PRT (RP down)) (SBAR (IN that) (FRAG (NP (NN phone)))))))
+(TOP (S (VP (VB walk) (PRT (RP around)) (SBAR (DT the) (S (VP (NN room) (: ;) (S (VP (VBP take) (NP (CD two)) (ADVP (RB deep)) (ADVP (RB *UNK*))))))))))
+(TOP (S (VP (VBP resist) (DT the) (VP (VB urge) (PP (TO to) (NP (NN call)) (NP (PRP$ your) (NN broker) (CC and) (VB sell))) (S (NP (PDT all) (PRP$ your) (NNS stocks)))))))
+(TOP (SQ (PP (IN that)) (VBZ 's) (NP (DT the) (ADJP (NN advice)) (QP (IN of) (JJS most) (NN investment)) (NNS professionals)) (ADVP (RB after)) (PP (NP (NP (NNP friday)) (VP (VBZ 's)) (JJ 190-point) (NN drop)) (IN in) (NP (DT the) (NNP dow) (NNP jones) (ADJP (JJ industrial)) (NN average)))))
+(TOP (S (ADVP (RB no)) (S (NP (CD one)) (MD can) (VP (VBP say) (PRT (IN for)) (SBAR (ADVP (RB sure)) (WHNP (WP what)) (S (VP (MD will)))))) (VP (VB happen) (VP (NN today)))))
+(TOP (S (ADVP (CC and)) (NP (NN investment)) (NP (NNS pros)) (VP (VBP are) (ADJP (VBN divided)) (SBAR (IN on) (IN whether) (S (NP (NNS stocks)) (MD will) (VP (VB perform) (VP (ADVP (ADVP (RB well)) (CC or) (ADVP (RB badly) (IN in) (DT the) (JJ next))) (NP=3 (CD six) (NNS months)))))))))
+(TOP (S (PRN (S (CC but) (NP (PRP they)) (VP (VBP 're) (ADJP (QP (RB nearly) (CD *UNK*) (IN on) (CD one))) (NP (NN point))) (: :))) (VP (VBP do) (RB n't) (VP (VB sell) (PRT (IN into)) (SBAR (DT a) (S (VP (VB panic))))))))
+(TOP (S (NP (NNS investors)) (X (WP who)) (VP (VBD sold) (PP (NP (NN everything)) (IN after) (NP (DT the))) (PP (JJ crash) (IN of) (NP (CD 1987))) (PP (ADVP (VBD lived)) (TO to) (NP (NN regret))) (NP (PRP it)))))
+(TOP (SINV (ADVP (RB even)) (PP (IN after) (PRN (SINV (FRAG (NP (NNP friday))) (VP (VBZ 's) (NP (NN plunge)) (, ,) (NP (DT the) (NNP dow) (NNP jones) (ADJP (JJ industrial)) (NN average))) (NP (NP (VBD was) (CD 48)) (NN %) (SBAR (IN above) (FRAG (WHADVP (WRB where))))))) (NP (PRP it))) (VBD landed) (NP (IN on) (NNP oct.) (CD 19)) (VP (NP=3 (CD two) (NNS years)) (ADVP (RB ago)))))
+(TOP (S (VP (VB panic) (VP (VBG selling) (VP (ADVP (RB also)) (VBD was) (PP (JJ *UNK*) (IN during) (NP (JJ other) (ADJP (JJ big)) (NNS declines))) (NP (RBR in) (DT the) (NN past)))))))
+(TOP (S (VP (DT the) (VB crash) (SBAR (IN of) (NN *UNK*) (S (VP (VBD was) (ADJP (VBN followed)) (PP (NP (IN by) (DT a) (JJ substantial) (NN recovery)) (IN before) (NP (DT the) (NNP great) (NNP depression) (CC and) (NAC (JJ awful) (NNP bear) (PP (NP (NN market)) (IN of) (NP (DT the)))) (NNS 1930s))) (SBAR (S (VP (VBD began))))))))))
+(TOP (S (NP (DT the) (`` ``) (NNP october) (NNS *UNK*) ('' '')) (ADJP (QP (RB of) (CD 1978) (CC and) (CD 1979))) (S (VP (VBD were) (UCP (ADJP (JJ scary)) (, ,) (CC but) (VP (VBD did) (RB n't) (VP (VB lead) (VP (TO to))))) (NP (JJ severe) (CC or) (JJ sustained) (NNS *UNK*))))))
+*IGNORE*
+*IGNORE*
+(TOP (SINV (CC but) (PP (NP (RBS most) (NNS advisers))) (VBP think) (NP (NP (DT the) (ADJP (JJ immediate)) (NN course) (SBAR (IN for) (NN individual) (S (NP (NNS investors)) (MD should) (VP (VB be))))) (TO to) (NP (VBP stand) (NNP pat)))))
+*IGNORE*
+(TOP (S (NP (NP (RB on) (DT the) (NN one) (NN hand)) (, ,) (NP (NNP mr.)) (NP (NN front) (VBZ says)) (, ,) (NP (PRP it))) (MD would) (VP (VB be) (FRAG (CONJP (RB *UNK*) (TO to) (VB sell)) (NP (ADVP (IN into)) (`` ``) (DT a) (NN classic) (NN panic)) (. .)))))
+(TOP (S (FRAG (NP (IN on) (DT the) (JJ other) (NN hand))) (, ,) (S (NP (PRP it) (POS 's)) (ADJP (RB not)) (NP (ADVP (RB necessarily)) (DT a) (ADJP (JJ good)) (NN time)) (PP (TO to) (NP (NN jump)) (PP (IN in)))) (CC and) (S (VP (VB buy)))))
+*IGNORE*
+(TOP (S (`` ``) (RB so) (NP (NP (PRP it)) (VBZ 's) (ADJP (RBR more) (JJ prudent) (PP (TO to) (SBAR (S (VP (VB wait) (CC and) (VB see) (ADVP (WRB how))))))) (NNS things)) (VP (VB stabilize)) (. .)))
+*IGNORE*
+(TOP (S (FRAG (ADVP (RB generally))) (, ,) (FRAG (NP (PRP it)) (S (VP (VBZ is) (RB n't) (VP (VBN *UNK*)))) (NP (ADVP (ADVP (TO to) (VB be) (RP in)) (CC and) (ADVP (RP out) ('' '') (PP (IN of)))) (DT the) (NN stock) (NN market)))))
+(TOP (SQ (NNP mr.) (NP (NNP *UNK*)) (VP (VBZ thinks) (DT that) (NP (NP (NP (DT this)) (NN week) (S (VP (VBZ is) (`` ``) (VP (VBG going))))) (TO to) (NP (ADVP (VB be)) (DT a) (NN roller-coaster) (NN week)))) (. .)))
+(TOP (S (CC but) (NP (PRP he)) (PRN (S (VP (ADVP (RB also)) (VBZ thinks) (NP (PRP it)) (S (VP (VBZ is) (`` ``) (ADVP (DT a)) (ADJP (JJ good))))))) (NP (NN week) (TO to) (VB consider)) (VP (VBG buying)) (. .)))
+(TOP (S (FRAG (`` ``) (NP (NP (PRP we)) (NP (VBP 're)) (JJ dedicated) (JJ long-term) (NNS investors)) (, ,) (NP (NP (RB not)) (NX (NNS traders)) (, ,)) ('' '')) (NP (PRP he)) (VP (VBZ says))))
+(TOP (NP (`` ``) (NP (PRP we)) (SBAR (S (VP (VB understand) (UCP (JJ *UNK*) (CC and) (NP (NN euphoria))))))))
+(TOP (X (CC and) (NP (PRP we)) (NP (NN hope) (TO to) (VB take)) (SBAR (NP (NN advantage)) (IN of) (S (VP (VB *UNK*) (CC and) (VB buy) (NP (NNS stocks)) (S (INTJ (WRB when)) (NP (PRP they)) (VP (VB plunge)))))) (. .)))
+(TOP (SINV (FRAG (NP (CD one) (NNP camp) (NP (IN of)) (NN investment) (NNS pros)) (S (VP (VBZ sees))) (NP (WP what))) (VP (VBD happened)) (NP (NNP friday) (IN as) (DT an) (NNP opportunity))))
+(TOP (S (NP (NP (RB over) (DT the) (JJ next) (NNS days)) (CC and) (NP (NP (NNS weeks)) (, ,) (NP (PRP they)) (SBAR (S (VP (VBP say)))) (, ,)) (NX (NNS investors))) (MD should) (VP (VB look) (IN for) (NP (NNS stocks)) (PP (TO to) (ADJP (JJ buy))))))
+*IGNORE*
+(TOP (S (`` ``) (NP (NNS stocks)) (NP (VBD were) (NN being)) (VP (VBN thrown) (PRT (RP out)) (ADVP (IN of)) (PP (NP (NNS windows)) (IN at) (NP (DT any))) (NP (NN price))) (. .)))
+(TOP (NP (PRP$ his) (NN advice) (S (: :) (`` ``) (NP (PRP you)) (VP (MD ought) (X (TO to)) (VP (VB be) (VP (NP (RB there) (IN with) (DT a) (NN basket)) (VBG catching) (NP (PRP them))))) (. .))))
+*IGNORE*
+*IGNORE*
+(TOP (S (ADVP (CC and)) (NP (NNP mr.)) (NP (NNP craig)) (VP (VBZ expects) (ADVP (TO to) (VB pick) (RP up)) (NP (JJR more) (NX (NNS shares))) (NP (NN today)))))
+*IGNORE*
+(TOP (S (NP (PRP he)) (VP (VBZ argues) (DT that) (NP (NNS stocks))) (PRN (S (VP (VBP are) (RB reasonably) (VP (VBN valued))))) (SBAR (S (INTJ (RB now)) (, ,) (CC and) (NP (IN that) (NN interest) (NNS rates)) (VP (VBP are) (ADJP (JJR lower)) (PP (ADVP (RB now)) (IN than) (IN in) (NP (DT the))) (PP (NP (NN fall)) (IN of) (NP (CD 1987))))))))
+(TOP (NP (NP (PRP$ his) (JJ firm) (NNS favors) (VBN selected)) (NN computer) (, ,) (NN drug) (CC and) (NN *UNK*) (NNS stocks)))
+(TOP (S (ADJP (NP (JJ other) (NNP investment) (NNS pros) (S (VP (VBP are)))) (RBR more) (JJ pessimistic))))
+(TOP (S (VP (ADVP (PRP they)) (VB say) (S (NP (NNS investors)) (MD should) (VP (VB sell) (UCP (NP (NNS stocks) (: --)) (CC but) (ADJP (ADVP (RB not)) (RB necessarily) (JJ right))))) (ADVP (RB away)))))
+(TOP (SINV (PP (JJ many) (IN of) (NP (PRP them))) (VBP stress) (NP (DT that) (UCP (NP (DT the) (VBG selling) (NN can) (S (VP (VB be) (ADJP (JJ orderly)) (, ,) (ADVP (JJ gradual))))) (, ,) (CC and) (VP (VBN done) (FRAG (WHADVP (WRB when))))) (NN stock) (NNS prices)) (VP (VBP are) (FRAG (ADJP (JJ *UNK*))))))
+*IGNORE*
+(TOP (S (NP (PRP he)) (VBZ thinks) (VP (DT the) (VBG underlying) (NP (NP (NP (NN inflation) (NN rate) (VBZ is)) (NP (QP (RB around) (CD 5) (NN %) (TO to) (CD 6) (NN %))) (, ,) (ADVP (RB far) (RBR higher) (IN than))) (JJS most) (NNS people) (NNS *UNK*)))))
+*IGNORE*
+(TOP (NP (NP (NP (NP (NP (PRP he)) (VBZ thinks) (NN government)) (NNS officials) (S (VP (VBP are)))) (CONJP (RB *UNK*) (TO to) (VB let)) (NP (DT a)) (NX (NN recession))) (NN start) (S (INTJ (WRB when)) (NP (NN government) (, ,) (JJ corporate) (CC and) (JJ personal) (NN debt) (NNS levels)) (VP (VBP are) (RB so) (VP (JJ high))))))
+(TOP (S (VP (ADVP (RB so)) (ADVP (PRP he)) (VBZ thinks) (NP (DT the) (NNP government) (NNP will) (ADJP (QP (JJ *UNK*) (IN on) (DT the) (NN side)) (IN of) (JJ *UNK*)) (NN inflation)))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (X (IN whether)) (X (DT this)) (NP (NN insurance)) (VP (VBZ is) (RB *UNK*) (VP (VBZ depends) (RB on) (VP (DT the) (VB cost) (SBAR (WHPP (IN of) (WHNP (DT an))) (S (NP (NN option)))))))))
+(TOP (S (NP (DT the)) (ADJP (NN cost) (, ,) (CC or) (NN premium) (, ,)) (SBAR (S (VP (VBZ tends)))) (PP (TO to) (NP (VB get)) (PP (JJ fat) (IN in) (NP (NNS times) (IN of) (NN crisis))))))
+(TOP (S (ADVP (RB thus)) (, ,) (NP (NN buying) (VBZ puts)) (ADVP (RB after)) (NP (DT a) (NNP big) (NN market) (NN slide) (NN can)) (VP (VB be) (ADVP (DT an)) (ADVP (RB expensive)) (PP (CONJP (RB way) (TO to) (VB hedge)) (IN against) (NP (NN risk))))))
+(TOP (S (VP (NP=3 (DT the) (NNS prices)) (PP (IN of) (PRN (S (VP (VBZ puts) (RB generally) (VP (VBD did) (RB n't) (VP (VB soar)))))) (NP (NNP friday))))))
+(TOP (NP (QP (CC but) (JJR *UNK*)) (NP (NP (NNS prices)) (NNP may) (ADJP (ADJP (JJ *UNK*)) (FRAG (WHADVP (WRB when)))) (NN trading) (NN *UNK*)) (NN today)))
+(TOP (S (NP (PRP it)) (VP (VBZ 's)) (ADVP (RB hard) (TO to) (RB *UNK*)) (SBAR (NP (IN about) (DT a) (JJ reasonable) (NN price)) (IN for) (S (VP (VBZ puts))))))
+(TOP (S (SBAR (S (VP (VBG paying)))) (, ,) (INTJ (UH say)) (, ,) (NP (NP (CD 10)) (NN %) (SBAR (IN for) (NN insurance) (IN against) (S (NP (NNS losses))))) (VP (VBZ takes) (DT a) (NP (QP (RB deep) (CD *UNK*) (IN out) (RB of) (DT the) (NN return))))))
+(TOP (S (NP (NP (NNP james)) (NNP a.) (NNP white) (CC and) (NNP tom) (NN *UNK*)) (VP=5 (VBN contributed) (PP (TO to) (NP (DT this)) (NP (NN article))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (`` ``) (PP (NP (NP (PRP they)) (VP (VBD came)) (X (RB up))) (IN with) (NP (PRP$ their) (JJ own) (NN money) (S (VP (ADVP (RB instead)) (ADVP (IN of)) (VBD borrowed) (NP (NN money)))))) (, ,) ('' '') (NP (NNP mr.)) (ADVP (RB *UNK*)) (VP (VBD said))))
+(TOP (S (`` ``) (ADVP (PRP it)) (VP (VBZ 's) (RB totally) (VP (JJ different))) (. .)))
+(TOP (S (NP (NP (NP (PRP he)) (VP (VBD said) (DT the) (VP (VBG offering) (VP (VBD was)))) (ADJP (VBN designed))) (TO to) (NP (VB create) (JJ long-term) (NNS incentives))) (PP=4 (IN for) (NP (NNS employees)))))
+*IGNORE*
+(TOP (NP (DT the) (NNP brokerage) (NN firm) (S (VP (MD wo) (RB n't) (VP (VBP pay) (DT a) (VP (NN dividend) (PRT (RP on)) (NP (DT the)) (NP (NN stock))))))))
+(TOP (S (VP (NNS employees) (S (VP (VBP have) (DT the) (PP (ADVP (RB right)) (TO to) (NP (NN trade))) (PP (NP (NN stock)) (IN among) (NP (NP (PRP themselves)) (, ,) (CC and) (NP (DT the)) (PRN (SINV (ADVP (NN company)) (MD will) (NP (VB establish) (DT an) (NNP internal) (NN clearing) (NN house)))) (PP (IN for) (DT these) (NNS transactions)))))))))
+*IGNORE*
+(TOP (SINV (FRAG (NP (NNPS bankers) (NNP trust) (CC and) (NNP *UNK*))) (VP (VBN financed)) (NP (QP (DT the) ($ $) (CD 300) (CD million)) (NX (NNP acquisition) (IN from) (NNP sears) (NNP roebuck)))))
+(TOP (S (VP (VBG *UNK*) (NP (NN banker)) (ADVP (RB also)) (NP (VBN named) (CD three) (NN outside) (NN director)) (PP (JJ *UNK*) (IN for) (NP (PRP$ its) (NP (CD 17)) (NN member) (NN board))))))
+*IGNORE*
+(TOP (S (NP (NP (NP (DT the) (RB first) (JJ major) (NN event) (NN this)) (NN morning) (RP in)) (NNP u.s.) (NNP stock) (CC and) (NNPS futures) (NN trading)) (MD may) (VP (VB be) (FRAG (DT a) (INTJ (UH *UNK*)) (NP (IN at) (DT the) (ADJP (NNP chicago)) (NNP mercantile) (NN exchange))))))
+*IGNORE*
+(TOP (NP (DT that) (ADJP (JJ *UNK*) (RB *UNK*) (S (VP (VBZ is) (ADVP (RB just)) (PP (NP (CD one)) (IN of) (NP (DT a))) (PP (NP (NN number)) (IN of) (NP (NNP *UNK*))) (PP (VBN adopted) (IN after) (NP (DT the)))))) (CD 1987) (NN crash)))
+(TOP (NP (NP (DT the) (NNP big) (NNP board) (RB also)) (NAC (JJ added) (NNP computer) (NN capacity) (PP (TO to) (NP (VB handle) (JJ huge) (NNS *UNK*)) (PP (IN in)))) (NN trading) (NN volume)))
+*IGNORE*
+(TOP (S (INTJ (RB but)) (NP (DT the) (ADJP (JJ major)) (`` ``) (NN circuit) (NNS breakers) ('' '')) (VP (VBP have) (CONJP (RB yet) (TO to) (VB be)) (VBP *UNK*))))
+(TOP (S (NP (DT a) (JJR deeper) (NN market) (NN plunge) (NN today)) (MD could) (VP (VBP give) (NP (PRP them)) (FRAG (NP (PRP$ their) (JJ first) (NX (NN test)))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (NP (NP (DT that) (NNP system) (VBZ is)) (VBN designed) (PP (TO to) (NP (JJ separate) (VBN *UNK*) (NN program) (NNS trades)) (NP (IN from) (DT all) (JJ other) (NNS trades))) (PP (TO to) (NP (NP (VB help) (NN exchange) (NNS officials)) (NN resolve) (NN order) (NNS imbalances)) (PP (IN in) (JJ individual) (NNS stocks)))))
+(TOP (S (NP (NP (NP (CD one)) (NNP merc) (NNP broker) (VBN compared)) (DT the) (NN action)) (PP=4 (IN in) (NP (DT the) (NNP s&p) (NN pit) (S (NP (NP (IN during) (DT the) (CD two) (NNS *UNK*)) (TO to) (NP (DT a))) (VP=2 (VB fire) (NP (IN at) (DT a) (JJ *UNK*) (NN school))))))))
+*IGNORE*
+(TOP (S (`` ``) (INTJ (RB there)) (VP (VBD was) (RB no) (VP (VB panic)))))
+(TOP (SINV (VP (NP=2 (DT the) (NN system)) (S (VP (VBN worked) (VP (NP=2 (DT the) (NN way)) (NP (PRP we)))))) (VP (VBN devised)) (NP (NP (PRP it)) (TO to) (NP (NN work))) (. .)))
+(TOP (S (X (IN after)) (PP (JJ *UNK*) (IN for) (NP (ADVP (RB about)) (CD 15) (NNS minutes))) (, ,) (NP (NP (DT the) (NNP s&p) (NN index) (S (VP (VBD tumbled)))) (TO to) (NP (PRP$ its) (JJ *UNK*) (NN limit) (CC and) (NNP the) (NN second) (NN freeze))) (VP (VBD went) (ADVP (IN into)) (VP (VB effect)))))
+*IGNORE*
+(TOP (S (S (VP (NP (CD one)) (ADVP (RB *UNK*)) (VBD estimated) (NP (QP (RB that) (CD 80) (NN %) (TO to) (CD 90) (NN %)) (IN of) (NP (DT the) (NNP s&p) (NX (NNS traders)))) (`` ``) (S (VP (VBD were) (RB just) (VP (VBG standing)))))) (ADVP (RB around)) (VP (VBG watching)) (. .)))
+*IGNORE*
+(TOP (S (ADVP (DT the)) (NP (QP (CD *UNK*) (CC and) (DT the) (NN s&p))) (NP (CD 500)) (VP (VBP are) (NP (DT the) (CD two) (JJ major) (NNS indexes)) (NP (VBN used) (NNP by) (NN program) (NNS traders)) (PP (TO to) (NP (NN run)) (NP (PRP$ their) (JJ computerized) (VBG trading) (NNS strategies))))))
+(TOP (S (NP=3 (NP (NP (DT the)) (NNS programs) (S (VP (VBP are)))) (PP (NP (ADJP (VBD considered) (IN by) (PP (JJ many) (TO to) (NP (VB be)))) (DT a) (JJ major) (NN cause)) (IN of) (NP (DT the)))) (NP=4 (CD 1987) (NN crash))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (SBAR (IN in) (FRAG (NP (NN addition)))) (, ,) (VP (VBZ limits) (ADVP (VBD were)) (VP (VBD placed) (PRT (RP on)) (ADJP (JJ computer-driven)) (ADVP (NN trading)))) (, ,) (CC and) (VP (VBZ steps) (ADVP (VBD were)) (VP (VBN taken) (VP (TO to) (ADVP (RB better)) (VP (VBP link) (DT the) (NP (NN stock) (CC and) (NNS futures) (NNS markets)))))))))
+(TOP (NP (ADJP (JJ few)) (NNS changes) (S (VP (VBD were) (ADJP (VBN made)) (SBAR (IN in) (FRAG (DT the) (INTJ (RB way)) (NP (DT the) (NNP markets) (NNP are) (VBN regulated))))))))
+(TOP (NP (IN at) (DT the) (ADJP (ADJP (ADJP (JJ *UNK*)) (NP (DT the) (NNP prime) (NN target) (S (VP (VBD was) (NP (NN program)) (NP (NN trading)) (, ,) (NP (WDT which))))) (SBAR (S (VP (VBD was) (RB much) (VP (VBN discussed)))))) (CC but) (RB little) (ADJP (VBN understood) (RP on))) (NNP capitol) (NN hill)))
+(TOP (S (VP (CC and) (VP (ADVP (RB there)) (VBD was) (ADVP (RB much)) (PP (NP (NN criticism)) (IN of) (NP (DT the) (NNP new) (NNP york) (NNP stock) (NNP exchange) (POS 's))) (PP (NP (NN system)) (IN of) (NP (NP (VBG having) (NN stock) (NNS trades)) (NN flow) (JJ through) (NNS specialists)))) (, ,) (CC or) (VP (VB market) (VP (NNS makers))))))
+(TOP (S (INTJ (WRB when)) (NP (NP (DT the) (NNP brady) (NN task) (NN force) (POS 's)) (JJ powerful) (NN analysis) (SBAR (WHPP (IN of) (WHNP (DT the))) (S (VP (ADVP (NN crash)) (VBD was) (ADJP (VBN released)) (NP (IN in) (NNP january) (CD 1988)))))) (, ,) (NP (PRP it)) (ADVP (RB immediately)) (VP (VBZ *UNK*) (NP (DT the)) (NP (NNS reformers) (POS ')) (NP (NN agenda)))))
+(TOP (S (ADVP (RB only)) (NP (NP (DT the)) (JJ last) (IN of) (NP (DT those))) (NP (NNS recommendations)) (VP (ADVP (RB ever)) (VBD was) (S (VP (VBN implemented))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (ADJP (RB privately) (, ,) (RB some) (JJ free)) (NP (JJ *UNK*) (VBN dismissed) (JJ such) (NN *UNK*)) (PP (IN as)) (PP (JJ *UNK*) (TO to) (NP (NNP *UNK*)))))
+(TOP (S (INTJ (RB after)) (NP (DT all)) (, ,) (NP (DT this) (ADJP (JJ free-market)) (NN argument) (S (VP (VBD went) (, ,) (NP (DT the) (ADJP (NP (NNP dow)) (RB only) (VBN dropped)) (QP (JJR more) (IN than) (NP (CD 250))) (NNS points))))) (ADVP (RB once)) (VP (NP=2 (DT this) (NN century)))))
+(TOP (NP (NP (`` ``) (NN circuit) (NNS breakers) ('' '')) (NP (NN set) (TO to) (VB soften)) (JJ big) (NNS drops)))
+(TOP (PRN (: --) (ADVP (IN if)) (PP (NP (NNP s&p) (NNS futures) (NP (NN fall) (CD 5) (NNS points))) (IN at) (NP (NP (NN opening) (, ,) (NN contract) (NN trading)) (QP (CD *UNK*) (IN for) (CD 10)) (NNS minutes)))))
+(TOP (S (VP (PRN (: --) (ADVP (IN if)) (ADVP (NNP dow)) (VP (VBZ industrials))) (VB fall) (NP (CD 25)) (PP (NP (NNS points)) (IN at) (NP (NP (NN opening) (, ,) (NN contract) (NN trading)) (QP (CD *UNK*) (IN for) (CD 10)) (NNS minutes))))))
+*IGNORE*
+(TOP (SINV (FRAG (NP (ADVP (RB on)) (NNP nyse) (NN program) (NNS trades))) (VP (VBP are) (PRT (VBN diverted)) (NP (IN into) (DT a) (JJ separate) (NN computer)) (NP (NN file) (TO to) (VB determine))) (NP (VB buy) (CC and) (VB sell) (NNS orders))))
+(TOP (S (PRN (: --) (NP (NP (IN if) (NNP s&p) (NNP futures) (NN fall)) (CD 30) (NX (NNS points))) (, ,) (ADJP (VBG trading))) (VP (VBZ is) (NP (QP (JJ restricted) (IN for) (DT an) (NN hour))) (X (TO to)) (PP (IN that) (UCP (NP (NN price)) (CC or) (ADJP (JJR higher)))))))
+(TOP (PRN (: --) (ADVP (IN if)) (ADVP (NNP dow)) (VP (VBZ industrials) (NP (NN fall) (CD 250) (NNS points)) (, ,) (S (VP (VBG trading) (NP (IN on) (DT the) (JJ big) (NN board)) (ADJP (QP (JJ *UNK*) (IN for) (DT an) (NN hour))))))))
+(TOP (S (NP (NNP s&p) (CC and) (NNS *UNK*) (NNS contracts)) (RB also) (VP (VB halt))))
+(TOP (NP (PRN (: --) (ADVP (IN if)) (ADVP (RB *UNK*)) (VP (VBZ drops) (NP (CD 400)) (NP (NNS points)) (, ,) (PP (NP (JJ big) (NNP board) (NNS *UNK*) (NN trading)) (IN for) (NP (CD two))))) (NNS hours)))
+(TOP (S (NP (NP (NN trading)) (NNP in) (NNP *UNK*) (CC and) (NNP s&p) (NNS futures)) (ADVP (RB also)) (VP=3 (VBN halted))))
+(TOP (NP (NP (NNP brady) (NN task) (NN force) (NNS recommendations)) (-LRB- -lrb-) (NP (NNP jan.)) (PRN (NP (CD 1988))) (-RRB- -rrb-)))
+(TOP (NP (: --) (NP (VB establish)) (, an) (FW *UNK*) (NP (QP (NN regulator) (IN for) (JJ financial)))))
+(TOP (PRN (: --) (ADVP (RB *UNK*)) (UCP (ADJP (JJ *UNK*)))))
+(TOP (S (VP (LST (: --)) (VB make) (NP (NNS margins)) (S (UCP (PP (JJ consistent) (IN across) (NP (NN stock))) (CC and) (NP (NNS futures)))))))
+(TOP (NP (NP (NNP sec)) (SBAR (S (NP (NNS proposals)))) (PRN (-LRB- -lrb-) (NP (NNP may)) (NP (CD 1988)) (-RRB- -rrb-))))
+(TOP (S (VP (LST (: --)) (VB require) (NP (JJ prompt)) (S (VP (VBZ reports) (PP (IN of) (JJ large) (NNS securities)) (NP (NNS trades)))))))
+(TOP (S (VP (LST (: --)) (VB give) (NP (NNP sec)) (S (NP (NN authority) (TO to) (VB monitor)) (ADJP (QP (NNS *UNK*) (IN by) (NNS affiliates))) (S (NP (IN of) (NN brokerage) (NNS firms)))))))
+(TOP (S (VP (LST (: --)) (VB transfer) (NP (NN jurisdiction)) (S (VP (ADVP (RB over)) (VB *UNK*) (NP (NNS futures)) (PP (TO to)) (PP (NP (NNP sec)) (IN from) (NP (NNP cftc))))))))
+(TOP (NP (PRN (-LRB- -lrb-) (UCP (PP (JJ opposed) (IN by) (NP (NNP new))))) (NNP sec) (NNP chairman)))
+(TOP (S (VP (LST (: --)) (VB give) (NP (NP (NNP sec)) (QP (NN authority) (TO to) (NN halt)) (NNS securities)) (S (VP (VBG trading) (, ,) (PRN (-LRB- -lrb-) (ADVP (RB also)) (NP (VBD opposed) (NNP by) (NNP new) (NNP sec) (NNP chairman)) (-RRB- -rrb-)))))))
+(TOP (NP (JJ congressional) (NX (NN proposal))))
+(TOP (S (VP (LST (: --)) (VB create) (NP (DT a)) (S (NP (NP (NN task)) (QP (NN force) (TO to) (NN review)) (JJ current) (NN state)) (PP=4 (IN of) (NP (DT the) (NNP securities) (NNS markets) (CC and) (NNS securities) (NNS laws)))))))
+(TOP (S (VP (VBG breaking) (NP (DT the) (NNP soviet) (NN government) (POS 's)) (NP (NP (NP (NN television)) (NP (NN monopoly)) (, ,) (ADVP (DT an))) (JJ independent) (NN company) (S (VP (VBZ has)))) (VP (VBD gained) (NP (NNS rights)) (PP (TO to) (NP (VBP show) (NN world)) (NP (NN programming))) (, ,) (NP (VBG including) (JJ american) (NNS films))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (NP (NP (NP (NNS *UNK*) (POS 's)) (NN article) (S (VP (VBD was) (ADJP (VBN accompanied)) (ADVP (IN by)) (NP (DT a)) (PP (NP (NN picture)) (IN of) (NP (NNP mr.)))))) (NNP *UNK*) (NNP *UNK*) (NNP singer) (NNP john) (NNP denver) (IN in) (NNP colorado)))
+*IGNORE*
+(TOP (NP (NP (JJ south) (NNP africa) (POS 's)) (JJ national) (NN union) (SBAR (IN of) (NN *UNK*) (S (VP (VBD said) (NP (QP (DT that) (IN about) (CD 10,000)) (NNP diamond) (NNS miners)) (S (VP (VBD struck) (ADVP (IN for)) (ADJP (JJR higher)) (NP (NNS wages)))) (NP (NNP at) (FW de) (NNP beers) (NNP consolidated) (NNPS mines)))))))
+*IGNORE*
+*IGNORE*
+(TOP (NP (NP (NP (NP (NNP japan)) (VBZ 's) (NN opposition)) (JJ socialist) (NN party) (S (VP (VBN denied) (VP (PP (IN that) (PRP$ its) (NNS legislators)) (VBD had) (VP (VBN been)))))) (QP (CD *UNK*) (IN by) (CD *UNK*)) (NNS owners)))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (VBP fund) (NP (NP (JJ official) (NNP simon) (NN *UNK*) (VBN said) (NN world)) (NN trade) (SBAR (IN in) (NN wildlife) (S (VP (VBD was))))) (PP (JJ estimated) (TO to) (NP (QP (JJ total) ($ $) (CD 5) (CD billion)) (IN of) (NN business))) (ADVP (RB annually)))))
+(TOP (S (VP (NP (DT a) (NNP nato) (NN project) (S (VP (TO to) (S (VP (VBP build) (DT a) (ADJP (QP (JJR *UNK*) (IN for) (DT the) (CD 1990s)))))))) (VBD was) (NP (NNP *UNK*) (IN by) (DT the) (NNP *UNK*)) (PP (IN of)) (PP (NP (CD three)) (IN of) (NP (PRP$ its) (CD eight) (VBG participating) (NNS nations))))))
+*IGNORE*
+(TOP (S (VP (ADVP (JJ small)) (VB wonder) (NP (NP (WDT that) (NX (NNP britain) (POS 's) (NNP labor) (NNP party))) (VBZ wants) (NN credit)) (NP (NNS controls)))))
+*IGNORE*
+(TOP (S (NP (NP (NN labor) (POS 's)) (NNP visa) (NN card) (S (VP (VBZ is)))) (VP=5 (VBN believed) (PP (TO to) (NP (VB be)) (PP (ADVP (DT the) (RB first) (SBAR (S (VP (VBN linked))))) (TO to) (NP (DT a) (ADJP (JJ british)) (ADJP (JJ political)) (NN party)))))))
+(TOP (S (NP (NN labor)) (VBZ gets) (VP (NP=4 (CD 25) (NN pence)) (PP (PRN (-LRB- -lrb-) (NP (CD 39)) (NP (NNS cents)) (-RRB- -rrb-)) (IN for) (NP (DT every) (CD 100) (NP (-LRB- -lrb-) (NP (NP (RB about)) ($ $) (CD 155)) (-RRB- -rrb-) (SBAR (S (NP (NP (RB that) (DT a) (NN user) (NNS charges)) (TO to) (NP (DT the)))))) (NN card))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (ADVP (NP (NNS economists)) (RB now) (NP (VB predict) (DT the) (NNP growth) (NN rate) (NN will))) (VB be) (NP (ADVP (RB about)) (CD 11.5) (NN %)) (SBAR (WHPP (IN for) (WHNP (DT the))) (S (NP (NN year)))))))
+*IGNORE*
+(TOP (SINV (FRAG (DT a) (INTJ (S (VP (NP (NNP *UNK*)) (, ,) (NP=2 ($ $) (CD 7.7))))) (NP (CD million))) (VP (PP (JJ *UNK*) (IN of) (NP (NNP *UNK*))) (VBD was) (VP (VBN completed) (PRT (RP on)) (NP (DT a) (NNP hill) (IN outside) (NNP hong) (NNP kong)) (, ,) (S (VP (VBG facing))))) (NP (NNP china))))
+*IGNORE*
+*IGNORE*
+(TOP (NP (`` ``) (NP (PRP it)) (SBAR (S (VP (VBZ is) (ADVP (RB almost)) (PP (JJ identical) (TO to) (NP (DT the) (NP (NP (NNP sony)) (NP (NN product)) (, ,) ('' '') (NP (NNP mr.))) (NN *UNK*) (NNS *UNK*))) (, ,) (SBAR (IN after) (FRAG (NP (VBG seeing) (NNS *UNK*) (CC and) (NNS pictures)))))))))
+(TOP (S (VP (VBD replied) (PP (FW a) (NP (NNP justin) (NX (NN salesman)))) (: :) (`` ``) (FRAG (ADVP (RB exactly)) (. .)))))
+(TOP (S (NP (DT the) (NNP justin) (NN merchandise) (S (VP (VBD carried) (ADVP (JJ wholesale)) (NP (NNS prices)) (NP (ADVP (RB some)) (CD 40) (NN %)) (PP (IN below)) (PP (DT those) (IN of) (NP (NNP sony))) (NP (NP (NNP corp.) (IN of) (NNP japan) (POS 's)) (`` ``) (NNP my) (NNP first) (NNP sony) ('' ''))))) (NP=2 (NN line))))
+(TOP (NP (DT the) (NNP *UNK*) (NNP *UNK*) (ADJP (JJ enthusiastic) (CC and) (JJ promised) (PP (TO to))) (NN return)))
+(TOP (FRAG (CC but) (RB instead) (SBAR (IN of) (FRAG (NP (NP (DT a) (NNP new) (NN customer) (S (: --) (PP (NP (NN part)) (IN of) (NP (NNP a) (NNS *UNK*) (NNP *UNK*) (IN from) (NNP *UNK*) (NNP sony))) (: --) (NP (NNP justin)) (VP (VBD got)))) (NP (DT a)) (JJ costly) (JJ legal) (NNS *UNK*))))))
+(TOP (NP (NP=4 (NNP mr.) (NNP *UNK*)) (, ,) (PP (NP (NP (PRP it)) (VP (VBD turned) (PRT (RP out)) (, ,) (S (VP (VBD was) (DT a) (ADJP (JJ private)) (PP (FW *UNK*) (NP (ADJP (VBG using)) (DT a) (JJ hidden) (NN tape))) (NP (NN recorder) (TO to) (VB gather))))) (NN information)) (IN for) (NP (NNP sony)))))
+(TOP (NP (PRP$ his) (NN recording) (S (VP (ADVP (RB later)) (VBN turned) (ADVP (RB up)) (NP (RB as) (DT a) (NN court) (NN exhibit))))))
+(TOP (S (X (IN since)) (PP (RB then)) (, ,) (NP (NN life) (VBZ has)) (VP (VBD changed) (NP (DT a) (NNP lot) (IN for) (NNP *UNK*) (NNP leonard)) (ADVP (RB *UNK*)) (, ,) (NP (NP (NNP justin)) (VBZ 's) (NN owner)))))
+(TOP (S (`` ``) (PP (NP (NP (PRP i)) (VP (VBP have) (RB n't) (VP (VBN been))) (ADJP (JJ able))) (TO to) (S (VP (VBP get) (NP (DT a) (ADJP (JJ decent)) (NNP night) (POS 's)) (PP (NP (NN sleep)) (IN since) (NP (NP (DT this) (VBZ has)) (VBN been) (VBG going))) (ADVP (RB on))))) (, ,) ('' '') (NP (PRP he)) (VP (VBZ says))))
+(TOP (S (`` ``) (NP (PRP it)) (VP (VBZ 's) (PP (NP (DT the) (JJS most) (CD *UNK*) (NN thing)) (IN in) (NP (PRP$ my) (NX (NN life)))) (: --) (NP (PRP i))) (PRN (S (VP (MD ca) (RB n't) (VP (ADVP (RB even)))))) (PP (JJ *UNK*) (TO to) (NP (PRP$ my) (NX (NN business)))) (. .)))
+*IGNORE*
+(TOP (S (NP (NP (NP (NNP justin)) (VBZ 's) (NN plight)) (VP (VBZ shows)) (X (WP what))) (MD can) (VP (VB happen) (ADVP (WRB when)) (NP (DT a) (ADJP (JJ tiny)) (NN company) (RB suddenly)) (S (VP (VBZ faces) (NP (DT the) (ADJP (JJ full)) (ADJP (JJ legal)) (NN might)) (PP (IN of) (DT a) (NNS *UNK*)) (ADJP (JJ multinational)))))))
+(TOP (S (SBAR (IN with) (FRAG (NP=1 (JJ considerable) (NN irony)) (, ,) (NP (NP (DT the)) (NN case) (S (VP (ADVP (RB also)) (VBZ shows) (ADVP (WRB how))))))) (ADVP (RB completely)) (NP (NNP japan)) (VP (VBZ has) (PP (NP (VBN turned) (NP (DT the)) (NNS tables)) (IN on) (NP (NNP u.s.))) (NP (NN business)))))
+(TOP (S (NP (NNPS americans)) (VP=5 (VBN used) (PP (TO to) (SBAR (S (VP (VBP complain) (RB bitterly) (VP (RB about) (VBG being) (ADJP (QP (CD *UNK*) (IN by) (CD *UNK*))) (PP (NP (NNS products)) (IN from) (NP (NNP japan)))))))))))
+*IGNORE*
+*IGNORE*
+(TOP (SINV (S (PRN (-LRB- -lrb-) (UCP (ADJP (NNP sony)))) (NP (PRP itself)) (VP (VBZ declines))) (VP (TO to)) (NP (NN comment)) (. .)))
+(TOP (S (PP (IN if) (NNP sony) (NNS wins)) (SBAR (S (, ,) (NP (NNP mr.)) (VP (VB *UNK*) (VP (VBZ says))) (, ,))) (NP (NP (PRP$ its) (JJ little) (JJ rival) (NN will) (S (VP (VBP have)))) (TO to) (NP (NN try) (TO to) (VB sell))) (VP (NP=3 (DT the) (NNS products)) (ADVP (RB overseas)))))
+(TOP (S (ADVP (IN at)) (NP (JJS worst)) (, ,) (NP (PRP he)) (VP (VBZ adds) (, ,) (`` ``) (SBAR (S (NP (PRP they)) (MD 'd) (VP (VB have) (VP (TO to) (VP (VBP *UNK*) (NP (PRP them)) (ADVP (RB all)) (ADVP (RB up))) (CC and) (VP (VBP throw) (NP (PRP them)) (FRAG (ADVP (RB away))))))))) (. .)))
+(TOP (S (NP (NNP mr.)) (RB *UNK*) (VP (VBZ denies) (NP (DT the)) (NP (NN suit) (POS 's)) (S (VP (VBZ charges) (CC and) (VBZ says) (NP (PRP$ his) (JJ only) (NN mistake) (S (VP (VBD was)))) (PP (NP (VBG taking)) (IN on) (NP (NNP sony) (IN in) (DT the) (NNP marketplace))))))))
+(TOP (S (`` ``) (PP (FW i) (NP (NP (ADJP (VBN made)) (DT a) (JJ similar) (NN line)) (CC and) (NP (PRP i)) (SBAR (S (VP (VBN produced) (VP (NP=1 (NP (PRP it)) (JJR cheaper)))))))) (, ,) ('' '') (NP (PRP he)) (VP (VBZ says))))
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (ADVP (RB though)) (VBG hoping) (VP (TO to) (VP (VB settle) (ADVP (DT the)) (NP (NNP case) (, ,) (NNP justin) (NNPS *UNK*)) (ADVP (TO to) (VB fight) (RP on))) (, ,) (SBAR (IN if) (FRAG (ADJP (JJ necessary))))))))
+(TOP (S (ADVP (RB but)) (NP (DT the)) (NP (NN battle)) (VP (VBZ is) (ADJP (JJR more)) (PP (IN than) (NNP justin) (NNS *UNK*)) (ADVP (IN for)))))
+(TOP (S (NP (`` ``) (NP (PRP i)) (SBAR (S (VP (VBD had) (RB no) (VP (NN idea) (NP (PRP i)) (S (VP (VBD was) (S (VP (VBG getting) (PP (IN in)) (ADVP (RB so)) (ADVP (RB deep)))) (, ,) ('' '') (S (VP (VBZ says) (NP (NNP mr.)) (ADVP (RB *UNK*)) (, ,) (FRAG (WHNP (WP who)))))))))))) (VP=5 (VBN founded) (PP (NP (NNP justin)) (IN in) (NP (CD 1982))))))
+(TOP (NP (NNP mr.) (UCP (RB *UNK*) (S (VP (VBD had) (ADJP (VBN sold)) (ADVP (RB *UNK*)) (NP (NNP inc.)) (, ,) (NP (DT a) (NAC (NNP taiwan)) (NNS electronics) (NN maker)))) (, ,) (CC and) (SBAR (UCP (ADJP (JJ retired)) (, ,) (CONJP (RB only) (TO to) (VB find)) (NP (PRP he))) (S (VP (VBD was))))) (NNS *UNK*)))
+(TOP (S (SBAR (IN with) (FRAG (NP (NNP justin)))) (, ,) (S (NP (PRP he)) (VP=2 (VBD began))) (NP (VBG selling) (NNS toys) (CC and) (NNS electronics)) (VP (VBD made) (RB mostly) (VP (NP (ADJP (IN in)) (NNP hong) (NNP kong) (, ,)) (VBG beginning) (NP (IN with) (JJ *UNK*) (NN mouse) (NN *UNK*))))))
+(TOP (S (PP (NP (NP (DT the) (NNP company) (VBZ has)) (VP (VBN grown)) (: --) (PP (TO to) (NP (ADVP (RB about)) (CD 40) (NNS employees)) (, ,))) (IN from) (NP (CD four))) (PP (RB initially)) (, ,) (NP (NNP mr.)) (ADVP (RB *UNK*)) (VP (VBZ says))))
+*IGNORE*
+(TOP (SINV (FRAG (NP (DT the) (CD *UNK*) (JJ *UNK*) (JJ new) (NNS products))) (VP (VBD looked)) (NP (QP (JJR more) (IN like) (NNS toys)) (NP (RBR than) (DT the) (NN adult)) (NNS models))))
+*IGNORE*
+(TOP (S (NP (NP (NNP sony)) (NP (ADJP (VBN found)) (DT a) (JJ new) (NN market)) (NP (NN niche)) (, ,) (CC but) (NP (NNP mr.))) (RB *UNK*) (VP (VBD figured) (PP (IN that) (PRP$ its) (NNS prices)) (ADVP (RB left)) (SBAR (RB plenty) (IN of) (NN room) (S (NP (IN for) (DT a) (JJ *UNK*) (NN competitor)))))))
+(TOP (NP (PRP$ his) (NNS products) (S (VP (VBP are) (PP (NP (ADVP (RB n't)) (JJ exact) (NNS copies)) (IN of) (NP (NNP sony))) (VP (VBZ 's) (RB but) (ADVP (RB strongly)) (VP (VBP resemble) (NP (PRP them)) (PRT (RP in)) (NP (NP (NN size)) (, ,) (NP (NN shape)) (CC and) (, ,) (RB especially) (, ,) (NP (NN color)))))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (SBAR (IN by) (FRAG (NP=1 (JJ last) (NN winter)) (, ,) (NP (NNP justin)))) (S (VP (ADVP (VBD was)) (VBG showing) (PP (JJ *UNK*) (IN at) (NP (NN toy))) (NP (NNPS *UNK*) (NNP in) (NNP hong) (NNP kong) (CC and) (NNP new) (NNP york)))) (: --) (CC and) (S (NP (NNP sony)) (VP=6 (VBN noticed)))))
+*IGNORE*
+(TOP (S (NP (PRP he)) (NP (PRP himself)) (S (VP (VBN threatened) (VP (TO to) (S (VP (VBP take) (DT the) (NP (NP (NN matter)) (TO to) (NP (DT the) (NNP federal) (NNP trade) (NNP commission) (CC or) (NNP u.s.) (NNP justice) (NNP department))))))))))
+(TOP (S (INTJ (RB but)) (NP (NNP justin)) (VP (VBZ has) (RB n't) (VP (VP (VBD pursued) (DT those) (NP (NNS charges))) (-LRB- -lrb-) (SBAR (WHNP (WDT which)) (S (VP (VBD were) (IN without) (NP (NN merit)) (, ,) (NP (VBG according)))) (PP (TO to) (NP (NNP mr.)) (NP (NNP *UNK*) (, ,) (NNP the) (NNP sony) (NNP attorney)))) (-RRB- -rrb-)))))
+(TOP (S (VP (VBZ recalls) (ADVP (NNP mr.)) (VP (VBZ *UNK*) (: :) (`` ``) (NP (PRP$ our) (NN purpose) (S (VP (VBD was) (PP (TO to) (NP (NN influence)) (NP (PRP them))) (PP (TO to) (NP (NN leave)) (NP (PRP us))) (ADVP (RB alone)))))))))
+(TOP (S (NP (PRP we)) (RB never) (VP (VBN intended) (VP (VBG taking) (PRT (RP on)) (NP (NNP sony)) (S (: --) (NP (PRP we)) (VP (VBP do) (RB n't) (VP (VBP have) (DT the) (NP (NNS resources)))) (. .))))))
+(TOP (S (VP (NP=4 (NNP sony)) (PP (NP (JJ *UNK*) (DT the) (JJ empty) (NN threat)) (IN with) (NP (PRP$ its) (JJ real) (NX (NN suit)))))))
+(TOP (S (FRAG (ADVP (ADVP (RB off)) (CC and) (ADVP (IN on) (RB since) (RB then)))) (, ,) (X (DT the)) (NP (NNS companies)) (VP (VBP have) (NP (NNP *UNK*)) (PRT (RP in)) (NP (NN court)))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (SINV (VP (PRN (-LRB- -lrb-) (UCP (ADJP (NNP justin)))) (VBZ claims) (NP (PRP it))) (VP (VBD began) (S (VP (VBG using) (NP (DT the) (ADJP (JJ same)) (NX (NNS colors))) (PRT (RP on)) (ADVP (JJ electronic)) (PP (NP (NNS goods)) (IN for) (NP (NNS children))))) (PP (JJ long) (IN before) (NP (NNP sony))) (SBAR (S (VP (VBD entered) (DT the) (NP (NNS children) (POS 's)))))) (NP (NN market)) (. .)))
+(TOP (S (FRAG (WHNP (WDT whatever))) (NP (PRP$ its) (NX (NX (NNS merits)) (, ,) (NP (NNP sony)))) (VP (POS 's) (NP (ADJP (JJ aggressive)) (NN defense) (S (VP (VBZ is)))) (PP (JJ *UNK*) (IN for) (NP (NNP justin))))))
+(TOP (S (NP (PRP it) (POS 's)) (ADVP (RB also)) (ADJP (JJ costly))))
+(TOP (S (NP (NNP mr.)) (RB *UNK*) (VP (VBZ says) (S (NP (PRP he)) (VBZ has) (VP (VBD paid) (PP (RBR more) (IN than) (VP (NP=2 ($ $) (CD 70,000)))) (PP (IN in) (JJ legal) (NNS fees)) (ADVP (RB so)))) (ADVP (RB far)))))
+(TOP (FRAG (WHPP (IN of) (WHNP (NP (NP (NNP sony) (, ,) (NNP mr.) (NNPS *UNK*)) (SBAR (S (VP (VBZ says) (: :) (`` ``) (NP (PRP they))))) (S (VP (VBP know) (RB there) (VP (VBZ 's) (INTJ (UH no)) (ADVP (RB way)))))) (WHPP (IN for) (WHNP (NP (PRP them)) (WHPP (TO to) (WHNP (VBP lose)))))))))
+(TOP (S (NP (PRP they)) (RB just) (VP (VB keep) (VP (VBG *UNK*) (NP (PRP me)) (PRT (RP in)) (PP (RBR deeper) (IN until) (NP (PRP i))) (S (VP (VB reach) (VP (NP=2 (DT the) (NN point)) (S (SBARQ (WHADVP (WRB where))) (NP (PRP i)) (VP (VB give) (VP (ADVP (RB up)) (ADVP (CC and)) (VBP go) (ADVP (RB away)))) (. .)))))))))
+(TOP (S (SBAR (IN for) (FRAG (ADVP (RB now)))) (, ,) (INTJ (RB though)) (, ,) (NP (PRP he)) (VP (NP=1 (CD *UNK*)) (ADVP (TO to) (VB hang) (RP in)))))
+*IGNORE*
+(TOP (S (VP (NP=2 (DT the) (NN stock)) (S (VP (VBD was) (PP (VBN bought) (IN on) (NP (NNP thursday))) (NP (IN in) (DT a) (ADJP (RB privately)) (JJ negotiated) (NN transaction)) (, ,) (SBAR (DT the) (S (VP (VBG filing) (VP (VBD said))))))))))
+*IGNORE*
+*IGNORE*
+(TOP (NP (NP (DT both)) (NNS companies) (S (VP (VBD rejected) (DT the) (VP (VBZ offers))))))
+*IGNORE*
+(TOP (S (VP (NP=2 (DT the) (NN tender)) (S (VP (VB offer) (PRT (RP by)) (NP (JJ west) (NNP germany) (POS 's)) (PP (NP (JJS *UNK*) (JJ commercial) (NN bank) (VBZ is)) (IN in) (NP (CD two))) (NP (NNS stages)))))))
+(TOP (S (VP (ADVP (NNP dresdner)) (VBZ is) (NP (NN offering) (TO to) (VB acquire)) (ADVP (RB *UNK*)) (PP (NP (NN %)) (IN of) (NP (NNS *UNK*) (POS 's))) (S (NP (NP (NN capital) (ADJP (IN for)) (NN *UNK*) (NNS francs)) (-LRB- -lrb-) (PP (NP=2 ($ $) (CD *UNK*))) (-RRB- -rrb-)) (NP=2 (DT a) (NN share))))))
+(TOP (S (NP (DT the) (NAC (NNS terms) (SBAR (IN of) (FRAG (DT the)))) (NN offer) (NN put) (NN a) (NN value)) (ADJP (QP (IN of) (CD *UNK*) (CD million) (NNS francs))) (PRN (-LRB- -lrb-) (VP (NP=2 ($ $) (CD *UNK*)) (NP (CD million))) (-RRB- -rrb-)) (S (NP (RB on) (DT the) (JJ *UNK*) (NN %) (NN *UNK*)))))
+*IGNORE*
+(TOP (S (VP (NP (JJ mexican) (NNP investor) (NNP joel) (NNP *UNK*) (NNS *UNK*)) (VBD said) (NP (NP (PRP he)) (VBN sold) (NN a) (NN block)) (PP (NP (ADVP (IN of)) (CD 600,000) (NNS shares)) (IN of) (NP (NP (NNP smith)) (NNP laboratories) (NNP inc.) (JJ common) (NN stock))) (PP (TO to) (NP (NNS companies)) (PP (JJ affiliated) (IN with) (NP (PRP him)))))))
+*IGNORE*
+(TOP (S (NP (NNP mr.) (CD *UNK*) (NNS *UNK*)) (VBZ has) (VP (VBD said) (NP (PRP he)) (S (VP (VBZ wants))) (PP (TO to) (ADJP (VB purchase) (JJR more))) (NP (NNS shares)))))
+(TOP (S (NP (ADJP (IN in)) (NNP san) (NNP diego) (, ,)) (NP (NNP smith) (NNPS laboratories) (NN president) (NNP timothy) (NNP *UNK*)) (S (VP (VBD said) (DT the) (VP (VB transfer) (PP (IN of) (DT the) (NNS shares)) (S (VP (VBZ is) (RB n't) (VP (JJ significant)))))))))
+*IGNORE*
+*IGNORE*
+(TOP (SQ (NNS sports) (NP (NP (NNP *UNK*)) (, ,) (NP (NNP tampa)) (, ,) (NP (NNP fla.)) (, ,) (VP (VBD posted) (NP (NN revenue)) (PRT (IN of)) (PP (NP=2 ($ $) (CD 59))) (PP (NP (CD million)) (IN for) (NP (NP (DT the)) (NN year) (S (VP (VBD ended))))) (NP (NNP july)))) (NP (CD 31))))
+(TOP (NP (NP (NP (DT the)) (NN company) (S (VP (VBZ is) (NP (ADJP (`` ``) (RB very) (JJ profitable) ('' '') (PP (IN on))) (DT an) (NN operating) (NN basis)) (, ,) (S (NP (NP (NNP mr.)) (NP (NNP richardson)) (NP (NNP said)) (, ,) (CC but) (NP (PRP he))) (VP=2 (VBD declined)))))) (TO to) (NP (VB specify) (NNS numbers))))
+(TOP (S (NP (UCP (NP (NP (QP (RP in) (CD 1982))) (, ,) (NP (NNS sports)) (CC &) (NP (NN recreation) (POS 's)) (NX (NNS managers))) (CC and) (ADJP (JJ certain))) (JJ passive) (NNS investors)) (VP (VBD purchased) (NP (DT the) (NNP company) (IN from) (NNP *UNK*) (NNP corp.)) (PRT (IN of)) (ADVP (RB *UNK*))) (, ,) (ADVP (RB ill))))
+(TOP (NP (NP (NP (IN in) (DT the) (ADJP (JJS latest)) (NN transaction)) (, ,) (NP (NN management)) (SBAR (S (VP (VBN bought) (PRT (RP out)) (NP (DT the) (NNP passive) (NNPS investors) (POS ')) (S (VP (VBG holding)))))) (, ,)) (NNP mr.) (NNP richardson) (VBN said)))
+*IGNORE*
+(TOP (S (NP (DT the) (ADJP (JJ previous)) (NN agreement) (S (VP (VBD expired)))) (NP=2 (NNP thursday))))
+*IGNORE*
+(TOP (S (NP (NNP fidelity)) (VBZ has) (VP (VBD increased) (NP (PRP$ its) (NN stake) (IN in)) (PP (ADVP (NNP hammond)) (TO to) (NP (NNP *UNK*))) (NP (NN %)) (PP (IN in) (JJ recent) (NNS months)))))
+(TOP (SINV (FRAG (NP (NNS statements))) (VP (VBN made) (PRT (RP in)) (NP (NNPS securities) (CC and) (NNP exchange) (NNP commission) (NNS filings)) (S (VP (VBN led)))) (NP (NP (NNP hammond)) (TO to) (NP (NN request) (NNP a) (JJ standstill) (NN agreement)))))
+*IGNORE*
+(TOP (S (NP (NP (JJ giant) (VBN agreed) (JJ last) (NN month)) (TO to) (NP (NN purchase))) (NP=2 (DT the) (NN carrier))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (NP (NP (IN under) (DT the) (ADJP (ADJP (NN agreement)) (IN with) (ADJP (NNP lockheed) (, ,) (JJ *UNK*))) (NNP will) (NN license)) (NP (NP (NNP lockheed)) (TO to) (NP (VB build) (DT the) (NNP *UNK*) (NN *UNK*) (NN jet))) (NP (NNP *UNK*)) (CC and) (NP (NN will) (NN supply) (JJ certain) (NNS structures))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (NP (PRP$ their) (NN withdrawal) (S (VP (VBD was) (ADVP (ADJP (VBN based) (RB on) (PP (NP (NNS promises)) (IN by) (NP (NNP peugeot)))) (TO to) (ADVP (RB open)) (PP (PP (NP (NNS negotiations)) (IN in) (NP (NNP paris))) (IN at) (NP (DT the) (ADJP (JJ same)) (NAC (NNP time) (DT the) (JJ last)) (NN man)))) (VP (VBD left) (DT the) (NP (NNS premises)))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (VBG trading) (NP (NN ground)) (PP (TO to) (NP (DT a)) (PP (NP (NN halt)) (IN as) (NP (NNS investors)))) (NP (VBN rushed) (UCP (PP (TO to) (NP (NN sell)) (NP (NNS bonds))) (, ,) (CONJP (RB only) (TO to) (VB find)) (NP (PRP themselves))) (NNS *UNK*)) (PP (IN by) (JJ potential) (NNS buyers)))))
+(TOP (S (VP (VBD stunned) (, ,) (PP (NP (NP (NP (PRP they)) (VBN watched) (NN brokerage) (NNS houses)) (NN mark) (JJ down) (NN price) (NNS quotations)) (IN on) (NP (PRP$ their) (NN junk) (NNPS holdings))) (PP (IN while) (VP (VBG being))) (PP (JJ able) (TO to) (NP (NP (VB execute)) (JJ very) (JJ few) (JJ actual) (NNS trades))))))
+(TOP (S (NP (NP (DT this) (NNP *UNK*) (VBZ is)) (`` ``) (PP (RB far) (IN from) (ADVP (RB over))) (, ,) ('' '')) (NP (PRP he)) (S (VP (VBZ says)))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (NP (NP (NNP goldman) (NNS officials) (S (VP (VBD declined)))) (TO to) (NP (NN comment))))
+*IGNORE*
+(TOP (S (NP (DT the) (ADJP (JJ shaky)) (NN market) (S (VP (VBD received) (PP (NP (PRP$ its) (JJS biggest) (NN jolt) (JJ last) (NN month)) (IN from) (NP (NNP campeau))) (NP (NNP corp.)) (, ,) (SBAR (WDT which) (S (VP (VBN created))))))) (NP (PRP$ its) (NP (NNP u.s.)) (NN retailing) (NN empire)) (SBAR (IN with) (NN junk) (S (VP (VBG financing))))))
+*IGNORE*
+(TOP (NP (`` ``) (DT the) (NN music) (S (VP (VBZ has) (S (VP (VBN stopped) (VP (VBG playing)))) (, ,) ('' '') (S (VP (VBZ says) (NP (NNP michael)) (ADVP (RB *UNK*)) (, ,) (FRAG (NP (DT a) (QP (JJ principal) (IN in) (DT the) (NN investment)) (NX (NNP firm) (IN of) (NNP levy) (NNP *UNK*))))))))))
+(TOP (S (`` ``) (ADVP (PRP you)) (VP (VBP 've) (CC either) (VBP got) (NP (DT a) (NP (NN chair)) (CC or) (NP (PRP you)) (ADJP (VB do))) (ADVP (RB n't))) (. .)))
+*IGNORE*
+(TOP (SINV (ADVP (IN in)) (ADJP (NNP august) (, ,) (JJ first)) (NP (NNP boston)) (VP (VBD withdrew)) (NP (NP (QP (DT a) ($ $) (CD 475) (CD million))) (NN junk) (S (VP (VBG offering) (PRT (IN of)) (NP (NP (NNP ohio) (CD *UNK*) (NNS bonds)) (RB because) (JJ potential) (NNS buyers)) (S (VP (VBD were) (`` ``) (ADVP (RB very)) (VP (VBN *UNK*))))))) (. .)))
+(TOP (S (ADVP (RB indeed)) (, ,) (NP (DT a) (NNP moody) (POS 's)) (ADVP (NN index)) (NP (DT that)) (VP (VBZ tracks) (NP (DT the) (ADJP (JJ net)) (NN asset) (SBAR (NP (NNS values)) (IN of) (S (NP (CD 24) (JJ high-yield) (JJ mutual) (NNS funds)) (VP=2 (VBD declined))))) (NP (IN for) (DT the) (ADJP (JJ *UNK*)) (JJ consecutive) (NN day)) (NP (NNP friday)))))
+*IGNORE*
+(TOP (NP (NP (NP (DT the) (NNP bond) (POS 's)) (NN yield) (S (VP (VBD dropped) (PP (TO to) (NP (NNP *UNK*)) (NP (NN %))) (, ,) (NP (DT the) (JJS lowest) (RB since)) (NP (NN march) (CD 31) (, ,) (CD 1987)) (, ,) (SBAR (S (VP (VBG according))))))) (TO to) (NP (JJ technical) (NNP data) (NNP global) (NNPS markets) (NNP group))))
+*IGNORE*
+(TOP (SINV (FRAG (NP (DT the) (NAC (JJ main) (NNP catalyst) (PP (IN for))) (NN government) (NN bond) (NN market) (NN rally))) (VP (VBD was)) (NP (DT the) (ADJP (JJ 190.58-point)) (NN drop) (SBAR (IN in) (FRAG (NP (DT the) (NNP dow) (NNP jones) (ADJP (JJ industrial)) (NN average)))))))
+*IGNORE*
+(TOP (SBARQ (RB nevertheless) (, ,) (WHNP (DT the)) (SQ (SQ (NNS problems) (NP (ADVP (IN of)) (DT the) (NN junk) (NN market)) (NP (MD could))) (SQ (VP (VB prompt)) (NP (DT the) (ADJP (JJ federal)) (QP (NN reserve) (TO to) (NN ease)) (NN credit)) (PP (IN in) (DT the) (NNS months))) (FRAG (ADVP (RB ahead))))))
+*IGNORE*
+(TOP (S (NP (RB any) (VBN sustained) (NNS *UNK*)) (MD could) (VP (VB be) (VP (DT a) (VB lift) (SBAR (IN for) (NN junk) (S (VP (NNS bonds) (ADVP (ADVP (RB as)) (RB well) (RB as) (JJ other)) (NP (NNS securities)))))))))
+(TOP (SINV (NP (PRP it)) (VBD was) (NP (NNPS *UNK*) (NNS *UNK*)) (. .)))
+*IGNORE*
+(TOP (S (VP (ADVP (PRP i)) (VP (VBP do) (RB n't) (VP (VBP believe) (RB that) (VP (VBZ 's) (DT the) (NP (NN case))))) (, ,) (CC but) (VP (ADVP (PRP i)) (VBP believe) (NP (DT that) (NNPS people) (NNP are) (NN running)) (ADVP (RB scared))))))
+(TOP (SINV (ADVP (RB there)) (VBZ is) (NP (DT a) (NNP flight) (UCP (PP (TO to) (ADJP (JJ quality))) (, ,) (CC and) (NP (DT the))) (NN quality)) (VP (VBZ is) (NP (RB not) (ADVP (IN in)) (NP (NNS equities)) (CC and) (ADVP (RB not)) (NP (IN in))) (NP (NN junk)) (: --) (PP (NP (PRP it) (POS 's)) (IN in) (NP (NNPS treasurys)))) (. .)))
+(TOP (SINV (FRAG (VP (ADVP (RB even)) (ADVP (RB as)) (VBG trading) (PP (IN in) (JJ high-yield) (NNS issues)))) (VP (VB *UNK*) (PRT (RP up)) (NP (IN over) (DT the) (JJ past) (NN month)) (, ,) (NP (NNS corporations))) (NP (VBD sold) (ADJP (QP (JJR more) (IN than) ($ $) (CD 2) (CD billion)) (IN of) (JJ new)) (NN junk) (NNS bonds))))
+(TOP (S (SBAR (IN for) (FRAG (NP=1 (NN example)) (, ,) (NP (DT a) (ADJP (QP (JJ recent) ($ $) (CD 375) (CD million))) (NN offering) (SBAR (IN of) (SINV (NP (JJ *UNK*) (NNP gas) (NNP services) (NNP l.p.) (NNS bonds)) (VP=3 (VBN sold) (ADVP (IN by)))))))) (ADVP (RB first)) (NP (NNP boston)) (VP (VBD was) (NP (CD three)) (CC times) (VP (VBN oversubscribed)))))
+*IGNORE*
+(TOP (S (NP (NP (JJ first) (NNP boston) (NNS estimates) (S (PP (IN that) (IN in) (NP (NNP november) (CC and) (NNP december) (JJ alone)) (, ,)))) (NN junk) (NN bond) (NNS investors)) (MD will) (VP (VB receive) (VP (NP=2 ($ $) (CD 4.8)) (NP (NP (CD billion)) (ADJP (IN of)) (NN coupon) (NN interest) (NNS payments))))))
+*IGNORE*
+(TOP (S (`` ``) (SBAR (WHADVP (WRB when)) (FRAG (NP (DT the) (NNP rally) (VBZ comes)))) (, ,) (VP (NN insurance) (SBAR (S (NP (NNS companies)) (MD will) (VP (VB be) (VP (VBG leading) (NP (PRP it)) (ADVP (RB because)) (NP (PRP they)) (PP (NP (VB have) (NNS billions)) (TO to) (S (VP (VB invest) (CC and) (VB invest) (NP (PRP they)) (S (VP (MD will)))))))))))))
+*IGNORE*
+(TOP (S (S (CC but) (NP (JJ such) (RB highly) (JJ leveraged) (NNS transactions)) (VP (VBD seemed) (X (TO to)) (S (VP (VBP have) (RB *UNK*) (DT this) (ADJP (NN year))))) (, ,)) (NP (NN casting)) (ADVP (DT a)) (VP (NN pall) (PRT (RP over)) (NP (RB much) (IN of) (DT the) (NN junk)) (NP (NN market)))))
+*IGNORE*
+(TOP (S (`` ``) (PP (NP (ADJP (JJ last)) (NN year) (S (NP (PRP we)) (S=3 (VP (ADVP (RB probably)) (VBD bought) (NP (CD one)) (PRT (RP out)))))) (IN of) (NP (DT every) (CD three) (JJ new) (NNS deals))) (, ,) ('' '') (NP (PRP he)) (VP (VBZ says))))
+(TOP (NP (NP (`` ``) (DT this) (NN year) (S (PRN (, ,) (IN at) (ADJP (JJS best)) (, ,)) (NP (PRP it)) (VP (VBZ 's)))) (NP (QP (RB in) (CD one) (IN in) (DT every) (CD five))) (CC or) (NP (CD six))))
+(TOP (S (CC and) (NP (PRP$ our) (NN credit) (NNPS standards)) (VP (VBP have) (RB n't) (VP (VBN changed))) (PP (NP=2 (CD one) (CD *UNK*))) (. .)))
+(TOP (S (ADVP (RB however)) (, ,) (NP (NNP mr.) (NNS *UNK*) (S (VP (VBD said) (DT the) (PP (NP (NN slide)) (IN in) (NP (NP (NN junk)) (VBZ is) (VBG creating)))))) (`` ``) (VP (NP=1 (CD one)) (PP (NP (NN hell)) (IN of) (NP (DT a) (VBG buying) (NN opportunity) ('' ''))) (PP (IN for) (JJ selective) (NNS buyers)))))
+(TOP (S (X (IN for)) (PP (NP=2 (DT the) (NN moment))) (, ,) (NP (NNS investors)) (VP (VBP seem) (ADJP (RBR more) (JJ *UNK*) (PP (IN with))) (NP (DT the) (ADJP (`` ``) (ADJP (JJ bad)) ('' '') (PP (NP (NN junk)) (IN than) (NP (DT the)))) (`` ``) (JJ good) ('' '') (NN junk)))))
+*IGNORE*
+(TOP (SBARQ (`` ``) (WHNP (WDT that)) (SQ (VP (ADVP (RB really)) (VBN affected) (NP (NP (DT the)) (NN market) (SBAR (WHPP (IN in) (WHNP (WDT that) (NNS people))) (S (VP (VBD started))))) (PP (TO to) (SBAR (S (VP (VB ask))))) (SBAR (`` `) (WHNP (WP what)) (S (VP (ADVP (RB else)) (VBZ is) (PRT (RP in)) (NP (NN trouble))))))) (. ?) ('' ')))
+(TOP (S (PP (ADVP (RB well)) (IN before) (NP (NNP campeau)) (, ,)) (SBAR (IN though) (, ,) (S (VP (RB there) (VBD were) (NP (NNS signs))))) (NP (RB that) (DT the) (NN junk) (NN market)) (VP (VBD was) (NP (QP (CD *UNK*) (IN through) (CD one))) (NP (RB of) (PRP$ its) (ADJP (JJS worst)) (NNS years)) (ADVP (RB ever)))))
+(TOP (NP (IN despite) (DT the) (ADJP (ADVP (RB relatively)) (JJ strong) (PRN (S (VP (NP (NN economy) (, ,) (ADJP (NN junk)) (NN bond) (NNS prices)) (VBD did) (NP (NN nothing)) (PP (IN except) (VP (VB go) (PRT (RP down)) (, ,) (PP (VBN hammered) (IN by) (NP (DT a) (RB seemingly) (ADJP (JJ endless)) (NN trail))))) (PP (IN of)))))) (JJ bad) (NN news)))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (NP (PRN (: --) (RB in) (NP (NNP august) (, ,) (NNP resorts) (NNP international) (NNP inc.)) (, ,) (SBAR (WDT which) (S (VP (VBD sold) (NP (QP (JJR more) (IN than) ($ $) (CD 500) (CD million)) (IN of) (NN junk)) (NP (NNS bonds)) (, ,) (S (VP (VBN suspended))))))) (NN interest) (NNS payments)))
+*IGNORE*
+(TOP (S (ADVP (RB meantime)) (, ,) (NP (NP (NNS regulators)) (VP (VBP are)) (ADJP (VBG becoming))) (ADVP (RB increasingly)) (NP (NP (QP (JJ worried) (IN as) (DT the) (NN rush))) (TO to) (NP (NN leverage))) (VP (VBZ shows) (DT no) (NP (QP (NNS signs) (IN of) (NNS *UNK*))))))
+(TOP (S (NP (NNP moody)) (VBZ 's) (VP (VBZ says) (NP (DT the) (ADJP (QP (NN frequency) (IN of) (JJ corporate))) (NN credit) (NN *UNK*) (S (VP (VBZ is) (DT the) (NP (JJS highest) (DT this) (NN year))))) (ADVP (RB since)) (NP (CD 1982)))))
+*IGNORE*
+*IGNORE*
+(TOP (SBAR (`` ``) (WHNP (WP what)) (S (VP (ADVP (PRP we)) (VBP 've) (VP (VBN begun) (VP (TO to) (S (VP (VB see) (VP (VBZ is) (DT the) (PP (NP (NP (NN damage)) (TO to) (NP (NNS businesses))) (IN of) (NP (VBG paying) (JJ *UNK*) (JJ compound) (NN interest))))))))))))
+(TOP (S (VP (NP (NNS businesses)) (VBD were) (NP (NN borrowing)) (PP (IN at) (NNP interest) (NNS rates)) (PP (RBR higher) (IN than) (NP (PRP$ their) (JJ own) (NX (NNS earnings)))))))
+*IGNORE*
+(TOP (NP (NP (NNP friday)) (VBZ 's) (NN market)))
+(TOP (S (NP (NNS prices)) (PP=4 (IN of) (NP (NP (NNP treasury) (NNS bonds) (S (VP (VBD surged) (PRT (RP in)) (NP (DT the) (JJS biggest) (NX (NN rally))) (NP (IN of) (DT the) (NN year) (RB as)) (S (NP (NNS investors)) (VP=6 (VBN fled)))))) (FW a) (FW *UNK*) (NN stock) (NN market)))))
+(TOP (S (VP (NP (DT the) (ADJP (JJ benchmark)) (JJ 30-year) (NNP treasury) (NN bond)) (VBD was) (SBAR (S (VP (VBN quoted) (NP (CD 6)) (PP (ADVP (RB p.m.)) (NP (NNP edt)) (IN at) (NP (CD 103))) (ADVP (RB *UNK*))))) (, ,) (S (VP (VBN compared) (NP (IN with) (CD 100) (RB *UNK*) (NNP thursday)) (, ,) (NP (QP (RB up) (CD 2) (CD 1\/2) (NNS points))))))))
+*IGNORE*
+(TOP (S (VP (VBP the) (`` ``) (ADJP (QP (NN flight) (TO to) (NN quality))) ('' '') (SBAR (S (VP (VBD began) (UCP (ADJP (QP (JJ late) (IN in) (DT the) (NN day))) (CC and) (VP (VBD followed) (DT a) (VP (VB *UNK*) (VP (VB fall))))) (NP (RB in) (DT the) (NN stock) (NN market))))))))
+*IGNORE*
+(TOP (NP (NP (NN bond) (NNS prices) (RB barely)) (JJ *UNK*) (IN until) (NP (NN midday))))
+(TOP (S (NP (ADJP (PP (NP (NNS prices)) (IN of) (NP (NNS municipals))) (, ,) (JJ investment-grade)) (JJ *UNK*) (CC and) (JJ mortgage-backed) (NNS bonds)) (RB also) (VP (VBD rose) (, ,) (CC but) (VBD lagged) (NP (RB behind) (PRP$ their) (ADJP (NNP treasury)) (NNS counterparts)))))
+*IGNORE*
+*IGNORE*
+(TOP (SINV (FRAG (NP (JJ investment-grade) (ADJP (JJ corporate)) (NNS bonds))) (VP (VBD were) (PRT (RP up)) (ADVP (RB about)) (NP (NP (CD 1\/2)) (TO to) (NP (CD 3\/4)))) (NP (NN point))))
+(TOP (S (VP (CC but) (NP=2 (DT the) (NN yield)) (PP (VBN spread) (IN between) (NP (NP (ADJP (NNP *UNK*) (, ,) (JJ investment-grade)) (NNS issues) (CC and) (NNS *UNK*)) (NNS bonds) (S (VP (VBD widened))))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (NP (NNP municipal) (NNS bonds) (S (VP (VBD rose) (RB as) (ADVP (RB much)) (VP (ADVP (RB as)) (NP=4 (CD 3\/4) (NN point)))))))
+(TOP (S (NP (NNP roger)) (ADVP (RB *UNK*)) (VP (VBD contributed)) (PP (TO to) (NP (DT this)) (NP (NN article)))))
+*IGNORE*
+(TOP (S (FRAG (ADVP (RB still))) (, ,) (X (DT the)) (NP (NN lesson)) (VP (VBZ is) (ADJP (ADVP (RB about)) (NP (DT the)) (JJ same)) (PRN (: :) (RB on) (NP (NNP friday) (DT the) (NN 13th)) (, ,) (SBAR (DT the) (S (VP (VB market) (VP (VBD was)))))) (PP (VBN spooked) (IN by) (NP (NNP washington))))))
+*IGNORE*
+(TOP (S (ADVP (RB still)) (, ,) (NP (DT the) (NNP consensus) (VBZ seems)) (ADVP (RB almost)) (NP (IN as) (ADJP (QP (RB wide) (IN that) (CD one) (CD *UNK*))) (NN bid)) (VP (VBZ is) (RB no) (VP (VB reason) (ADVP (TO to) (VB write) (RP down)) (NP (DT the) (NNP value) (IN of) (NNP all) (NNP u.s.)) (ADVP (NN business))))))
+*IGNORE*
+(TOP (S (ADVP (CC and)) (ADVP (NN market)) (NP (NNS expectations)) (ADVP (RB clearly)) (VP (VB have) (VP (VBN been) (VP (VBD raised) (PP (IN by)) (NP (DT the) (ADJP (JJ capital)) (NNS gains) (NN victory)) (NP (IN in) (DT the) (ADJP (NNP house)) (JJ last) (NN month)))))))
+*IGNORE*
+(TOP (S (VP (ADVP (RB there)) (VBZ is) (NP (DT a) (ADJP (JJ great)) (NN deal) (S (VP (TO to) (VP (VB be) (VP (VBD said))) (, ,) (PP (TO to))))) (S (VP (VB be) (ADVP (RB sure)) (, ,) (NP (QP (IN for) (PDT *UNK*) (DT the) (NN garbage)) (NP (RB out) (IN of) (DT the) (NN reconciliation)) (NN bill)))))))
+(TOP (S (NP (PRP it)) (MD would) (VP (VB be) (PP (NP (DT a) (ADJP (JJ good)) (NX (NN thing))) (IN if) (NP (NNP congress))) (S (VP (VBD started) (PP (TO to) (NP (VB decide) (NNS issues)) (PP (JJ *UNK*) (IN on) (NP (PRP$ their) (JJ individual) (NX (NNS merits))))) (PP (IN without)) (ADVP (RB *UNK*)))))))
+(TOP (S (VP (ADVP (IN for) (NN one) (PP (NP (NN thing) (, ,) (ADJP (RB no)) (NN one) (NNS doubts)) (IN that) (NP (DT the) (ADJP (JJ capital)) (NNS gains) (NN cut)))) (MD would) (VP (VB pass) (PRT (RP on)) (FRAG (DT an) (INTJ (UH *UNK*)) (NP (NN vote)))))))
+(TOP (S (ADVP (RB since)) (NP (NNP senate)) (NP (NNS leaders)) (VP (VBP have) (RB so) (ADVP (RB far)) (VP (VBD *UNK*) (NP (PRP it)) (PRT (RP up)) (PP (IN with) (JJ procedural) (NNS *UNK*)) (, ,) (PP (NP (NNS promises)) (IN of) (NP (DT a) (JJR cleaner) (NNP bill) (NNP are) (NN suspect)))))))
+(TOP (S (VP (RB especially) (ADVP (ADVP (RB so)) (SBAR (IN since) (NN president) (S (NP (NNP bush)))) (SBAR (S (VP (VBZ has))))) (VBN been) (PP (JJ weakened) (IN by) (NP (DT the) (NNP panama) (VBZ *UNK*))))))
+(TOP (S (VP (TO to) (DT the) (VP (NN extent) (PRT (IN that)) (NP (DT the)) (NP (NP (NNP ual) (NNS troubles) (S (VP (VBD contributed)))) (TO to) (NP (DT the) (NX (NX (NN plunge)) (, ,) (NP (PRP they))) (PRN (S (VP (VBP are) (NP (DT another)) (NP (NN instance)) (PP (IN of))))) (NX (NNP washington) (POS 's) (NNP *UNK*) (NNP fingers))))))))
+(TOP (S (NP (NP (NP (RB as) (DT the) (JJS best) (NNS opportunities)) (ADJP (IN for)) (JJ corporate) (NNS *UNK*)) (VP (VBP are) (PP (JJ exhausted) (IN of) (NP (NN course))) (, ,) (SBAR (WHPP (IN at) (WHNP (DT some))) (S (NP (NN point) (DT the) (NN market)) (MD will) (VP (VB start))))) (X (TO to))) (VP=2 (VB reject) (NP (PRP them)))))
+*IGNORE*
+(TOP (S (FRAG (ADJP (JJR worse))) (, ,) (FRAG (NP (NNP congress)) (S (VP (VBZ has) (S (VP (VBD started))) (ADVP (TO to) (VB jump) (RP on)))) (NP (DT the) (NNP skinner) (NX (NN bandwagon))))))
+*IGNORE*
+(TOP (S (ADVP (RB so)) (NP (NP (DT the) (NNP ual) (NN deal) (S (VP (VBZ has)))) (NP (NNS problems)) (, ,) (CC and) (NP (DT the) (NNP market) (VBZ loses))) (NP (CD 190)) (VP (VBZ points))))
+(TOP (NP (NNP *UNK*) (, ,) (NNP mr.) (NNP secretary) (CC and) (NNP mr.) (NNP congressman)))
+(TOP (S (SBAR (WHPP (IN in) (WHNP (DT the))) (S (NP=3 (CD 1987)) (NP=4 (NN crash)))) (, ,) (INTJ (VB remember)) (, ,) (NP (NP (DT the)) (NN market) (S (VP (VBD was)))) (VP (VBN shaken) (PRT (RP by)) (NP (NP (DT a) (NNP danny) (VBG *UNK*) (NN proposal)) (TO to) (NP (NN tax))) (NP (NNS takeovers)) (PP (RB out) (IN of) (ADJP (JJ *UNK*))))))
+(TOP (S (VP (ADVP (RB even) (RBR more) (JJ important) (PP (, ,) (IN in) (NP (PRP$ our) (NX (NN view))) (, ,))) (VBD was) (NP (DT the) (NNP treasury) (POS 's)) (S (NP (NN threat) (TO to) (VB *UNK*)) (NP=2 (DT the) (NN dollar))))))
+(TOP (SINV (FRAG (NP (DT the) (NNP treasury) (VBZ is))) (VP (VBG doing) (NP (DT the) (ADJP (JJ same)) (ADJP (NN thing)) (NN today)) (: ;) (FRAG (NP=1 (CD *UNK*)) (, ,) (NP (DT the) (NNP dollar) (VBZ is)))) (NP (RB not) (IN under) (JJ *UNK*) (NN pressure))))
+(TOP (SBARQ (RB also) (, ,) (WHNP (NNS traders)) (SQ (VP (VBP are) (ADVP (IN in)) (RB better) (NP (NN shape)) (PP (ADVP (NN today)) (IN than) (IN in) (NP (NP (CD 1987)) (TO to) (NP (VB survive) (NN selling) (NNS *UNK*))))))))
+(TOP (S (NP (PRP they)) (S=3 (VP (VBP are) (RB better) (VP (VBN capitalized))))))
+(TOP (S (VP (ADVP (PRP they)) (VBP are) (PRT (RP in)) (NP (JJR less) (NN danger) (S (VP (PP (IN of)) (VBG losing) (NP (NN liquidity)) (PP (ADVP (RB simply)) (IN because) (IN of) (NP (NP (NN tape)) (NN *UNK*) (CC and) (NN clearing) (CC and) (NN settlement) (NNS delays)))))))))
+(TOP (NP (DT the) (VBN fed) (ADJP (NP (NNS promises)) (RB any) (VBN needed)) (NN liquidity)))
+*IGNORE*
+(TOP (S (FRAG (NP (RBR in) (DT any) (NN event))) (, ,) (X (DT some)) (NP (NNS traders)) (VP (VBP see) (NP (NNS stocks)) (NP (ADVP (RB as)) (CD *UNK*) (NN today)) (, ,) (SBAR (IN unlike) (FRAG (NP (CD 1987)))))))
+(TOP (S (VP (ADVP (RB there)) (VBZ is) (NP (NN nothing)) (SBAR (QP (JJ wrong) (IN with) (DT the) (NN market)) (WHNP (WDT that)) (S (VP (MD ca) (RB n't) (VP (VB be) (VP (VBG *UNK*) (IN by) (PP (NP (DT a) (ADJP (JJ little)) (JJ *UNK*) (CC and) (JJ common) (NN sense)) (IN in) (NP (NNP washington)))))))))))
+(TOP (S (FRAG (NP (RB but) (IN on) (DT the) (ADJP (JJ bearish)) (NN side))) (, ,) (X (IN that)) (NP (NNP may)) (VP (VB be) (ADVP (RB too)) (VP (RB much) (TO to) (VP (VBP expect))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (JJ first) (NP (NNP chicago)) (SBAR (WHPP (IN since) (WHNP (CD 1987))) (S (VP (VBZ has) (NP (JJ reduced) (PRP$ its) (NNS loans)) (PP (TO to) (ADJP (JJ such))) (SBAR (NP (QP (NNS nations) (TO to) ($ $) (CD 1.7) (CD billion))) (IN from) (S (VP (NP=2 ($ $) (CD 3)) (NP (CD billion)))))))))))
+(TOP (S (ADVP (IN despite)) (NP (NP (DT this)) (NP (NN loss)) (, ,) (ADVP (RB first))) (NP (NNP chicago)) (VP (VBD said) (NP (PRP it)) (S (VP (VBZ does) (ADVP (RB n't)) (NP (NN need) (TO to) (VB sell)) (NP (NN stock) (TO to) (VB raise)))) (NP (NN capital)))))
+(TOP (S (X (IN during)) (PP (NP=2 (DT the) (NN quarter))) (, ,) (NP (DT the)) (VP (NN company) (NP (NP (ADJP (VBN realized)) (DT a) (JJ pretax) (NN gain)) (ADJP (IN of)) ($ $) (CD *UNK*)) (PP (NP (CD million)) (IN from) (NP (DT the))) (PP (NP (NN sale)) (IN of) (NP (PRP$ its) (JJ first) (NNP chicago) (NNP investment) (NNPS *UNK*) (NN unit))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (NN interest) (NP (NP (NN income) (CC and) (ADJP (JJS most)) (NN fee)) (NN income) (S (VP (VBD was)))) (ADVP (RB strong)))))
+(TOP (S (VP (ADVP (NNP greece)) (VBZ 's) (NP (NP (JJ second) (CD *UNK*) (ADJP (IN of)) (JJ general) (NNS elections)) (DT this) (NN year)) (S (VP (VBZ is) (PP (VBN slated) (IN for) (NP (NNP nov.))) (NP (CD 5)))))))
+(TOP (S (PP (NP (IN in) (DT the) (JJ *UNK*) (NN round)) (IN of) (NP (NN voting))) (, ,) (ADVP (RB *UNK*)) (VP (VBD gave) (ADVP (RB no)) (ADJP (JJ clear)) (NP (NP (NN mandate)) (TO to) (NP (DT any) (ADJP (JJ single)) (ADJP (JJ political)) (NN party))))))
+*IGNORE*
+*IGNORE*
+(TOP (NP (NP (DT the) (VBG *UNK*) (NN bond) (SBAR (IN for) (SINV (ADVP (DT this) (RB *UNK*) (RB *UNK*)) (VBD was) (NP (NN plain)) (: :) (S (VP (VBG *UNK*) (-LRB- -lrb-) (NP (NP (NNP mr.)) (RB *UNK*) (POS 's) (NN party)) (-RRB- -rrb-)))))) (RB as) (JJ common) (JJ political) (NN enemy)))
+*IGNORE*
+(TOP (S (X (IN in)) (PP (NP (NN point)) (IN of) (NP (NN fact))) (, ,) (NP (DT this)) (VP (VBP *UNK*) (S (VP (VBD was))) (PP (JJ overdue) (IN by) (NP (NNS decades))))))
+*IGNORE*
+(TOP (NP (NP (NNP mr.) (NNPS *UNK*) (POS 's)) (NN credibility) (S (VP (VBZ is) (PRN (, ,) (IN at) (ADJP (JJS best)) (, ,)) (NP (NNP *UNK*))))))
+(TOP (NP (NP (NP (PRP he)) (VBZ has) (ADJP (JJ ample)) (NNS *UNK*)) (TO to) (NP (NP (NN shift)) (NP (DT the)) (NP (NN blame)) (, ,) (CC and) (NP (NP (PRP$ his) (NN testimony) (S (VP (VBZ has) (RB also) (VP (VBN been) (VP (VBD found)))))) (QP (JJR less) (IN than) (RB *UNK*) (IN on) (JJ numerous)) (NNS points)))))
+(TOP (S (ADVP (RB nevertheless)) (, ,) (NP (DT the) (NNP new) (NNP democracy) (CC and) (NNP communist) (NNS parties)) (ADVP (RB *UNK*)) (NP (PRP$ his) (VBN *UNK*) (QP (IN as) (NN proof) (IN of) (CD *UNK*))) (VP (VBN *UNK*))))
+(TOP (S (NP (NP (CD two)) (JJ former) (NNS ministers) (S (VP (VBD were) (RB so) (ADVP (RB heavily)) (VP (VBG *UNK*) (NP (IN in) (DT the) (JJ *UNK*) (NN affair)) (NP (DT that) (NNP *UNK*) (NNP members) (IN of) (NNP parliament)) (S (VP (VBD voted))) (PP (TO to)))))) (VP=2 (VB refer) (NP (NP (PRP them)) (TO to) (NP (DT the) (ADJP (JJ special)) (NX (NN court)))))))
+(TOP (SINV (CC but) (PP (NP (JJ *UNK*) (JJ parliamentary) (NN probe) (S (VP (VBD was) (DT the) (NP (NN case))))) (IN of) (NP (QP (NNS millions) (IN of) (NNS *UNK*)) (NNP mr.) (NNS *UNK*))) (VBP *UNK*) (NP (IN into) (JJ new) (NN democracy) (NN *UNK*))))
+(TOP (S (NP (NP (RBR in) (DT the) (NN end)) (, ,) (NP (DT the) (ADJP (NN investigation) (VBN produced) (S (ADVP (RB only)))) (NNS *UNK*) (NN evidence)) (CC and) (`` ``) (NP (NNS indications)) ('' '')) (CONJP (IN that) (NN point) (TO to)) (VP (VBN *UNK*) (, ,) (NP (ADVP (RB not)) (CD *UNK*) (NN proof)))))
+*IGNORE*
+(TOP (S (PP (IN despite) (JJ convincing) (NNS arguments)) (, ,) (NP (PRP it)) (ADVP (VBD was)) (ADVP (RB never)) (VP (VBD established) (NP (DT that) (NNP mr.) (NN *UNK*) (S (VP (RB personally) (VBN ordered) (CC or) (VBN directed)))) (NP (DT the)) (ADVP (RB *UNK*)))))
+(TOP (NP (DT the) (ADJP (JJ central)) (NN weakness) (SBAR (IN of) (FRAG (NP (NP (DT the) (`` ``) (NNS scandals) ('' '')) (NNS debates) (S (VP (VBD was)))) (S (VP (VBD pointed) (PRT (RP up)) (ADVP (RB especially)) (SBAR (ADVP (RB well)) (WHADVP (WRB when)) (S (NP (NNS discussions)) (VP=6 (VBN focused)))))) (NP (QP (IN on) (NNS arms)) (NNS deals) (CC and) (NNS *UNK*))))))
+*IGNORE*
+(TOP (S (ADVP (RB but)) (NP (IN while) (JJ verbal) (JJ high) (NN *UNK*)) (ADVP (RB alone)) (VP (MD wo) (RB n't) (VP (VB help) (CC *UNK*) (VB regain) (NP (NNP power) (, ,) (NNP mr.) (NNPS *UNK*)) (S (VP (MD should) (RB never) (VP (VB be) (VP (VBN underestimated)))))))))
+*IGNORE*
+(TOP (S (VP (ADVP (RB then)) (, ,) (TO to) (VP (VBG *UNK*) (NP (PRP$ his) (NN credibility) (SBAR (WHPP (IN with) (WHNP (DT the))) (S (VP (VBN left) (, ,) (NP (PRP he)))))) (ADVP (RB *UNK*)) (NP (DT some) (JJR smaller) (JJ leftist) (NNS parties)) (PP (TO to) (NP (NP (NN stand)) (IN for) (NN election)) (NP (IN under) (DT the) (JJ *UNK*) (NN *UNK*)))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (ADJP (JJ crucial) (PP (IN as) (DT these) (NNS elections)) (S (VP (VBP are))) (SBAR (IN for) (FRAG (NP=1 (NNP greece)) (, ,) (NP (VBG pressing) (NNS issues) (SBAR (IN of) (NN state) (S (VP (VBP are) (S (VP (VBG getting) (VP (VBD lost)))) (PP (IN in) (DT the) (NNS *UNK*)))))))))))
+(TOP (S (NP (NP (DT the) (NNP country) (POS 's)) (NX (JJ future) (NNP nato) (NN participation) (NNS remains) (NN *UNK*)) (, ,)) (PP=4 (IN for) (NP (NN instance)))))
+(TOP (S (NP (NNP greece)) (ADVP (RB also)) (VP=3 (MD must) (VP (VB *UNK*) (ADJP (JJ major)) (PP (NP (NNS pieces) (IN of) (NN legislation)) (IN in) (NP (NN preparation))) (PP (NP (IN for) (DT the) (CD 1992) (NNS targets)) (IN of) (NP (VBN heightened) (NN common) (NN market) (NN cooperation)))))))
+(TOP (S (NP (NP (NNP greece)) (VBZ 's) (ADJP (JJ *UNK*)) (NNS relations)) (PP=4 (IN with) (NP (DT the) (NNP u.s.) (NN need) (NN attention) (S (ADJP=1 (RB soon)) (ADVP=2 (RB as) (RB well)))))))
+(TOP (SBAR (IN for) (FRAG (NP=1 (CD one)) (, ,) (NP (DT the) (ADJP (JJ current)) (NX (NX (NN accord)) (PP (NP (VBG concerning) (NNP u.s.) (NN military) (NNS bases)) (IN in) (NP (NNP greece))) (PP (JJ *UNK*) (IN in) (NP (MD may) (CD 1990))))))))
+(TOP (S (VP (NNS negotiations) (PRT (IN for)) (NP (DT a) (NNP new) (NN agreement) (S (VP (VBD were)))) (PP (JJ frozen) (IN before) (NP (DT the) (NNP june) (UCP (NP (NNS elections)) (, ,) (CC but) (FRAG (NP (DT the) (NNP *UNK*) (VBZ is)))) (NN running))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (ADVP (RB yet)) (NP (DT the)) (PP (NP (NN possibility)) (IN of) (NP (DT another) (NNP *UNK*) (NN government) (S (VP (VBZ is) (RB all) (RB too) (ADJP (JJ real))))))))
+(TOP (SINV (FRAG (NP (IN if) (NNP mr.) (CD *UNK*))) (VP (VBZ becomes) (NP (NP (DT the)) (JJ major) (NP (NN opposition)) (NN leader) (, ,)) (NP (PRP he)) (S (VP (MD could)))) (NP (JJ *UNK*) (DT a) (JJ *UNK*) (NN coalition))))
+*IGNORE*
+*IGNORE*
+(TOP (NP (NNP as) (IN for) (NNP mr.) (NN *UNK*)))
+(TOP (SINV (FRAG (NP (PRP he))) (VP (VBZ 's) (RB not) (ADVP (RB exactly)) (VP (VBG sitting))) (NP (RB pretty) (IN at) (DT this) (NN stage))))
+*IGNORE*
+(TOP (S (NP (NP (NNP mr.)) (SBAR (S (NP (NNP carpenter)))) (, ,) (NP (DT a) (ADJP (JJ regional)) (QP (NN correspondent) (IN for) (JJ national)) (NN review)) (, ,)) (VBZ has) (VP (VBN lived) (IN in) (PP (JJ *UNK*) (IN since) (NP (CD 1981))))))
+(TOP (S (NP (NNP u.s.) (NNS officials) (S (VP (VBD moved) (ADVP (TO to) (VB head) (RP off)) (VP (ADVP (RB any)) (VB repeat) (NP (IN of) (NNP black) (NNP monday) (NN today)) (NP (JJ following) (NNP friday) (POS 's)))))) (VP=2 (VB plunge) (NP (IN in) (NN stock) (NNS prices)))))
+*IGNORE*
+(TOP (NP (JJ other) (UCP (NNP u.s.) (CC and) (JJ foreign)) (NNS officials) (S (VP (ADVP (RB also)) (ADVP (ADVP (RB *UNK*) (RP out) (S (VP (VBZ plans)))) (, ,) (RB though) (NP (PRP they))) (VBD kept) (NP (PRP$ their) (NNS moves) (S (ADJP (NP (PP (JJ quiet) (TO to) (NP (VB avoid) (VBG making))) (DT the) (JJ financial) (NNS markets)) (RBR more) (JJ jittery))))))))
+(TOP (SINV (FRAG (NP (NP (NNP friday)) (POS 's) (NNS sell-off))) (VP (VBD was) (PP (NP (QP (JJ triggered) (IN by) (DT the) (NN collapse))) (IN of) (NP (NP (NNP ual)) (VBZ 's) (NN buy-out))) (NP (NN plan)) (NP (CC and) (DT a) (JJ big) (NN rise))) (NP (IN in) (NN producer) (NNS prices))))
+(TOP (S (NP (DT the) (NAC (NNP dow)) (NNP jones) (NNS industrials)) (X (VBD skidded)) (VP (ADVP (RB *UNK*)) (, ,) (TO to) (VP (VBN *UNK*)))))
+(TOP (S (NP (NP (DT the) (ADJP (NN junk)) (NN bond) (NN market) (S (VP (VBD came)))) (TO to) (NP (DT a) (UCP (ADJP (JJ standstill)) (, ,) (CONJP (IN while)) (NP (NNP treasury))) (NNS bonds))) (VP (VBD soared)) (CC and) (S (VP (NP=2 (DT the) (NN dollar)) (S (VP (VBD fell)))))))
+(TOP (S (VP (ADVP (NP (ADJP (JJ japanese)) (NNS stocks) (S (VP (VBD dropped)))) (RB early) (NP (NP (NNP monday)) (, ,) (CC but) (ADVP (IN by)) (RB late) (NP (NN morning)))) (VBD were) (NP (VBG turning)) (PRT (RP around)))))
+(TOP (S (NP (DT the) (NNP dollar) (VBD was) (NN trading)) (ADVP (RB sharply) (RBR lower) (IN in)) (NP (NNP tokyo))))
+(TOP (SQ (SQ (NNS prospects) (NP (IN for) (DT a) (ADJP (JJ new)) (NNP ual) (NN buy-out)) (NP (NN proposal))) (SQ (VP (VB appear))) (FRAG (ADJP (JJ bleak)))))
+(TOP (NP (JJ many) (UCP (NP (NP (NNS banks)) (ADJP (ADJP (VBN refused)) (TO to) (ADJP (JJ back))) (ADJP (QP (DT the) ($ $) (CD 6.79) (CD billion))) (NN transaction)) (, ,) (CC but) (VP (ADVP (NNP bankers)) (VBD said) (NP (PRP it)) (S (VP (VBD was) (ADVP (RB not) (IN from) (DT any) (JJ *UNK*)) (VP (TO to)))))) (NN finance) (NNS takeovers)))
+(TOP (S (NP (NP (DT the)) (NN decision) (S (VP (VBD was) (ADJP (VBN based)) (PP (RB solely) (IN on) (PP (NP (NNS problems)) (IN with) (NP (DT the) (NNP ual) (VBG *UNK*) (NN plan)))) (, ,) (NP (PRP they))))) (VP=2 (VBD said))))
+*IGNORE*
+(TOP (SBARQ (RB also) (, ,) (WHNP (JJ retail)) (SQ (NNS sales) (NP (VBN grew) (CD 0.5) (NN %) (NN last)) (NP (NN month)))))
+(TOP (S (NP (DT a) (ADJP (JJ capital-gains)) (NN tax) (NN cut) (S (VP (VBD was) (PP (VBN removed) (IN from) (NP (NP (NP (DT the) (NNP senate) (POS 's)) (NP (NN deficit)) (NN reduction) (NN bill)) (, ,) (CC but) (NP (NNS proponents)) (ADVP (RB still)))) (NP (NN hope) (TO to) (VB enact)) (SBAR (DT the) (S (VP (VB cut))))))) (NP=2 (DT this) (NN year))))
+(TOP (S (NP (NNP bush)) (MD wo) (RB n't) (VP (VBP press) (NP (IN for) (DT a) (JJ capital-gains) (NN provision)) (PRT (RP in)) (NP (DT the) (ADJP (JJ final)) (NN deficit) (NN bill) (S (NP (ADVP (WRB when)) (NNP house-senate) (NNS conferees)) (VP=2 (VB meet) (NP (RBR later) (DT this) (NN week))))))))
+(TOP (S (VP (ADVP (JJ general)) (ADVP (NNP motors)) (VBD signaled) (NP (DT that) (ADJP (QP (RP up) (TO to) (CD five))) (NNP north) (JJ american) (NN assembly) (NP (NP (NNS plants)) (VP (MD may) (RB close) (PP (PP (IN by) (DT the) (NNS mid-1990s)) (IN as) (NP (PRP it))) (VP (VBZ tries))) (X (TO to))) (NN cut) (NN excess) (NN capacity)))))
+*IGNORE*
+(TOP (NP (NP (NNP warner)) (CC and) (NP (NNP sony)) (SBAR (S (VP (VBP are) (NP (RB *UNK*) (IN in) (DT a) (ADJP (JJ legal)) (NN battle)) (PRT (RP over)) (NP (NNP movie) (NNS producers) (NNP peter) (NNP *UNK*) (CC and) (NNP jon) (NNP peters)))))))
+(TOP (SINV (FRAG (DT the)) (VP (VB fight) (VP (MD could))) (NP (NP (VBN set) (NP (RB back) (NNP sony) (POS 's)) (NNS plans)) (TO to) (NP (VB enter) (DT the) (NNP u.s.) (NN movie) (NN business)))))
+(TOP (S (NP=3 (NP (NP (NP (NNP hooker)) (PRP 's) (NNP u.s.) (NN unit)) (VBN received) (ADJP (QP (DT a) ($ $) (CD *UNK*) (CD million))) (NN bid)) (PP (ADVP (IN for) (RBS most) (IN of)) (NP (PRP$ its) (NN real-estate) (CC and) (JJ *UNK*) (NNS assets)) (IN from) (NP (DT an)))) (NP=4 (NNP investor) (NNP group))))
+(TOP (SINV (FRAG (DT the)) (VP (VB offer) (VP (VBZ does) (RB n't) (VP (VBP include)))) (NP (JJ *UNK*) (NNP teller) (CC or) (NNP b.) (NNP altman))))
+(TOP (NP (NP (DT the) (NNP boeing) (NN strike) (NNS is) (NN starting)) (TO to) (NP (VB affect) (NNS airlines))))
+(TOP (S (NP (NNP america)) (ADJP (JJ west)) (S (VP (VBD said) (NP (NNP friday)) (S (NP (PRP it)) (MD will) (VP (VB postpone))) (NP (PRP$ its) (JJ new) (NN service) (S (VP (ADVP (RB out)) (ADVP (IN of) (PP (ADVP (NNP houston)) (IN because) (IN of) (NP (NNS delays))) (ADVP (IN in))) (VBG receiving) (PP (NP (NN aircraft)) (IN from) (NP (NNP boeing))))))))))
+(TOP (S (NP (NNP saatchi)) (X (X (SYM &)) (S (NP (NNP saatchi)) (MD would) (VP (VB launch) (VP (NP (DT a) (NNP management) (NN buy-out) (S (NP (IN if) (DT a) (JJ hostile) (NN suitor)) (VP=2 (VBD emerged)))) (, ,) (NP=2 (DT an) (NN official)))))) (VP (VBD said))))
+(TOP (S (NP (NNPS british) (NNP aerospace) (CC and) (NNP france)) (VBZ 's) (VP (VB *UNK*) (VP (VBP are) (ADJP (JJ *UNK*)) (NP (DT a) (NP (NN pact) (TO to) (VB merge)) (NN *UNK*) (NNS divisions))))))
+(TOP (S (NP (JJ new) (NNP u.s.) (NNP *UNK*) (NNS quotas)) (MD will) (VP (VBP give) (DT a) (ADJP (JJR bigger) (NN share) (PP (TO to) (NP (VBG developing) (NNS nations) (SBAR (DT that) (S (VP (VBP have))))) (NP (RB relatively) (VBN *UNK*) (NN steel) (NNS industries)))))))
+(TOP (S (NP (NP (NNP japan)) (PRP 's) (NNP steel) (NN quota)) (MD will) (VP (VB be) (VP (VB cut) (FRAG (ADVP (RB significantly)))))))
+(TOP (S (NP (CD four) (VBG ailing) (NNS s&ls)) (NP (VBD were) (ADJP (VBN sold) (RB off) (PP (IN by))) (NN government) (NNS regulators)) (PRN (, ,) (CC but) (ADVP (RB low)) (NP (NNS bids))) (VP (VBN prevented) (NP (DT the)) (PP (NP (NN sale)) (IN of) (NP (DT a))) (ADVP (RB fifth)))))
+(TOP (NP (NNS markets)))
+(TOP (NP (NP (NNS stocks) (: :)) (NN volume) (NN *UNK*) (NNS shares)))
+(TOP (NP (NP (NP (NNP dow)) (NNP jones) (NNS industrials) (NN *UNK*)) (, ,) (ADVP (RB off)) (NP (NNP *UNK*) (PRN (: ;) (ADVP (NN transportation)) (UCP (ADJP (RB *UNK*) (, ,) (RB off) (JJ *UNK*)) (: ;) (NP (NNS utilities)))) (NNP *UNK*)) (, ,) (ADVP (RB off)) (NP (NNP *UNK*))))
+(TOP (NP (NP (NP (NNS bonds) (: :)) (NNP shearson) (NNP lehman) (NNP hutton) (NNP treasury) (NN index)) (NX (NNS *UNK*)) (, ,)))
+(TOP (NP (NP (NP (NNS commodities) (: :)) (NNP dow) (NNP jones) (NNPS futures) (NNP index) (NN *UNK*)) (, ,) (ADVP (RB up)) (NP (NP (NNS *UNK*) (: ;)) (NN spot) (NN index) (NNS *UNK*)) (, ,) (ADVP (RB up)) (NP (NNP *UNK*))))
+(TOP (NP (NP (NP (NN dollar)) (: :) (NP (CD 142.10)) (NP (NNS yen)) (, ,) (ADVP (RP off) (RB *UNK*))) (: ;) (NP (NNP *UNK*)) (NP (NNS marks)) (, ,) (ADVP (RP off) (RB *UNK*))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (FRAG (NP (DT the) (ADVP (NP (NNS plaintiffs)) (RB also) (PP (JJ alleged) (IN that) (PP (ADVP (RB prior)) (TO to) (NP (DT the))))) (NN fanfare))) (, ,) (X (DT the)) (NP (NN company)) (VP (VBD circulated) (NP (JJ internal) (JJ *UNK*) (VBG indicating) (NNS problems)) (PRT (IN with)) (ADVP (RB *UNK*)))))
+(TOP (S (VP (NP=2 (DT the) (NN suit)) (S (VP (VBD claimed) (NP (NN apple) (POS 's)) (NP (NN stock)) (S (VP (VBD climbed))) (PP (TO to) (NP (DT a) (ADJP (ADJP (JJ high)) (IN of) (ADJP ($ $) (JJ *UNK*) (NN a))) (NN share) (SBAR (IN on) (FRAG (DT the)))) (PP (NP (NN basis)) (IN of) (NP (NP (DT the)) (NP (NN company) (POS 's)) (JJ optimistic) (NNS forecasts)))))))))
+*IGNORE*
+(TOP (SBAR (DT the) (S (NP (NNS shareholders)) (VP=5 (VBN claimed) (PP (NP (QP (JJR more) (IN than) ($ $) (CD 150) (CD million))) (IN in) (NP (NNS losses)))))))
+*IGNORE*
+(TOP (S (VP (ADVP (RB late)) (VB last) (NP (NN month)) (, ,) (S (NP (DT the) (NNP appeals) (NNP court) (ADJP (JJ agreed) (ADVP (IN that) (RBS most) (IN of)) (NP (DT the))) (NN case)) (MD should) (VP (VB be) (VP (VBN dismissed)))))))
+*IGNORE*
+(TOP (S (VP (NP=2 (DT the) (NN court)) (S (VP (VBD ruled) (NP (RB that) (DT the) (NN news) (NNS media)) (S (VP (VBD did) (RB n't) (VP (VBP reveal) (RB *UNK*) (VP (VBZ 's))))) (PP (NP (NNS problems)) (IN at) (NP (DT the))) (NP (NN time)))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (NNP nfl)) (ADJP (ADJP (VBN ordered)) (TO to) (ADJP (QP (NN pay) ($ $) (CD 5.5) (CD million)) (IN in) (JJ legal))) (NP (NNS fees)) (PP (TO to))))
+(TOP (SINV (FRAG (NP (DT the) (NNP national) (NN football) (NN league) (S (VP (VBZ is))))) (VP (VBG considering) (VP (VBG appealing) (NP (DT the)) (NP (NN ruling)) (VP (VBG stemming) (IN from) (PP (NP (NP (DT the) (NNP u.s.) (NNP football) (NNP league) (POS 's)) (RB largely) (JJ unsuccessful) (JJ antitrust) (NN suit)) (IN against) (NP (DT the)))))) (NP (NNP nfl))))
+(TOP (NP (NP (DT a)) (NN jury) (SBAR (WHPP (IN in) (WHNP (CD 1986))) (S (VP (VBD agreed) (X (IN with)) (NP (DT the) (NNP *UNK*) (POS 's)) (PP (NP (NNS claims)) (IN that) (NP (DT the) (NNP nfl) (NNP *UNK*) (JJ major) (NN league) (NN football))))))))
+(TOP (NP (NP (CC but) (DT the) (ADJP (NN jury) (VBN awarded) (S (VP (ADVP (DT the) (RB *UNK*) (RB only)) (NP=2 ($ $) (CD 1)) (PP (IN in))))) (NNS damages)) (, ,) (RB *UNK*) (RB because) (NP (IN of) (DT the) (JJ antitrust) (NNS claims))))
+(TOP (FRAG (NP=1 (JJ last) (NN week)) (, ,) (NP (NP (DT the) (NNP u.s.) (NNP court) (IN of) (NNP appeals)) (ADVP (IN in)) (NNP new) (NNP york) (PRN (S (VP (VBD upheld) (NP (QP (DT a) ($ $) (CD 5.5) (CD million))) (PP (NP (NN award)) (IN of) (NP (NNS attorneys))) (NP (NNS fees)) (SBAR (WHPP (TO to) (WHNP (DT the))) (S (ADJP (JJ defunct))))))) (NNP league))))
+*IGNORE*
+(TOP (SINV (FRAG (UCP (JJ *UNK*) (CC &) (NNP *UNK*) (NNP will))) (VP (VB get) (VP (ADVP (RB about)) (NP=2 ($ $) (CD *UNK*)) (PP (IN for) (DT the) (NNS costs)))) (NP (ADVP (IN of)) (JJ pressing) (DT the) (NN application))))
+(TOP (NP (DT the) (NNP federal) (NNP appeals) (NN court) (S (VP (VBD held) (ADVP (NP (NP (DT that) (DT the) (JJ nominal) (NNS damages)) (CC and) (ADVP (DT the)) (NP (NN failure) (TO to) (VB prove))) (RB all) (NP (NNS claims))) (VP (VBD did) (RB n't) (VP (VBP exclude) (DT the) (ADJP (QP (CD *UNK*) (IN from) (NP (VBG being)) (CD *UNK*)))))))))
+(TOP (NP (ADJP (JJ antitrust)) (NNS laws) (S (VP (VBP provide) (RB that) (VP (VBN injured) (S (NP (NNS parties)) (MD may) (VP (VB be))) (PP (JJ *UNK*) (IN for) (NP (NNS lawyers) (POS '))) (NP (NNS fees)))))))
+*IGNORE*
+(TOP (S (S (`` ``) (NP (DT the)) (ADVP (RB *UNK*)) (VP (VBD was) (RB not) (VP (DT the) (VBG *UNK*) (NP (NN party)))) (, ,) ('' '')) (NP (NNP mr.)) (ADVP (RB *UNK*)) (VP (VBZ insists))))
+(TOP (S (VP (VB *UNK*) (VP (NN alliance)))))
+*IGNORE*
+(TOP (S (NP (DT the) (NNP *UNK*) (VBZ is)) (VP=5 (VBN believed) (PP (TO to) (NP (VB be)) (PP (NP (DT the) (RB first) (JJ such) (JJ cross-border) (NN arrangement)) (IN among) (NP (ADJP (JJ major)) (NNP law) (NNS firms)))))))
+(TOP (NP (NP (DT the)) (NNS firms) (S (VP (VBP are) (RB n't) (VP (VBN required) (VP (TO to) (VP (VB refer) (VP (VB work) (PP (ADVP (RB exclusively)) (TO to) (NP (DT each))) (ADJP (JJ other)))) (CC and) (VP (VB remain) (ADJP (JJ separate)) (NNS organizations))))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (VB grace) (ADVP (RB successfully)) (VP (VBD contended) (S (NP (DT that) (VBG removing) (NNP the) (NN fire) (NN *UNK*)) (MD would) (VP (VB pose))) (NP (DT a) (JJR greater) (NNP health) (NN risk)) (SBAR (S (VP (ADVP (IN than)) (VBG leaving) (NP (PRP it)) (ADVP (RB alone)))))))))
+*IGNORE*
+(TOP (S (NP (NNP fcc) (NN counsel) (VBZ joins)) (NP=2 (NN firm))))
+(TOP (S (NP (VBG *UNK*) (NNP s.) (NNS *UNK*)) (MD will) (VP (VB join) (VP (VBD *UNK*) (UCP (NNP morrison) (CC &) (ADJP (QP (JJR *UNK*) (IN as) (DT a) (NN partner) (IN in)))) (PP (NP (PRP$ its) (NNP washington) (, ,) (NNP d.c.) (, ,) (NN office)) (IN in) (NP (NNP *UNK*)))))))
+(TOP (S (NP (PRP she)) (MD will) (VP (VB help) (VP (VB develop) (FRAG (NP (DT the) (NAC (NNPS *UNK*) (PP (NP (NN practice)) (IN of) (NP (DT the) (NNP san) (NNP *UNK*) (NN firm) (POS 's)))) (NNS communications) (NN group)))))))
+(TOP (S (NP (NNP ms.)) (NP (NP (NP (CD *UNK*) (, ,) (CD 35) (NNS years)) (ADJP (JJ old)) (, ,) (SBAR (S (VP (VBD resigned) (ADVP (RB as)) (NP (JJ federal) (NNPS communications) (NNP commission) (NNP general) (NNP counsel)) (ADVP (RB early)))))) (DT this) (NN month)) (SBAR (WHPP (IN after) (WHNP (NP (ADVP (RB nearly)) (CD three) (NNS years)) (WHPP (IN in) (WHNP (WDT that))))) (S (VP (VB post))))))
+(TOP (SINV (FRAG (NP (PRP she))) (VP (VBD was) (ADVP (DT the)) (ADJP (JJ first)) (NP (NN woman) (TO to) (VB be))) (NP (VBN appointed) (NNP fcc) (JJ general) (NN counsel))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (PRP he)) (ADJP (VBN left)) (NP (DT the)) (PP (NP (NN company)) (IN in) (NP (CD 1987)))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (DT the)) (NP (NNS rebates)) (, ,) (S (VP (ADVP (RB as)) (NP=2 (DT a) (NN percentage)) (PP (NP (IN of) (DT the) (JJ retail) (NN cost)) (IN of) (NP (NP (DT the) (ADJP (QP (JJ *UNK*) (IN of) (DT each) (NN system))) (, ,) (NN amount)) (TO to) (NP (NP (CD 6)) (NN %) (ADJP (QP (TO to) (CD 13))) (NN %))))))))
+(TOP (S (VP (NP=2 (DT the) (NN company)) (S (VP (VBZ is) (RB also) (VP (VBG offering) (NP (DT a) (ADVP (RB free)) (NN trial)) (PP (IN of) (PRP$ its) (NNS computers)) (PP (TO to) (NP (NNS consumers)) (NP (WP who))) (PP (NP (VB qualify)) (IN for) (NP (PRP$ its) (NN credit) (NNS cards) (CC or) (NNS leases)))))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (DT a) (ADJP (JJ basic)) (NN agreement) (S (NP (IN between) (DT the) (CD two) (NNS companies)) (X (VBD was)) (VP (VBD announced)))) (PP=4 (IN in) (NP (NNP june)))))
+(TOP (NP (NP (DT the) (NNP new) (NN company) (S (VP (VBZ is) (PP (TO to) (SBAR (S (VP (VB be))))) (NP (VBN called) (NNP siemens) (NN *UNK*) (NNS components))))) (NNP *UNK*) (. .) (NNP *UNK*)))
+(TOP (S (NP (PRP it)) (MD will) (VP (VBP have) (NP (PRP$ its) (NX (NN headquarters))) (PRT (RP in)) (NP (NNP *UNK*)))))
+(TOP (S (VP (ADVP (RB *UNK*)) (VBZ 's) (NP (NN share)) (PRT (RP in)) (SBAR (DT the) (S (NP (NN venture)) (MD will) (VP (VBP rise) (NP (QP (TO to) (CD 35))) (NP (NN %) (NNP oct.) (CD 1)) (, ,) (NP (NP (CD 1990)) (, ,) (CC and) (PP (TO to) (NP (CD 50)) (NP (NN %))) (NP (DT the) (ADJP (JJ following)) (NNP oct.) (CD 1)))))))))
+(TOP (S (NP (NNP siemens)) (MD will) (VP (VB retain) (VP (NP (NN majority)) (VBG voting) (NP (NNS rights))))))
+(TOP (S (NP (DT the) (ADJP (JJ parent)) (NNS companies) (NN forecast)) (ADJP (QP (JJ sales) (IN for) (DT the) (NN venture))) (S (X (IN of)) (PP (NP (QP (IN around) (CD 750) (CD million) (NNS marks))) (IN for) (NP (PRP$ its) (RB first) (JJ fiscal) (NN year))) (, ,) (NP (NNP *UNK*)) (VP (VBD said)))))
+(TOP (S (VP (NNS sales) (S (VP (VBP are) (PP (JJ expected) (TO to) (NP (QP (NN rise) (TO to) (CD one) (CD billion)))) (PP (NP (NNS marks)) (IN after) (NP (CD four))) (NP (NNS years)))))))
+(TOP (S (NP (DT the)) (ADVP (NN company)) (VP=3 (MD will) (VP (VBP have) (NP (NN production)) (NP (NNS facilities)) (PP (IN in) (ADVP (RB west)) (NP (NNP germany) (, ,) (NNP *UNK*) (, ,) (NNP france) (CC and) (NNP spain)))))))
+(TOP (S (NP (NNP roger) (NX (NX (NNS *UNK*)) (, ,) (NX (NNP editor) (IN of) (NNP u.s.) (NNP news)) (CC &) (NX (NN world)))) (NP (NN report)) (, ,) (S (VP (VBD resigned) (NP (NNP friday)) (NP (IN from) (DT the) (JJ weekly) (NN news)) (ADVP (NN magazine))))))
+(TOP (S (NP (NNP mr.)) (RB *UNK*) (VP (VBD said) (NP (PRP he)) (PP (ADVP (VBD resigned)) (IN because) (IN of) (NP (NNS difficulties))) (PP (IN with) (UCP (PP (JJ *UNK*) (IN between) (NP (PRP$ his) (NX (NNP home) (IN in) (NNP new) (NNP york)))) (CC and) (NP (DT the) (NNP magazine) (POS 's)))) (NP (NN editorial)) (PP (NP (NNS offices)) (IN in) (NP (NNP washington))))))
+(TOP (NP (NX (`` ``) (NX (NX (NNP frankly)) (, ,) (NP (NP (PRP i)) (VBN missed) (JJ my) (NN family))) (, ,) ('' '') (SBAR (S (VP (VBD said))))) (NNP mr.) (NNP *UNK*)))
+(TOP (S (SBAR (IN in) (FRAG (NP (NP (NNP mr.)) (RB *UNK*) (POS 's) (NN tenure)))) (, ,) (S (NP (DT the) (NNP magazine) (POS 's))) (NP (VBG advertising) (NNS pages) (CC and) (NN circulation)) (VP (VBP have) (S (VP (VBN grown))) (ADVP (RB significantly)))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (NNP mr.) (NNPS *UNK*) (CC and) (NNP ms.) (NNP *UNK*)) (S=3 (VP (VBP are) (PP (JJ married) (TO to) (NP (DT each))) (ADJP (JJ other))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (NP (DT the)) (NNS offers) (S (VP (VBD were) (PP (TO to)) (PP (NP (NN work)) (IN as) (NP (DT a))) (NP (NN writer)) (, ,) (ADVP (RB not))))) (NP=2 (DT an) (NN editor))))
+(TOP (S (VP (ADVP (PRP he)) (VBD said) (NP (PRP he)) (S (VP (MD will) (RB now) (VP (VBP consider) (DT those) (VP (VBZ offers))))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (X (IN for)) (PP (DT all) (IN of) (NP (CD 1988))) (, ,) (NP (NNP dassault)) (VP (VBD had) (NP (NN group)) (S (VP (VB profit))) (NP (QP (IN of) (CD *UNK*) (CD million) (NNS francs)) (NP (QP (IN on) (NN revenue) (IN of) (CD *UNK*))) (CD billion) (NNS francs)))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (ADVP (NN revenue)) (NP (NP (IN for) (DT the) (ADJP (JJS latest)) (JJ third) (NN quarter)) (VP (VBD was) (RB about) (VP (NP=2 ($ $) (CD *UNK*)) (NP (CD million)))) (, ,) (SBAR (NP (ADVP (RB up)) (CD 10) (NN %)) (IN from) (S (VP (NP=2 ($ $) (CD *UNK*)) (NP (CD million) (JJ last) (NX (NN year)))))) (, ,)) (NP (PRP he)) (VP (VBD said))))
+*IGNORE*
+(TOP (S (X (NN revenue)) (X (IN for)) (NP (CD 1989)) (VP (VBZ is) (S (VP (VBD expected) (ADVP (TO to) (VB be) (RP about)) (VP (NP=2 ($ $) (CD 300)) (NP (CD million))))) (, ,) (PP (ADVP (RB up)) (NP (ADVP (RB about)) (CD 21) (NN %)) (IN from) (NP ($ $) (QP (RB *UNK*) (CD million) (IN in) (CD 1988)))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (NN revenue) (NP (IN for) (DT the) (CD nine) (NNS months)) (S (VP (VBZ is) (S (VP (VBN expected) (VP (TO to) (VP (VB be) (ADVP (RB about)) (VP (NP=2 ($ $) (CD *UNK*)) (NP (CD million)))) (, ,) (RB up) (VP (QP=1 (IN about) (CD 21) (NN %)) (PP (IN from)))))) (S (VP (NP=2 ($ $) (CD *UNK*)) (NP (CD million) (JJ last) (NX (NN year))))))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (`` ``) (PP (ADVP (RB prior)) (TO to) (NP (NP (DT a)) (NN year) (S (ADVP (RB ago)) (, ,) (VP=3 (VBN *UNK*))))) (VP (VBD was) (DT an) (NP (NNP *UNK*)))))
+(TOP (S (ADVP (RB now)) (NP (NP (PRP i)) (VP (VBP think) (NP (PRP we)) (S (VP (VBP have) (DT a) (NP (NN group)))) (SBAR (IN of) (NN marketing) (S (NP (NNS people)) (X (WP who)) (VP (VBP are) (PRT (RP out)) (UCP (NP (NP (NN selling)) (TO to) (NP (NNS retailers))) (CC and) (ADJP (JJ *UNK*))))))) (, ,) ('' '') (ADJP (NNP mr.))) (NP (NNP simmons)) (VP (VBD said))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (NP=2 (DT the) (NN company)) (S (VP (VBD did) (RB n't) (VP (VB elaborate)))))))
+*IGNORE*
+(TOP (S (VP (NP=1 (QP (RBR more) (IN than) (CD 400,000) (NNS pounds) (IN of) (JJ *UNK*))) (NP=2 (DT a) (NN year)) (S (VP (VB have) (VP (VBN been) (VP (VBD produced) (ADVP (IN at)) (VP (NP=2 (DT the) (NN facility)) (NP (ADVP (IN during)) (DT the) (JJ past) (CD seven) (NNS years))))))))))
+(TOP (S (NP (NP (DT a) (NAC (JJ second) (JJ *UNK*) (NN plant) (PP (IN at))) (NNP uncle) (NNP sam)) (, ,) (ADJP (JJ *UNK*)) (, ,) (SBAR (DT that) (S (VP (VBZ produces))))) (ADJP (QP (RBR more) (IN than) (CD 700,000) (NNS pounds) (IN of) (JJ *UNK*))) (S (ADVP (RB annually)) (, ,) (VP=3 (MD will) (VP (VB continue) (VP (TO to) (S (VP (VB operate)))))))))
+*IGNORE*
+(TOP (NP (CD *UNK*) (NNP resource) (NP (NP (NNS partners)) (, ,) (VP (ADVP (RB as)) (NN owner) (NP (IN of) (DT the) (JJ *UNK*) (NN technology))) (, ,) (VP (VBZ receives))) (NN royalty) (NNS payments)))
+(TOP (S (NP (NN business) (NX (NN week)) (NX (NNS subscribers))) (MD may) (VP (VBP hear) (DT this) (NP (NP (NP (NN week) (POS 's)) (NN issue) (VBG talking) (NN back)) (TO to) (NP (PRP them))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (DT the) (NNP real) (NN estate) (CC and) (NN mortgage) (NN banking) (NN concern)) (X (VBD had)) (VP (VBD hoped) (PP (TO to) (NP (NN use)) (PP (NP (NNS proceeds)) (IN from) (NP (DT the)))) (NP (NN sale) (TO to) (VB reduce)) (NP (PRP$ its) (NX (NN debt))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (`` ``) (PP (ADVP (NP (PRP it)) (RB *UNK*) (NP (DT the) (VBG continuing) (NN uncertainty) (SBAR (IN with) (FRAG (NP (NN respect)))))) (TO to) (NP (NP (DT the)) (JJ ultimate) (NN value) (PP (IN of) (DT the) (NNS loans)))) (, ,) ('' '') (NP (PRP he)) (VP (VBD said))))
+*IGNORE*
+(TOP (S (NP (NNP mr.)) (RB *UNK*) (VP (VBD said) (NP (QP (DT the) ($ c$) (CD 300) (CD million))) (S (NP (NP (NN charge)) (TO to) (NP (NNS earnings))) (MD would) (VP (VB amount) (VP (TO to) (ADVP (RB about)) (VP (NP=2 ($ c$) (CD *UNK*)) (NP (DT a)))))) (NP (NN share)))))
+(TOP (S (NP (NP (DT the) (NNP bank) (POS 's)) (JJ net) (NN income) (S (FRAG (NP (IN for) (DT the) (CD nine) (NNS months)) (S (VP (VBD ended))) (NP (NNP july))) (NP (CD 31)) (VP (VBD was) (VP (NP=2 ($ c$) (CD *UNK*)) (NP (CD million))) (, ,) (CC or) (VP (NP=2 ($ c$) (CD *UNK*)))))) (NP=2 (DT a) (NN share))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (NNS suitors) (PP (IN from)) (PP (ADVP (RB now) (RP on) (S (VP (VBP are) (ADJP (ADJP (JJR more)) (CONJP (RB likely) (TO to) (VB be)) (ADJP (JJ *UNK*))) (NP (NNS companies))))) (, ,) (ADVP (RB rather)) (IN than) (NP (NNS raiders) (CC or) (NN *UNK*) (NNS financiers))))))
+(TOP (S (VP (CC and) (VP (ADVP (PRP they)) (MD will) (VP (VB be) (VP (VBG launching) (VP (VBN *UNK*))))) (CC and) (VP (PP (ADVP (RB perhaps)) (NP (NP (JJR fewer)) (NP (NNS deals)) (, ,) (ADVP (RB now))) (IN that) (NP (PRP it))) (VBZ 's) (ADJP (JJR tougher))) (PP (TO to) (NP (NN finance)) (NP (PRP them))))))
+*IGNORE*
+(TOP (S (INTJ (WRB whenever)) (NP (DT the) (CD 1980s) (NP (NN merger)) (NN boom)) (VP (VBZ seems) (PP (TO to) (SBAR (S (VP (VB be) (ADVP (RB *UNK*)) (, ,) (NP (NN shock) (NNS waves) (NNS *UNK*)))))) (NP (RB through) (DT the) (NN stock) (NN market)))))
+(TOP (NP (`` ``) (DT the) (NN market) (S (VP (VBZ is) (ADJP (RB *UNK*) (, ,) (RB not) (JJ cheap)) (, ,) ('' '') (S (VP (VBZ says) (NP (NNP alan)) (PP (JJ *UNK*) (IN of) (NP (DT the) (NNP new) (NNP york) (JJ *UNK*) (NN firm) (NN *UNK*))) (ADJP (JJ *UNK*))))))))
+(TOP (S (NP (PRP he)) (RB recently) (VP (VBD began) (S (VP (VBG increasing))) (NP (PRP$ his) (NX (NN cash))) (NP (NN position)) (PP (TO to) (NP (CD 45)) (PP (NP (NN %)) (IN of) (NP (PRP$ his) (NX (NN portfolio))))))))
+*IGNORE*
+(TOP (S (FRAG (NP (NNS lenders)) (S (VP (VBP are) (NP (VBG growing)) (ADVP (RB increasingly)) (PP (JJ nervous) (IN about) (NP (NNP *UNK*))))) (NP (NNS takeovers))) (, ,) (X (NN investment)) (NP (NNS bankers)) (VP (VBP say))))
+(TOP (S (VP (VBG trading) (NP (NNP *UNK*)) (PRT (RP up)) (PP (NP (NNP friday)) (IN in) (NP (DT the) (QP (NN market) (IN for) (JJ high-yield)) (NN junk) (NNS bonds))) (, ,) (SBAR (S (VP (ADVP (RB often)) (VBN used) (PP (TO to)) (NP (VB finance) (NNS takeovers))))))))
+*IGNORE*
+(TOP (S (VP (CC and) (NP=2 (NNS banks)) (PP (ADVP (VB appear)) (TO to) (NP (PRN (S (VP (VB be) (VP (VBG taking) (NP (DT an) (RB increasingly) (ADJP (JJ skeptical)) (NN view)) (ADJP (QP (IN of) (NNS requests)) (IN for) (JJ high-risk)))))) (NN takeover) (NNS loans))))))
+*IGNORE*
+(TOP (S (NP (JJ takeover-stock) (NP (NNS traders)) (NN today)) (MD will) (VP (VB be) (VP (VBG scrambling) (ADVP (TO to) (VB learn) (RP of)) (NP (DT any) (UCP (NP (NNP ual) (NX (NNS developments))) (, ,) (CC and) (ADJP (JJ other))) (NN takeover) (NNS stocks)) (S (VP (VBP are) (RB likely) (ADVP (TO to) (VB trade) (RP in)) (ADJP (JJ *UNK*))))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (VBG trading) (PRT (RP in)) (NP (NNP amr) (NNS shares) (S (VP (VBD was) (PRT (VBN suspended)) (ADVP (RB shortly)) (NP (IN after) (CD 3) (RB p.m.) (NNP edt))))) (UCP (NP (NNP friday)) (CC and) (VP (VBD did) (RB n't) (VP (VB resume)))))))
+(TOP (NP (RB before) (DT the) (NX (NX (NX (NN halt)) (, ,) (NP (NNP amr))) (ADJP (JJ last) (PP (JJ traded) (IN at) (NP (CD 98))) (NP (CD 5\/8))))))
+*IGNORE*
+(TOP (S (ADVP (RB similarly)) (, ,) (NP (NP (NNP delta)) (NNP air) (NNP lines) (CC and) (NNP usair) (NN group)) (VP (VBD dropped) (NP (CD 10.1) (NP (NN %)) (CC and) (NP (CD 8.5))) (NP (NN %)) (, ,) (ADVP (RB respectively))) (, ,) (PP (IN on) (UCP (NP (NNP friday)) (CC and) (VP (MD could) (SBAR (S (VP (VB weaken) (RBR further)))))))))
+*IGNORE*
+(TOP (S (SBAR (IN on) (FRAG (NP (NNP friday)))) (, ,) (S (VP (VB anchor))) (NP (NNS shares)) (VP (VBD fell) (NP (CD 1)) (FRAG (NP (CD 1\/4))) (PP (TO to) (ADJP (QP (RB close) (IN at) (CD 18) (CD 1\/2)))))))
+*IGNORE*
+(TOP (S (FRAG (NP (NP (NN security)) (NP (NNP pacific)) (, ,) (ADVP (RB meanwhile)))) (, ,) (X (VBD said)) (NP (PRP it)) (VP (VBZ expects) (PP (TO to) (NP (NP (NP (VB arrange)) ($ $) (CD *UNK*)) (CD million) (ADJP (IN in)) (NN bank) (NNS loans)) (PP (IN for))) (NP (NNP vitro)))))
+*IGNORE*
+*IGNORE*
+(TOP (NP (NN investment) (NNS bankers) (S (VP (VBD interviewed) (PRT (RP over)) (NP (DT the) (NNP weekend) (NNP see) (FW a) (NNP silver) (NN lining)) (NP (ADVP (IN for)) (DT the) (NN merger) (NN business)) (S (NP (IN in) (DT the) (JJ stock-market) (NN drop)))))))
+(TOP (S (ADVP (JJ potential)) (NP (QP (NNS bidders) (IN for) (NNS companies))) (`` ``) (VP (VBD were) (S (VP (VBG saying) (IN that) (NP (NNS things)) (PP (NP (VBD were) (NN beginning)) (TO to) (S (VP (VB look) (ADJP (JJ expensive)) (, ,) ('' '') (S (VP (VBZ says)))))))) (NP (NNP mr.)) (PP (JJ *UNK*) (IN of) (NP (NNP lazard))))))
+(TOP (S (`` ``) (PP (NP (NP (NN nothing) (NNS makes) (NNS things)) (NN look) (ADJP (QP (JJR cheaper) (IN than) (DT a) (CD *UNK*))) (NN drop)) (IN in) (SBAR (DT the) (S (NP (NNP dow))))) (, ,) ('' '') (NP (NNP mr.)) (ADVP (RB *UNK*)) (VP (VBZ says))))
+*IGNORE*
+(TOP (S (VP (NN investment) (NP (NNS bankers)) (NP (NP (ADVP (IN expect) (RBS most) (IN of)) (DT those) (NN bargain) (NNS hunters)) (TO to) (NP (VB be) (NN *UNK*) (NNS corporations))))))
+(TOP (S (ADVP (RB now)) (, ,) (NP (`` ``) (ADJP (JJ corporate) (S (NP (NNS buyers)) (MD should) (VP (VB be))) (PP (JJ willing) (TO to) (NP (RBR *UNK*) (DT the) (NN acquisition)))) (NN market)) (NP (NP (RB because) (DT the) (NN competition) (QP (IN from) (NNS *UNK*))) (NNS buyers) (VBZ has)) (VP (VBN been) (VP (VBN reduced))) (. .)))
+*IGNORE*
+*IGNORE*
+(TOP (S (ADVP (RB but)) (ADVP (JJ several)) (NP (NNS stocks)) (ADVP (RB long)) (VP (VBN rumored) (VP (TO to) (S (VP (VB be) (UCP (ADJP (QP (JJ *UNK*) (IN for) (DT a) (NN takeover))) (CC or) (VP (VBG restructuring) (VP (VBD fell) (NP (CD 10)) (UCP (NP (NN %)) (CC or) (ADJP (JJR more))))))))))))
+*IGNORE*
+(TOP (S (VP (VBN given) (NP (DT the)) (PP (NP (NN weakness)) (IN in) (NP (NP (PDT both) (DT the) (NN junk) (NN bond)) (NN market) (CC and) (JJ the) (NN stock) (NN market))) (, ,) (NP (NP (NNS traders)) (NN fear) (SBAR (WHPP (IN that) (WHNP (DT these))) (S (NP (NNS transactions)) (MD may) (VP (VB be) (VP (VBN revised) (ADJP (RB yet)) (ADVP (RB again))))))))))
+(TOP (S (VP (NNS examples) (S (VP (VBP include) (ADJP (JJ *UNK*)) (, ,) (SBAR (WP$ whose) (S (NP (NP (NP (NN agreement) (TO to) (VB be)) (ADJP (VBN acquired) (RP for)) ($ $) (CD 25)) (DT a) (NN share)) (PP=4 (IN by) (NP (JJ *UNK*) (VBN collapsed) (JJ last) (NN month))))))))))
+(TOP (S (INTJ (UH *UNK*)) (NP (NNS shares)) (VP (VBD fell) (RB nearly) (NP (CD 20)) (PP (NP (NN %)) (IN on) (NP (NP (NNP friday)) (TO to) (NP (QP (RB close) (IN at) (CD 12) (CD 7\/8))))))))
+*IGNORE*
+(TOP (S (NP (NNP ramada)) (VBZ has) (VP (VBD said) (NP (PRP it)) (UCP (NP (NP (NNS hopes)) (TO to) (NP (VB propose) (DT a) (NNP new) (NN restructuring) (NN plan))) (CC but) (VP (VBZ has) (RB n't) (ADJP (JJ indicated) (ADVP (WRB when)) (S (NP (PRP it)) (MD will) (VP (VBP do)))) (ADVP (RB so)))))))
+*IGNORE*
+(TOP (S (NP (NP (CC but) (NN investment)) (NNS bankers) (S (VP (VBP say) (DT the) (NP (NN market))))) (MD may) (VP (VBP have) (RB *UNK*) (VP (DT some) (VBG *UNK*) (NP (NNS stocks))))))
+*IGNORE*
+(TOP (S (NP (NNP hilton)) (RB currently) (VP (VBZ is) (NP (VBG soliciting)) (NP (NNS bids)) (PP (IN for)) (PP (DT a) (PP (NP (NN sale)) (IN of) (NP (NN part))) (CC or) (PP (DT all) (IN of) (NP (PRP$ its) (NNP hotel) (CC and) (NNP casino) (NNS businesses)))))))
+*IGNORE*
+*IGNORE*
+(TOP (NP (NNP hilton) (NNS officials) (S (VP (VBD said) (NP (PRP they)) (S (VP (VBD were) (RB n't) (VP (VBN worried)))) (PP (NP (RBR about) (DT the) (NN drop)) (IN in) (NP (DT the) (NNP company) (POS 's))) (NP (NN stock))))))
+(TOP (S (`` ``) (PP (NP (NP (PRP i)) (SBAR (S (VP (MD ca) (RB n't) (VP (VBP believe))))) (SBAR (NP (IN that) (DT any) (JJ potential) (NN buyer)) (IN for) (S (NP (NNP hilton)) (MD would) (VP (VB be) (VP (VBN affected)))))) (IN by) (NP (CD one) (NNP day) (NNS 's) (NN trading))) (, ,) ('' '') (NP (NNP mr.)) (ADVP (RB *UNK*)) (VP (VBD said))))
+*IGNORE*
+*IGNORE*
+(TOP (S (`` ``) (NP (DT the)) (NP (NN market)) (VP (VBZ is) (RB just) (VP (VB *UNK*) (PRT (RP up)) (SBAR (WHPP (TO to) (WHNP (WDT that))) (S (VP (VBP point)))))) (. .)))
+(TOP (S (NP (JJ *UNK*) (NX (NNP *UNK*) (IN in) (NNP los) (NNP angeles))) (VP=5 (VBN contributed) (PP (TO to) (NP (DT this)) (NP (NN column))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (PRP it)) (MD must) (VP (ADVP (RB also)) (VB evaluate) (NP (DT the) (ADJP (JJ real-estate)) (NN market) (S (NP (IN in) (DT the) (JJ chosen) (NN location)))) (NP (IN from) (DT a) (JJ new) (NN perspective)))))
+(TOP (S (INTJ (RB specifically)) (, ,) (S (NP (PRP it)) (MD must) (VP (VB understand) (FRAG (WHADVP (WRB how)) (VP (NN real-estate) (NP (NNS markets)) (PP (JJ *UNK*) (TO to) (NP (NNS shifts))) (PP (IN in) (JJ regional) (NNS economies)))))) (CC and) (S (VP (ADVP (RB then)) (VBP take) (NP (NN advantage)) (PP (IN of) (DT these) (NNS opportunities))))))
+(TOP (FRAG (WHADVP (WRB when) (NP (NP (DT a) (ADJP (JJ regional)) (NN economy) (NN *UNK*) (NN cold)) (, ,) (NP (DT the) (ADJP (JJ local)) (NN real-estate) (NN market) (S (VP (VBZ gets)))) (NN *UNK*)))))
+*IGNORE*
+(TOP (S (VP (ADVP (DT this)) (VBD was) (S (VP (VBN seen) (NP (IN in) (DT the) (JJ late) (NNS 1960s)) (PP (NP (ADJP (IN in)) (NNP los) (NNP angeles) (CC and) (NNP the) (NNS mid-1970s)) (IN in) (NP (NNP new))) (ADVP (NNP york)))))))
+*IGNORE*
+(TOP (SINV (FRAG (WHADVP (WRB why))) (VP (VBP do)) (NP (NP (JJ local) (JJ real-estate) (NNS markets) (NNS *UNK*)) (TO to) (NP (JJ regional) (ADJP (JJ economic)) (NNS cycles)))))
+*IGNORE*
+(TOP (S (NP (NNP metropolitan)) (NP (NNP detroit)) (PRN (S (VP (VBD was) (ADJP (VBN written) (RP off)) (ADVP (RB economically)) (NP (IN during) (DT the) (JJ early) (NNS 1980s)) (, ,) (NP (RB as) (DT the) (JJ domestic) (NN auto) (NN industry))))) (VP (VBD suffered) (DT a) (NP (ADJP (JJ serious)) (JJ sales) (NN depression) (CC and) (NN adjustment)))))
+(TOP (NP (NP (NN area)) (NN employment) (S (VP (VBD dropped) (PRT (RP by)) (NP (CD 13)) (PP (NP (NN %)) (IN from) (NP (NP (PRP$ its)) (CD 1979) (JJ peak) (CC and) (JJ retail) (NNS sales))) (S (VP (VBD were) (PRT (RP down)) (ADVP (CD 14)) (NP (NN %))))))))
+(TOP (S (ADVP (RB however)) (, ,) (NP=1 (NP (DT the) (ADJP (JJ real-estate)) (NN market) (S (VP (VBD was) (ADJP (VBN hurt)) (X (RB even))))) (JJR more))))
+(TOP (S (VP (ADVP (RP for) (NP (NN example) (, ,) (ADJP (JJ residential)) (NN building) (NNS permits)) (PP (NP (RB in) (DT the) (NN trough) (NN year)) (IN of) (NP (CD 1982)))) (VBD were) (PRT (RP off)) (NP (CD 76)) (PP (NP (NN %)) (IN from) (NP (DT the) (CD 1979) (NP (NN peak)) (NN level))))))
+(TOP (S (ADVP (RB once)) (NP (JJ metropolitan) (NNP detroit) (POS 's)) (NP (NN economy)) (VP (VBD rallied) (PRT (RP in)) (NP (DT the) (ADJP (CD mid-1980s)) (, ,) (JJ real) (NN estate)) (SBAR (S (VP (VBD rebounded)))))))
+(TOP (S (VP (VBG building) (NP (NNS permits)) (, ,) (SBAR (IN for) (FRAG (NP (NN example)))) (, ,) (ADVP (VBD soared)) (PP (NP (DT a) (VBG staggering) (CD 400) (NN %)) (IN between) (NP (QP (CD 1982) (CC and) (DT the) (NN peak)))) (PP (NP (NN year)) (IN of) (NP (CD 1986))))))
+(TOP (S (INTJ (WRB where)) (, ,) (NP (JJ savvy) (UCP (NNP corporations) (CC and) (JJ professional)) (NNS firms) (S (VP (VBP are) (RB now) (VP (VBG asking))))) (, ,) (NP (NNP are) (NN today) (POS 's)) (VP (NNS opportunities))))
+(TOP (S (VP (VBP look) (ADVP (RB no)) (NP (QP (RBR further) (IN than) (JJ metropolitan)) (NP (NNP houston)) (CC and) (NP (NNP denver))) (, ,) (PP (NP (CD two)) (IN of) (NP (DT the) (UCP (ADJP (RBS most) (JJ depressed) (, ,) (JJ overbuilt)) (CC and) (PP (NP (RB potentially) (VBN undervalued) (NN real-estate) (NNS markets)) (IN in) (NP (DT the)))) (NNP nation))))))
+(TOP (S (SBAR (IN of) (NN course) (S (VP (PRN (, ,) (RB some) (NP (NNS observers))) (VB have) (NP (NNPS *UNK*) (NNP houston) (CC and) (NNP denver)) (NP (ADVP (IN for)) (DT the) (JJ past) (CD five) (NNS years))))) (ADVP (RB as)) (NP (DT a)) (VP (VB *UNK*) (VP (VB play)))))
+(TOP (FRAG (CC but) (RB now) (SBAR (S (VP (VBZ appears) (PP (TO to) (NP (VB be)) (NP (DT the))) (NP (NN time) (TO to) (VB act)))))))
+(TOP (S (NP=3 (NP (NP (JJ metropolitan) (NNP houston) (POS 's)) (NN economy) (S (VP (VBD did) (INTJ (INTJ (VB drop)) (CC and) (INTJ (RB then))) (PP (JJ *UNK*) (IN in) (NP (DT the)))))) (PP (NP (NNS years)) (IN after) (NP (PRP$ its)))) (NP=4 (CD 1982) (NN peak))))
+(TOP (S (PP (IN in) (DT the) (NNS mid-1980s)) (, ,) (ADVP (NN employment)) (VP (VBD was) (PRT (RP down)) (PP (NP (ADVP (IN as) (RB much) (RB as)) (CD 5) (NN %)) (IN from) (NP (NP (DT the)) (CD 1982) (JJ peak) (CC and) (JJ retail) (NNS sales))) (S (VP (VBD were))) (NP (ADVP (RB off)) (CD 13) (NN %)))))
+(TOP (S (NP (DT the) (ADJP (JJ real-estate)) (NN market) (S (VP (VBD suffered)))) (ADVP (RB even)) (NP (RBR more) (JJ severe) (NNS setbacks))))
+(TOP (NP (NP (NP (NN office)) (NN construction) (S (VP (VBD dropped)))) (CD 97) (NX (NN %))))
+(TOP (NP (NP (DT the)) (NN vacancy) (NN rate) (S (VP (VBD soared) (ADJP (QP (JJR more) (IN than) (CD 20) (NN %))) (PP (IN in) (UCP (NP (RB nearly) (DT every) (NN product) (NN category)) (, ,) (CC and) (ADJP (QP (JJR more) (IN than) (CD 30) (NN %))))) (SBAR (IN of) (NN office) (S (VP (ADVP (NN space)) (VBD was) (S (ADJP (JJ vacant))))))))))
+(TOP (S (PP (TO to) (NP (DT some)) (NP (NNS observers))) (, ,) (NP (DT the) (UCP (ADJP (JJ empty))) (NN office) (NNS buildings)) (ADVP (IN of)) (ADVP (NNP houston)) (VP (POS 's) (NP (`` ``) (JJ *UNK*) (NNS *UNK*) ('' '') (S (VP (VBD were)))) (PP (JJ *UNK*) (IN of) (NP (DT a) (RB very) (ADJP (JJ troubled)) (NN economy))))))
+(TOP (S (X (X (IN as)) (ADJP (JJ usual))) (, ,) (X (DT the)) (NP (NP (NN real-estate)) (NN market) (S (VP (VBD had)))) (VP (VBN *UNK*))))
+(TOP (S (FRAG (ADVP (RB actually))) (, ,) (X (DT the)) (NP (NP (NN region) (POS 's)) (NN economy) (S (VP (VBD retained)))) (VP (NP=2 (DT a) (NN firm)) (NP (NNP foundation)))))
+(TOP (S (NP (NP (JJ metropolitan) (NNP houston) (POS 's)) (NN population) (S (VP (VBZ has)))) (VP=5 (VBN held) (PP (JJ steady) (IN over) (NP (NP (DT the)) (JJ past) (CD six) (NNS years))))))
+(TOP (S (VP (ADVP (CC and)) (JJ personal) (NP (NP (NN income)) (, ,) (ADJP (IN after) (JJ slumping) (PP (IN in) (DT the) (NNS mid-1980s))) (, ,) (S (VP (VBZ has)))) (PP (ADVP (VBN returned)) (TO to) (NP (PRP$ its) (CD 1982) (NP (QP (NN level) (IN in) (JJ real))) (NN dollar) (NNS terms))))))
+(TOP (SINV (FRAG (NP=1 (NN today)) (, ,) (NP (NP (JJ metropolitan) (NNP houston) (POS 's)) (NN real-estate) (NN market) (S (VP (VBZ is))))) (VP (VBN poised)) (NP (IN for) (DT a) (JJ significant) (NN turnaround))))
+(TOP (S (VP (ADVP (JJR more) (IN than) (JJ *UNK*)) (ADVP (NNP jobs)) (VBD were) (NP (UCP (PP (JJ added) (IN in) (NP (NP (NN *UNK*) (NNP houston) (JJ last) (NN year)) (, ,) (RB primarily) (IN in) (NP (NN biotechnology) (, ,) (NN petrochemical) (NN processing)) (, ,))) (CC and) (NP (DT the))) (NN computer) (NN industry)))))
+(TOP (S (VP (NP=2 (DT this) (NN growth)) (S (VP (VBZ puts) (NP (NNP houston)) (NP (RB in) (DT the) (JJ top) (CD five) (NN *UNK*) (NNS areas)) (NP (IN in) (DT the) (ADJP (NN nation)) (JJ last) (NN year)))))))
+(TOP (S (ADVP (CC and)) (VP (VBZ forecasts) (NP (NN project)) (PP (NP (DT a) (CD 2.5) (NP (NP (NN %)) (QP (TO to) (CD 3)) (NN %) (NN growth)) (NN rate)) (IN in) (NP (NNS jobs))) (NP (RB over) (DT the) (JJ next) (JJ few) (NNS years))) (: --) (RB nearly) (S (NP (JJ twice) (DT the) (JJ national) (NN average)))))
+*IGNORE*
+(TOP (S (FRAG (PP (IN by) (DT some) (NNS measures))) (, ,) (X (NP (JJ metropolitan) (NNP denver) (POS 's))) (NP (NN economy)) (VP (VBZ has) (ADVP (RB actually)) (ADJP (JJ improved)) (NP (ADVP (IN in)) (DT the) (JJ past) (CD four) (NNS years)))))
+(TOP (NP (PRP$ its) (NN population) (S (VP (VBZ has) (PP (PP (JJ continued) (TO to) (NP (NN increase))) (IN since) (NP (CD 1983))) (, ,) (NP (DT the) (ADJP (JJ peak)) (NN year) (S (NP (IN of) (DT the) (JJ economic) (NN cycle))))))))
+(TOP (S (VP (NN employment) (VP (VBZ is) (RB now) (VP (NP=4 (CD 4) (NN %)) (PP (ADVP (RBR higher)) (IN than) (IN in) (NP (CD 1983))))))))
+(TOP (S (NP (VBG buying) (ADJP (QP (NN income) (IN in) (JJ real))) (NNS dollars)) (ADVP (RB actually)) (VP (VBD increased) (NP (CD 15)) (UCP (PP (NP (NN %)) (IN between) (NP (CD 1983))) (CC and) (NP (CD 1987)))) (PRN (-LRB- -lrb-) (NP (DT the) (ADJP (JJS most)) (ADJP (JJ recent)) (NN year)) (NP (JJ available)) (-RRB- -rrb-))))
+*IGNORE*
+(TOP (NP (UCP (NP (IN in) (DT a) (JJ *UNK*) (NN *UNK*)) (, ,) (NP (RB therefore)) (, ,) (NP (DT the) (ADJP (NP (NN region) (POS 's))) (JJ real-estate) (NN market) (RB all)) (CC but) (ADJP (VBN collapsed) (RP in))) (JJ recent) (NNS years)))
+(TOP (S (VP (ADVP (NN housing)) (VBG building) (NP (NNS permits)) (S (VP (VBP are) (RB down) (VP (ADJP (QP (JJR more) (IN than) (CD 75) (NN %))) (PP=4 (IN from) (NP (PRP$ their) (QP (CD 1983)) (NNS *UNK*)))))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (NNP mr.)) (RB *UNK*) (VP (VBZ is) (NP (NN managing) (NN partner) (NP (NP (IN of) (DT a) (ADJP (JJ real-estate)) (JJ advisory) (NN firm)) (VP (VBN based)) (X (IN in))) (NNP beverly) (NNP hills)) (, ,) (NP (NNP calif)))))
+*IGNORE*
+(TOP (S (NP (NP (NNS analysts)) (UCP (VP (VBN had) (VP (VBN been) (VP (VBG projecting) (PRT (IN that)) (NP (DT the) (NNP company) (POS 's)) (S (NP (NNS earnings)) (MD would) (VP (VB be) (VP (ADVP (IN between)) (NP=3 (CD 25) (NNS cents)))))))) (CC and) (NP (CD 30))) (NNS cents)) (NP=2 (DT a) (NN share))))
+(TOP (NP (DT the) (NP (NP (NP (JJ year-earlier) (ADJP (JJ third-quarter)) (NNS earnings)) (VP (VBD amounted)) (X (TO to))) ($ $) (CD 4.1)) (CD million)))
+(TOP (S (VP (NP=2 (DT the) (NN company)) (S (VP (VBD said) (DT a) (VP (VB drop) (PRT (RP in)) (NP (NN activity)) (ADVP (IN in)) (PP (NP (DT the) (NNP *UNK*) (NNP industry) (JJ reduced) (NNS sales) (NN volume)) (IN at) (NP (PRP$ its) (CD two) (VBG *UNK*) (NNS operations)))))))))
+(TOP (S (FRAG (ADVP (RB also))) (, ,) (X (DT the)) (NP (NN company)) (VP (VBD said) (NP (PRP$ its) (JJ commercial) (NNS products) (NN operation)) (S (VP (VBD failed))) (PP (TO to)) (NP (VB meet) (NNS forecasts)))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (SINV (NP (PRP i)) (VP (VBP want) (NP (ADVP (TO to) (VB say) (RP in)) (DT the) (JJS most) (NN *UNK*) (NN way)) (NP (PRP i)) (SBAR (S (VP (MD can)))) (: :) (NP (PRP i))) (NP (RB certainly) (NN hope) (RB so)) (. .)))
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (NNP mr.) (NP (NNP keating)) (S (VP (VBN had) (VP (VBN complained) (VP (PP (IN that) (DT the) (NNS regulators)) (VBD were) (VP (VBG being) (ADVP (RB too)) (VP (VBN *UNK*))))))))))
+*IGNORE*
+(TOP (S (NP (NP (NNP lincoln)) (VBZ 's) (NN parent)) (NP (NN company) (, ,) (JJ american) (NNP continental) (NNP corp.)) (, ,) (S (VP (VBD entered) (NP (NP (NN bankruptcy-law)) (NP (NNS proceedings)) (NP (DT this) (NP (NNP april)) (CD 13)) (, ,) (CC and) (NP (NNS regulators))) (S (VP (VBN seized))) (NP (DT the) (NAC (NNP thrift) (DT the) (JJ next)) (NX (NN day)))))))
+(TOP (S (NP (DT the) (RB newly) (VBN formed) (NN resolution) (NN trust)) (ADVP (NNP corp.)) (, ,) (PP (ADVP (NN successor)) (TO to) (NP (DT the) (NNP bank) (NX (NN board)))) (, ,) (VP (VBN filed) (VP (NN suit) (PRT (IN against)) (NP (NNP mr.) (UCP (NNP keating) (CC and) (JJ several)) (NNS others)) (NP (IN on) (NNP sept.) (CD 15))))))
+(TOP (S (VP (NNP mr.) (NP (NNP keating)) (S (VP (VBZ has) (S (VP (VBN filed) (NP (PRP$ his) (JJ own) (NX (NN suit))) (, ,) (S (VP (VBG alleging) (PRT (IN that)) (NP (PRP$ his) (NN property) (S (VP (VBD was)))) (S (VP (VBN taken))))))) (ADVP (RB illegally)))))))
+(TOP (S (NP (NP (DT the)) (NN cost) (PP (TO to) (NP (NNS taxpayers)) (NP (IN of) (NN lincoln) (POS 's))) (S (VP (VB collapse) (VP (VBZ has))))) (VP=5 (VBN been) (PP (ADVP (JJ estimated)) (IN at) (IN as) (NP (QP (RB much) (IN as) ($ $) (CD 2.5) (CD billion)))))))
+(TOP (S (VP (NNS details) (PRT (IN of)) (NP (NP (DT the)) (NN affair) (S (VP (VB have) (VP (VBN become) (NP (NN public)) (ADVP (RB gradually)) (NP (ADVP (RB over)) (DT the) (JJ past) (CD two) (NNS years)) (, ,) (PP (NP (RB mostly) (IN as) (DT a) (NN result)) (IN of) (NP (NN reporting))))))) (PP (IN by) (JJ several) (NNS newspapers)))))
+*IGNORE*
+(TOP (SINV (ADVP (NNP sen.)) (ADVP (RB *UNK*)) (VP (VBD said)) (NP (PRP he)) (S (VP (VBN had) (VP (VBD meant) (PP (TO to) (NP (NN pay)) (PP (IN for) (DT the) (NNS trips))) (NP (IN at) (DT the) (NN time) (RB but)) (SBAR (WHPP (IN that) (WHNP (DT the))) (S (NP (NN matter)) (`` ``) (VP (VBD fell)) (PP (IN between) (DT the) (NNS cracks))))))) (. .)))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (ADVP (RB that)) (VBD was) (PRT (RP in)) (NP (NN addition)) (PP (TO to) (NP ($ $) (QP (NN *UNK*) (IN in) (JJ direct))) (PP (NP (NN campaign) (NNS donations) (S (VP (VBD arranged)))) (IN by) (NP (NNP mr.) (NAC (NNP keating) (PP (TO to)) (NP (DT the))) (NNP ohio) (NNP senator)))))))
+*IGNORE*
+(TOP (S (NP (NNP wilson)) (ADVP (RB *UNK*)) (, ,) (PP (ADVP (NN staff)) (NP (NN director)) (IN of) (NP (DT the) (NNP ethics) (NX (NN panel)))) (, ,) (VP (MD would) (RB n't) (VP (VB comment)))))
+(TOP (S (NP (NNP sen.)) (ADVP (NNP riegle)) (VP (VBD said) (S (NP (PRP he)) (MD would) (VP (VB cooperate))) (SBAR (WHPP (IN with) (WHNP (DT any))) (S (NP (NN inquiry))))) (, ,) (CC but) (S (PP (IN that)) (NP (PRP$ his) (NN conduct) (S (VP (VBN had) (VP (VBN been))))) (`` ``) (ADVP (RB entirely)) (VP (JJ proper))) (. .)))
+*IGNORE*
+(TOP (S (NP (NNP sen.)) (SBAR (S (VP (ADVP (RB *UNK*)) (VBD said) (, ,) (`` ``) (S (INTJ (WRB when)) (NP (DT all)) (VP (VBZ is) (VP (VBD said)) (CC and) (VP (VBN done))))))) (, ,) (NP (PRP i)) (VP (VB expect) (VP (TO to) (S (VP (VB be) (ADVP (RB fully)) (ADJP (JJ *UNK*)))))) (. .)))
+*IGNORE*
+(TOP (S (FRAG (SBARQ (`` ``) (WHADVP (WRB why)) (SQ (VP (VBD did) (NP (RB n't) (DT the) (NN bank) (NN board)) (NP (NNP act)) (ADVP (RB sooner)))) (. ?) ('' ''))) (NP (PRP he)) (VP (VBD said))))
+(TOP (S (VP (PP (`` ``) (IN that) (S (VP (VBZ is) (FRAG (WHNP (WP what) (JJ common) (NN cause)))))) (MD should) (VP (VB ask) (VP (VB be) (VP (VBD investigated)))))))
+(TOP (NP (NNP trinity) (NNPS industries) (PRN (S (VP (ADVP (NNP inc.)) (VBD said) (NP (PRP it)) (S (VP (VBD reached) (DT a) (ADJP (JJ preliminary)) (PP (NP (NP (NN agreement) (TO to) (VB manufacture)) (CD 1,000) (NN coal) (NN rail) (NNS cars)) (IN for) (NP (NNP norfolk))) (NP (NNP southern))))))) (NNP corp)))
+(TOP (S (NP (NNP trinity)) (VP=5 (VBN estimated) (PP (NP (DT the) (NNP value) (IN of) (NNP the) (NNP pact)) (IN at) (NP (QP (JJR more) (IN than) ($ $) (CD 40) (CD million)))))))
+(TOP (S (VP (NP (NNP trinity)) (VBD said) (NP (PRP it)) (PP (NP (NNS plans)) (TO to) (S (VP (VB begin) (PRT|ADVP (NN delivery)) (NP (ADVP (IN of)) (DT the) (NN rail) (NNS cars))))) (PP (NP (IN in) (DT the) (JJ first) (NN quarter)) (IN of) (NP (CD 1990))))))
+*IGNORE*
+(TOP (S (INTJ (WRB when)) (NP (NNP china)) (VP (VBD opened) (PP (NP (PRP$ its) (NNS doors) (S (X (X (TO to)) (ADJP (JJ foreign))) (PP (NP (NNS investors)) (IN in) (NP (CD 1979))) (, ,) (NP (NNP toy) (NAC (NNPS makers) (PP (IN from))) (NNP hong) (NNP kong)) (VP (VBD were)))) (IN among) (NP (DT the))) (PP (JJ first) (TO to) (NP (NNP march))) (X (IN in)))))
+(TOP (S (NP (DT the) (NNP toy) (NX (NNS makers))) (X (VBD were)) (VP (VBN pushed) (PRT (RP across)) (ADVP (DT the)) (PP (NP (NN border)) (IN by) (NP (VBG rising) (NN labor) (CC and) (NN land) (NNS costs))) (NP (IN in) (DT the) (JJ british) (NN colony)))))
+*IGNORE*
+(TOP (S (X (IN although)) (PP (NP (DT the) (NNP manufacturers) (NN stress) (SBAR (IN that) (NN production) (S (VP (VBZ has) (RB n't) (VP (VBN been) (VP (VBN affected))))))) (IN by) (NP (NP (NNP china)) (VP (VBZ 's)) (JJ political) (NN turmoil))) (, ,) (NP (PRP they)) (VP (VBP are) (S (VP (VBG looking))) (PP (IN for) (JJ additional) (NNS sites)))))
+(TOP (NP (NP (DT the) (NNP toy) (PP (NP (NP (NNS makers)) (, ,) (CC and) (NP (PRP$ their) (JJ foreign) (NX (NNS buyers))) (, ,) (NP (VBP cite) (NN uncertainty))) (IN about) (NP (NNP china))) (POS 's)) (JJ economic) (CC and) (JJ political) (NNS policies)))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (PRP$ their) (NNS steps) (S (VP (VBD were) (RB partly) (VP (VBD prompted) (ADVP (IN by)) (VP (NN concern) (PRT (RP over)) (NP (DT a)) (NP (NN deterioration))))))) (PP=4 (IN of) (NP (NNP business) (NNS conditions) (NNP in) (NNP southern) (NNP china)))))
+(TOP (S (ADVP (IN by)) (NP (NP (VBG diversifying) (NN supply) (NNS sources)) (, ,) (NP (DT the)) (NN toy)) (NP (NNS makers)) (VP (VBP do) (RB n't) (VP (VBP intend) (PP (TO to) (SBAR (S (VP (VB withdraw) (PRT (IN from)) (NP (NNP china)) (, ,) (NP (NNS manufacturers) (CC and) (JJ foreign) (NNS buyers)))))) (VP (VBP say))))))
+(TOP (S (NP (PRP it)) (MD would) (VP (ADVP (RB n't)) (VB be) (NP (QP (JJ easy) (TO to) (JJ *UNK*)) (NP (RB quickly) (DT the) (NN manufacturing) (NN capacity)) (ADJP (VBN built) (RB up) (PP (IN in))) (JJ southern) (NN china)) (NP (IN during) (DT the) (JJ past) (NN decade)))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (NP (NNP hong)) (NNP kong) (NN trade) (S (VP (NNS figures) (S (VP (VBP illustrate) (NP (DT the) (NNP toy) (NNS makers) (POS ')) (PP (NP (NNP reliance)) (IN on) (NP (NNS factories))) (ADVP (RB across))))))) (NP=2 (DT the) (NN border))))
+*IGNORE*
+(TOP (SINV (FRAG (NP (NP (QP (CC but) (JJR *UNK*))) (, ,) (RB mainly) (IN from) (NP (NNP china)) (, ,))) (VP (VBD jumped) (NP (CD 75)) (NP (NN %)) (, ,) (PP (TO to)) (PP (NP=2 ($ hk$) (CD *UNK*)))) (NP (CD billion))))
+*IGNORE*
+(TOP (S (FRAG (NP (NNS manufacturers)) (S (VP (VBP say) (RB there) (VP (VBZ is) (ADVP (RB no)) (ADJP (JJ immediate)) (PP (JJ substitute) (IN for) (NP (NNP southern)))))) (NP (NNP china))) (, ,) (X (SBARQ (WHADVP (WRB where)))) (NP (DT an) (VBN estimated) (CD *UNK*) (NNS people)) (VP (VBP are) (ADJP (VBN employed)) (NP (ADVP (IN by)) (DT the) (NN toy) (NN industry)))))
+(TOP (S (X (IN in)) (X (DT the)) (NP (NP (NN meantime)) (, ,) (NP (RB as) (NNS manufacturers) (CC and) (NNS buyers)) (NP (VB seek) (JJ new) (NNS sites)) (, ,) (NP (PRP they))) (VP (VBP are) (ADJP (VBG focusing)) (NP (RB mainly) (IN on) (JJ southeast) (NN asia)))))
+*IGNORE*
+(TOP (NP (NP (NNP malaysia) (, ,) (NNP the) (NNPS philippines)) (CC and) (NP (NNP indonesia)) (SBAR (S (VP (ADVP (RB also)) (VBP are) (VP (VBG being) (VP (VBN studied))))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (NP (NP (NP (DT the) (NNP industry) (VBG *UNK*) (JJ last) (NN year)) (CC and) (NP (DT this) (ADVP (NP (NN year)) (RB as) (NP (DT a))) (NN period)) (SBAR (IN of) (NN recovery) (IN that) (S (VP (MD will))))) (QP (JJ lead) (TO to) (JJ improved)) (NNS results)))
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (VBD introduced) (IN in) (NP (NNP *UNK*)) (, ,) (NP (DT the) (NNP *UNK*) (NN plastic) (NN *UNK*) (S (VP (VBP are) (ADJP (VBN based) (RP on)) (NP (DT an) (ADJP (JJ american)) (JJ comic) (NN book) (CC and) (NN television) (NNS series))))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (JJ other) (NNP hong) (NNP kong) (NNS manufacturers)) (VP=2 (VB expect) (NP (PRP$ their) (NNS results) (S (VP (TO to) (S (VP (VBP improve) (ADVP (RB only)) (RB slightly) (NP (DT this)) (PP (NP (NN year)) (IN from) (NP (CD 1988)))))))))))
+*IGNORE*
+(TOP (S (INTJ (UH *UNK*)) (NP (NNS buyers)) (VP (VBP have) (RB little) (ADVP (NN money)) (VP (VBD left) (ADVP (TO to) (VB spend) (RP on)) (ADJP (JJ other)) (NP (NNS products))))))
+*IGNORE*
+*IGNORE*
+(TOP (SINV (FRAG (NP (NNS manufacturers))) (VP (VBP are)) (NP (VBG upgrading) (JJ *UNK*) (NN power) (NNS plants))))
+(TOP (S (VP (NN bank) (NP (NN credit)) (PP (IN for) (NNP china) (NNS investments)) (NP (DT all) (ADJP (QP (CC but) (JJR *UNK*)) (IN up) (JJ following)) (NNP june) (CD 4)))))
+*IGNORE*
+(TOP (NP (UCP (NP (NNP but) (, ,) (NNP toy) (NNPS manufacturers)) (CC and) (ADJP (JJ other) (RB *UNK*) (S (VP (VBP say) (S (NP (NNP beijing)) (MD will) (VP (VB be))) (PP (JJ *UNK*) (IN from) (NP (VBG tightening) (NNS controls) (PP (IN on)))))))) (NNP *UNK*) (NNP southern) (NNP china)))
+(TOP (NP (NP (NP (NP (PRP they)) (NP (VB say) (NNP china) (POS 's)) (NN trade) (NN deficit)) (VBZ is) (VBG widening)) (CC and) (ADVP (NP (DT the) (NNP country) (VBZ is)) (RB too) (PP (NP (RB short) (IN of) (JJ foreign) (NN exchange)) (IN for) (NP (NP (PRP it)) (TO to) (NP (NNP *UNK*))))) (NP (QP (NN production) (IN in) (JJ *UNK*)))))
+(TOP (NP (`` ``) (NP (DT the) (NNPS chinese) (NNS leaders)) (SBAR (S (VP (VB have) (VP (TO to) (S (VP (VB decide) (PRT (IN whether)) (NP (NP (PRP they)) (VP (VB want) (UCP (NP (NN control)) (CC or) (SBAR (IN whether) (FRAG (DT the) (INTJ (VB want)) (NP (NNS exports)))))) (, ,) ('' '') (VP (VBZ says))) (NP (NNP mr.)) (PP (JJ *UNK*) (IN of) (NP (NNP *UNK*)))))))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (NP (DT the) (ADJP (ADJP (NN case)) (S (, ,) (PP (FW *UNK*) (FW vs.) (NP (NNP minnesota))) (, ,) (VP (MD will))) (SBAR (S (VP (VB be) (VP (VBD argued)))))) (NNP nov.) (CD 29)))
+*IGNORE*
+(TOP (NP (NP (NP (NP (DT the) (NNP nation) (POS 's)) (NN no.) (CD 1) (NN aluminum) (NN maker)) (VP (VBD earned) (VP (NP=2 ($ $) (CD *UNK*)) (NP (CD million))) (, ,) (CC or) (VP (NP=2 ($ $) (CD *UNK*)))) (X (FW a) (NN share) (, ,) (FW a))) (NN year) (S (ADJP (JJR earlier)))))
+(TOP (S (VP (ADVP (NN revenue)) (VBD rose) (NP (CD 11)) (SBAR (NP (QP (NN %) (TO to) ($ $) (CD *UNK*) (CD billion))) (IN from) (S (VP (NP=2 ($ $) (CD *UNK*)) (NP (CD billion))))))))
+(TOP (NP (NP (NP (NNS analysts)) (, ,) (SBAR (WHNP (WP who)) (VP (VBD were) (ADJP (ADJP (VBG expecting)) (CONJP (RB *UNK*) (TO to) (VB post)) (ADJP (QP (RB around) ($ $) (CD *UNK*) (TO to) ($ $) (CD 3)))) (SBAR (DT a) (S (NP (NN share)))))) (, ,) (S (VP (VBD were)))) (QP (JJ surprised) (IN at) (DT the) (NN lackluster)) (JJ third-quarter) (NNS results)))
+(TOP (NP (`` ``) (NP (PRP it) (POS 's)) (PP (JJ disappointing)) (, ,) ('' '') (SBAR (S (VP (VBD said) (NP (NNP william)) (ADVP (RB *UNK*)) (, ,) (SBAR (DT an) (S (NP (NN analyst)) (PP=4 (IN with) (NP (NP (NNP smith)) (NNP barney) (, ,) (NNP harris) (NNP upham) (CC &) (NNP co))))))))))
+*IGNORE*
+(TOP (S (`` ``) (IN in) (NP (NP (NP (NN addition)) (, ,) (VP (VBZ costs) (PP (NP (VBD were) (ADJP (ADJP (JJR higher) (RB partly) (JJ due)) (TO to) (ADJP (VBN scheduled))) (NN plant) (NNS *UNK*)) (IN for) (NP (NN modernization))) (NP (NN work))) (, ,) ('' '')) (DT the) (NN company)) (VP (VBD said))))
+*IGNORE*
+(TOP (S (ADVP (RB nevertheless)) (, ,) (NP (DT the) (ADJP (NN company)) (VBD said) (NNS shipments)) (VP (VBD were) (PRT (RP up)) (PP (ADVP (RB slightly)) (TO to) (NP (VBG *UNK*) (JJ metric) (NNS tons))) (SBAR (IN from) (FRAG (ADJP (JJ *UNK*))))) (, ,) (PP (NP (RBR *UNK*) (DT the) (NN impact)) (IN of) (NP (NP (DT the)) (JJ unexpected) (VBG earning) (NN decline)))))
+(TOP (S (NP (DT the)) (VBZ results) (VP (VBD were) (ADJP (VBN announced)) (NP (RB after) (DT the) (NN stock) (NN market)) (S (VP (VBD closed))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (ADVP (CC and)) (NP (IN for)) (NP (CD six) (NX (NX (NNS years)) (, ,) (NX (NNP nbc)) (, ,) (NX (NNP abc)) (CC and) (NX (NNP cbs)))) (VP (VB have) (VP (VBD negotiated) (PP (IN with) (NNP hollywood) (NNS studios)) (NP (NP (IN in) (DT a) (JJ *UNK*) (NN attempt)) (TO to) (NP (NN change))) (NP (DT that))))))
+(TOP (S (FRAG (PP (CC but) (IN with) (NP (JJ foreign) (NX (NNS companies))) (CC *UNK*) (NP (ADVP (RB up)) (NNP u.s.) (NN movie) (NNS studios)))) (, ,) (X (DT the)) (NP (NNS networks)) (VP (VBP are) (ADJP (JJ pressing)) (NP (PRP$ their) (NN fight) (SBAR (RB harder) (IN than) (FRAG (ADVP (RB ever))))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (NP (NNP nbc)) (VBZ 's) (NN interest)) (MD may) (VP (VBP revive) (NP (DT the)) (NP (NN deal)) (, ,) (SBAR (WDT which) (S (NP (NP (NNP mgm\/ua)) (VBN killed) (JJ last) (NN week)) (ADVP (WRB when)) (NP (NP (DT the) (ADJP (JJ australian)) (NN concern) (S (VP (VBD had)))) (NN trouble) (VBG raising) (NN cash)))))))
+(TOP (S (VP (ADVP (ADVP (RB even)) (SBAR (WHPP (IN if) (WHNP (WDT that))) (S (VP (VB deal) (VP (VBZ is) (RB n't) (VP (VBN revived) (, ,) (NP (NNP nbc))))))) (SBAR (S (VP (VBZ hopes))))) (TO to) (VP (VB find) (X (DT another))))))
+(TOP (NP (`` ``) (NP (PRP$ our) (NNS doors) (S (VP (VBP are)))) (PP (RP open)) (, ,) ('' '') (SBAR (S (NP (DT an) (NNP nbc) (NN spokesman) (S (VP (VBZ says))))))))
+(TOP (S (NP (NNP nbc)) (MD may) (RB yet) (VP (VBP find) (DT a) (VP (RB way) (TO to) (VP (VBP take) (DT a) (PP (NP (NN passive) (, ,) (NN minority) (NN interest)) (IN in) (NP (DT a))) (PP (JJ *UNK*) (IN without) (NP (VBG violating) (NNP the) (NNS rules))))))))
+*IGNORE*
+(TOP (NP (CC but) (NP (NP (DT the) (NNPS networks) (POS ')) (NN push) (S (VP (MD may) (RB only) (VP (VBZ *UNK*) (NP (DT an) (RB increasingly) (ADJP (JJ bitter)) (NN rift)) (PRT (IN between)) (NP (PRP them)))))) (CC and) (NP (NNP hollywood)) (NX (NNS studios))))
+(TOP (NP (DT both) (NAC (NNS sides) (SBAR (S (VP (VBP are) (ADVP (TO to) (VB sit) (RP down)) (ADJP (JJ next) (ADVP (NN month)) (NP (ADVP (IN for)) (RB yet) (DT another) (NN meeting))) (SBAR (IN on) (WHADVP (WRB how)) (S (NP (PRP they)) (MD might) (VP (VBP agree) (RB on) (VP (VBG reducing))))))))) (NNP *UNK*) (NNS restraints)))
+(TOP (S (ADJP (JJ few)) (NP (NNS people)) (PP (JJ *UNK*) (TO to) (NP (NP (DT the)) (NNS talks) (S (VP (VBP expect) (DT the) (NP (NNS studios)))))) (PP (TO to) (ADJP (JJ *UNK*)))))
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (SBAR (ADVP (CC and)) (WHNP (WDT that)) (S (VP (VBZ 's) (NP (ADVP (WRB why)) (DT the) (NNS rules)) (, ,) (NP (IN for) (DT the) (ADJP (JJS most)) (NN part))))) (, ,) (MD must) (VP (VB stay) (PRT (RP in)) (NP (NN place)) (, ,) (ADVP (PRP he)) (S (VP (VBZ says)))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (ADVP (JJ such)) (VBG *UNK*) (NP (VB leave) (NN network) (NNS officials)) (NP (PDT all) (DT the) (JJR more)) (PP (JJ doubtful) (IN that) (NP (DT the) (NNPS studios) (NNP will) (NN *UNK*))))))
+(TOP (NP (NP (NP (`` ``) (NP (PRP they)) (SBAR (S (VP (VBP do) (RB n't) (VP (VB seem) (VP (TO to))))))) (VP (VBP have) (DT an) (NP (NN incentive) (TO to) (VB negotiate))) (, ,) ('' '') (VP (VBZ says))) (CD one) (NNP network) (NN executive)))
+(TOP (S (`` ``) (INTJ (S (FRAG (CC and) (RB there) (SBAR (S (VP (VBZ 's) (RB no) (VP (NN indication)))))) (NP (DT that) (NNP washington) (VBZ is)) (VP (VBN prepared) (VP (TO to))))) (VP (VBP address) (DT the) (NP (NNS rules)))))
+(TOP (SQ (PP (IN that) (VP (VBZ 's) (DT the) (NP (NN problem)))) (, ,) (VBZ is) (NP (RB n't)) (NP (PRP it)) (. ?)))
+(TOP (S (INTJ (UH indeed)) (NP (PRP it)) (VP (VBZ is))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (DT the) (NNP big) (CD three) (POS 's)) (ADJP (JJ *UNK*)) (SBAR (IN for) (NN deregulation) (S (VP (VBD began) (ADJP (QP (JJ *UNK*) (IN in) (DT the) (NN summer))) (NP (ADVP (WRB when)) (DT the) (JJ former) (NN time) (NN inc.)) (S (VP (VBD went) (RB ahead) (ADVP (IN with)) (VP (VBZ plans))))))) (PP (TO to) (NP (VB acquire)) (NP (NNP warner)))))
+(TOP (SINV (NP (NNP nbc) (PRP 's) (NNP mr.) (NNP wright)) (VP=3 (VBN led) (ADVP (DT the) (RB way) (SBAR (IN in) (NN *UNK*) (S (NP (DT the) (NNPS networks) (POS ')) (NP=2 (QP (NN inability) (TO to) (NN match)) (DT a) (NN *UNK*) (NN combination))))))))
+(TOP (S (NP (PRP he)) (VP (VBD spoke)) (ADVP (RB up)) (SBAR (ADVP (RB again)) (WHADVP (WRB when)) (S (NP (DT the) (NNP sony) (NNP bid) (IN for) (NNP columbia)) (X (VBD was)) (VP (VBD announced))))))
+(TOP (SINV (ADVP (RB since)) (PP (NP (NP (NNP nbc)) (VBZ 's) (NN interest)) (IN in) (NP (DT the) (NNP qintex) (NNP bid) (IN for) (NNP mgm\/ua))) (VBD was) (NP (JJ disclosed) (, ,) (ADJP (NNP mr.)) (NNP wright)) (VP (VBZ has) (ADVP (RB n't)) (ADJP (VBN been)) (PP (JJ available) (IN for) (NP (NN comment))))))
+(TOP (S (NP (NP (IN with) (NNP a) (NNP qintex) (NN deal)) (, ,) (NNP nbc)) (MD would) (VP (VB move) (VP (ADVP (IN into)) (VBG *UNK*) (NP (NN territory)) (: --) (S (VP (RB possibly) (VBG raising) (PP (JJ *UNK*) (IN at) (NP (DT the) (NNP studios) (NNP and) (IN in) (NNP washington)))))))))
+*IGNORE*
+(TOP (S (NP (PRP he)) (ADVP (RB now)) (VP (VBZ runs) (NP (NN policy)) (PP (NP (NNS communications)) (IN in) (NP (NNP washington))) (, ,) (S (VP (VBG consulting)))) (PP (TO to) (NP (NNS media)) (NP (NNS companies)))))
+*IGNORE*
+(TOP (S (ADVP (RB hence)) (, ,) (INTJ (INTJ (S (NP (NNP nbc)) (MD might) (VP (VB be) (VP (ADVP (JJ able)) (TO to) (VP (VB take)))))) (, ,) (INTJ (UH say))) (, ,) (NP (DT a) (CD 5) (NP (NN %)) (NN stake)) (VP (ADVP (IN in)) (NP=2 (DT a) (NN company)) (PP (JJ such) (IN as) (NP (NNP mgm\/ua))))))
+*IGNORE*
+(TOP (SINV (CC but) (PP (NP (ADJP (JJ such) (RB *UNK*) (S (VP (MD would) (RB still) (VP (VBP block) (DT the) (ADJP (QP (NNS networks) (IN from) (NNS *UNK*))))))) (DT a) (JJ big) (NN chunk)) (IN of) (NP (DT the))) (VBP *UNK*) (NP (QP (IN of) (NNS *UNK*)))))
+(TOP (S (ADVP (RB instead)) (, ,) (NP (NP (NNP abc)) (NN will) (S (VP (VBP have)))) (ADVP (TO to) (VB sell) (RP off)) (NP (DT the)) (VP (NNS rights) (S (NP (IN for) (DT a) (JJ one-time) (NN fee))))))
+(TOP (NP (NP (DT the)) (NNS networks) (S (VP (VB admit) (PP (IN that) (DT the) (NNS chances)) (PP (IN of) (VP (VBG getting) (VP (NP=2 (DT the) (NN relief)) (NP (PRP they))))) (S (VP (VB want) (VP (VBP are) (ADJP (JJ slim)) (: --) (PP (PP (IN for) (JJ several) (NNS years)) (IN at) (NP (DT the)))))) (NP (JJS least))))))
+(TOP (SINV (ADVP (CD six)) (PP (NP (NNS years)) (IN ago) (NP (PRP they))) (VBD were) (NP (NNP *UNK*)) (VP (VB close))))
+(TOP (S (NP (DT the) (NNPS *UNK*) (NNP federal) (NNPS communications) (NNP commission)) (X (VBD had)) (VP (VBD ruled) (RB in) (VP (VB favor) (VP (ADVP (IN of)) (VBG killing) (ADVP (RBS most)) (PP (IN of) (DT the) (NNS rules)))))))
+*IGNORE*
+(TOP (NP (DT the) (NNP fcc) (NN effort) (VBN collapsed)))
+(TOP (S (NP (DT the)) (NP (NNS networks) (CC and) (NNPS studios)) (S (VP (VBP have) (RB *UNK*) (ADVP (RB ever)) (ADVP (RB since))))))
+(TOP (S (VP (NN network) (NP (NNS officials)) (PP (JJ involved) (IN in) (NP (DT the) (ADJP (NN studio)) (NP (NNS talks)) (NNP may) (NN hope))) (NP (DT the) (ADJP (JJ foreign)) (NN influx) (S (VP (VBZ builds) (ADVP (RBR more)) (VP (VB support) (PRT (RP in)) (UCP (NP (NNP washington)) (, ,) (CC but) (VP (ADVP (RB that)) (VBZ seems) (ADJP (JJ unlikely)))))))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (INTJ (RB but)) (NP (PRP he)) (VP (VBD said) (NP (NNP mr.) (CD *UNK*) (NNS hopes)) (ADVP (DT this)) (NP (PDT *UNK*) (DT the) (NNS networks) (CC and) (NNS studios)) (PP (PP (TO to) (NP (NN work)) (NP (PRP it))) (IN out) (IN on) (NP (PRP$ their) (NX (JJ own)))))))
+*IGNORE*
+(TOP (S (ADVP (NN recognition)) (NP (NN equipment)) (NP (NNP inc.)) (VP (VBD said) (NP (PRP it)) (PRT (VBN settled)) (PP (NP (DT a) (NNP civil) (NN action) (VBN filed)) (IN against) (NP (PRP it))) (PP (NP (IN by) (DT the) (JJ federal) (NN government)) (IN on) (NP (NN behalf))) (NP (IN of) (DT the) (ADJP (NNP u.s.)) (JJ postal) (NN service)))))
+(TOP (S (VP (NP=2 (DT the) (NN government)) (S (VP (VBD sued) (DT the) (PP (NP (NN company)) (IN in) (NP (NP (NNP april)) (, ,) (NP (NP (VBG seeking)) ($ $) (CD *UNK*)) (CC and) (NP (JJ other) (ADJP (JJ unspecified)) (NNS damages)) (PP (JJ related) (TO to) (NP (DT an) (VBN alleged) (ADJP (JJ *UNK*)) (NN scheme))))))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (NNP mr.)) (ADVP (RB *UNK*)) (VP (VBD was) (RB previously) (VP (VBN sentenced))) (PP (TO to) (NP (CD four)) (PP (NP (NP (NNS years)) (ADJP (ADVP (IN in)) (ADJP (NN prison)) (CC and) (ADJP (VBN fined))) ($ $) (CD *UNK*)) (IN for) (NP (NP (PRP$ his) (NN role) (IN in)) (DT the) (NN scheme))))))
+*IGNORE*
+(TOP (S (NP (NP (DT the) (CD five) (JJ additional) (NNS defendants)) (VP (VBD were) (RB n't) (VP (VBZ parties))) (X (TO to))) (NP=2 (DT the) (NN settlement))))
+*IGNORE*
+*IGNORE*
+(TOP (NP (DT the) (NP (NN company)) (CC and) (NP (PRP$ its) (NNS executives) (S (VP (VB deny) (X (DT the))))) (NNS charges)))
+*IGNORE*
+(TOP (NP (DT the) (NNP postal) (NN service) (S (VP (ADVP (RB originally)) (VBD suspended) (NP (DT the) (NP (NN company) (NNP oct.) (CD 7)) (, ,) (NP (CD 1988)) (, ,) (CC and) (NP (VBZ has))) (S (VP (VBN been) (VP (VBG renewing) (VP (ADVP (DT the)) (VB ban) (ADVP (RB ever)) (PP (IN since))))))))))
+(TOP (S (VP (NP=2 (DT the) (NN company)) (S (VP (VBD said) (S (NP (PRP it)) (MD will) (VP (VB continue) (VP (TO to) (S (VP (VB pursue)))))) (SBAR (DT a) (S (VP (VBG lifting) (PRT (IN of)) (NP (DT the)) (NP (NN suspension))))))))))
+(TOP (S (VP (NNP intel) (NP (NNP corp.)) (S (VP (VBN reported) (NP (DT a) (CD 50) (NP (NN %)) (NN drop)) (NP (IN in) (JJ third-quarter) (JJ net) (NN income)) (, ,) (PP (ADVP (RB partly)) (IN because) (IN of) (NP (DT a) (ADJP (JJ one-time)) (QP (NN charge) (IN for) (JJ discontinued)) (NNS operations))))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (VBG earning) (VP (ADVP (RB also)) (VBD fell) (NP (IN from) (DT the) (JJ year-ago) (NN period)) (SBAR (IN because) (IN of) (S (VP (VBG slowing) (JJ *UNK*) (NP (NN demand)))))))))
+(TOP (S (VP (NNS sales) (S (VP (VBN amounted) (VP (TO to) (VP (NP=2 ($ $) (CD *UNK*)) (NP (CD million))) (, ,) (SBAR (NP (ADVP (RB down)) (CD 1.7) (NN %)) (IN from) (S (VP (NP=2 ($ $) (CD *UNK*)) (NP (CD million)))))))))))
+(TOP (S (NP (NP (CC but)) (NP (NP (NNP intel)) (ADJP (RBR later) (JJ *UNK*) (PP (TO to) (NP (NP (DT the) (NNP stock) (NN market) (POS 's)) (NP (NN plunge)) (, ,) (ADVP (NN closing))) (PP (IN at)))) ($ $) (CD *UNK*)) (, ,) (ADVP (RB down))) (NP=2 ($ $) (CD *UNK*))))
+(TOP (S (SBAR (IN on) (FRAG (NP=1 (NNP friday)) (, ,) (NP (NNP andrew) (UCP (JJ *UNK*) (, ,) (NNP intel) (NNP president) (CC and) (NNP chief)) (JJ executive) (NN officer)))) (, ,) (S (VP (VBD said) (`` ``) (ADVP (NNP intel)) (VP (VBZ 's)))) (NP (NN business) (VBZ is)) (VP (JJ strong))))
+(TOP (NP (PRP$ our) (NNS bookings) (S (VP (VBD improved) (NP (RB as) (DT the) (NN quarter) (NN *UNK*)) (CC and) (VP (ADVP (NNP september)) (VBD was) (RB especially) (ADJP (JJ good)))))))
+(TOP (NP (NP (IN for) (DT the) (JJ full) (NN quarter)) (, ,) (NP (PRP$ our) (NNS bookings) (S (VP (VBD were) (ADJP (JJR higher)) (SBAR (S (NP (IN than) (DT the) (JJ previous) (NN quarter))))))) (, ,) (CC and) (NP (PRP$ our) (JJ *UNK*) (NN ratio) (S (VP (VBN exceeded) (VP (VBN *UNK*))))) (. .)))
+*IGNORE*
+(TOP (SINV (FRAG (NP (NN revenue))) (VP (VBD amounted) (PP (TO to)) (PP (NP=2 ($ $) (CD *UNK*))) (NP (CD billion)) (, ,) (ADVP (RB up))) (NP (QP (RB slightly) (IN from) ($ $) (CD *UNK*) (CD billion)))))
+(TOP (NP (NP (NP (NNP walter)) (NNP sisulu) (CC and) (NNP the) (NNP african) (NNP national)) (NNP congress) (ADJP (VBD came)) (NN home) (NN yesterday)))
+*IGNORE*
+*IGNORE*
+(TOP (S (`` ``) (VP (ADVP (NP (PRP i)) (RB am) (PP (JJ happy) (TO to) (NP (VB see)))) (NP=2 (DT the) (NN spirit)) (PP (IN of) (DT the) (NNS people))) (, ,) ('' '') (PRN (S (VP (VBD said) (NP (NNP mr.)) (NP (NNP sisulu)) (, ,) (S (VP (VBG looking) (JJ *UNK*) (NP (IN in) (DT a) (ADJP (JJ new)) (JJ gray) (NN suit)))))))))
+(TOP (NP (NP (RB as) (DT the) (NN crowd) (NN outside)) (NP (PRP$ his) (NN home) (S (VP (VBD *UNK*) (`` ``) (NP (NNP anc)) (, ,) (NP (NNP anc))))) (, ,) ('' '') (NP (DT the) (ADJP (JJ old)) (NN man) (NN shot) (S (NP (PRP$ his) (NN *UNK*) (IN into)) (NP=2 (DT the) (NN air))))))
+(TOP (S (`` ``) (NP (PRP i)) (VP (VBP 'm)) (PRN (NP (QP (JJ inspired) (IN by) (DT the) (NN mood)))) (PP (IN of) (DT the) (NNS people)) (. .)))
+(TOP (S (NP (ADVP (IN under)) (DT the) (NNS laws)) (PP=4 (IN of) (NP (DT the) (NP (NN land)) (, ,) (NP (ADJP (NP (DT the) (NNP anc) (VBZ remains))) (DT an) (JJ illegal) (NN organization)) (, ,) (CC and) (NP (PRP$ its) (NN headquarters) (S (VP (VBP are) (RB still) (ADVP (IN in)) (ADJP (NNP *UNK*) (, ,) (JJ *UNK*)))))))))
+*IGNORE*
+*IGNORE*
+(TOP (S (VP (ADVP (NP (`` ``) (NP (NNS things)) (SBAR (S (VP (VB have) (VP (VBN gone)))))) (RB too) (NP (RB far) (IN for) (DT the) (NN government))) (TO to) (VP (NN stop) (NP (PRP them)) (ADVP (RB now))))))
+(TOP (SINV (ADVP (RB there)) (VBZ 's) (NP (DT no) (VBG turning) (RP back)) (. .)))
+*IGNORE*
+*IGNORE*
+(TOP (S (SBAR (IN without) (FRAG (NP (PRP him)))) (, ,) (S (VP (VBD said) (NP (NNP mr.)) (NP (NNP sisulu)) (, ,) (ADVP (NP (DT the)) (RB *UNK*) (PP (IN of) (DT the) (NNS others))))) (VP (`` ``) (VBZ is) (ADJP (ADVP (RB only)) (NP (DT a)) (JJ *UNK*))) (. .)))
+(TOP (S (NP (CC but) (NN pretoria)) (MD may) (RB instead) (VP (VB be) (VP (VBG creating) (NP (DT a)) (PP (NP (NN climate)) (IN for) (NP (ADJP (JJR more)) (NN turmoil) (CC and) (NN uncertainty))) (SBAR (IN in) (FRAG (NP (DT this) (VBG *UNK*) (VBN divided) (NN country))))))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (SINV (FRAG (DT the) (INTJ (RB newly)) (NP (VBN released) (NNP anc) (NNS leaders))) (VP (ADVP (RB also)) (MD will) (VP (VB be))) (NP (IN under) (ADJP (JJ enormous)) (NN pressure))))
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+*IGNORE*
+(TOP (S (NP (PRP they)) (RB never) (VP (VBN considered) (NP (PRP themselves)) (PP (TO to) (NP (VB be)) (NP (NN anything))) (ADVP (RB else)))))
+(TOP (S (VP (ADVP (IN at)) (JJ last) (NP (NN night) (POS 's)) (PP (NP (NP (NN rally)) (, ,) (NP (PRP they)) (PP (VBN called) (IN on) (NP (PRP$ their) (NN *UNK*) (S (VP (TO to) (VP (VB be) (VP (NN firm))) (, ,) (RB yet) (VP (VBN disciplined)))))) (, ,)) (IN in) (NP (NP (PRP$ their) (NX (NN opposition))) (TO to) (NP (NN apartheid)))))))
+*IGNORE*
+*IGNORE*

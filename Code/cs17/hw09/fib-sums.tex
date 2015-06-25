@@ -1,0 +1,74 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Include files, leave this alone
+\documentclass[12pt,letterpaper]{article}
+\usepackage{amsmath}
+\usepackage{fullpage}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\setlength{\parindent}{0.0in}
+\setlength{\parskip}{0.1in}
+\newcommand{\tab}{\hspace{3em}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% Edit these as appropriate
+\newcommand\course{CS 17}
+\newcommand\semester{Fall 2013}       % <-- current semester
+\newcommand\hwnum{9}                  % <-- homework number
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%This section setups the header for the document, leave this alone
+\pagestyle{fancy}
+\headheight 28pt
+\fancyhead[R]{\course, \semester\\ Homework \hwnum - \today}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newenvironment{answer}[5]{
+  \section*{Problem \hwnum.#1}
+}{\newpage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%The document begins here!
+\begin{document}
+
+\begin{answer}{5}
+\textbf{Analysis 1} \\
+
+Task 1\\
+The recurrence relation G(n) is as follows:
+\[ G(n) = \left\{ 
+  \begin{array}{l l}
+    1 & \quad \text{if $n = 0$}\\
+    F(n) + G(n - 1) & \quad \text{if $n > 1$}
+  \end{array} \right.\]\\
+  
+Task 2\\
+
+Pf:\\
+  Basis: In the base case, n = 1,
+  \begin{align*}
+G(1) &= 1 \\
+&= 2 - 1 \\
+&= F(3) - 1 \\
+&= F(1+2) - 1
+\end{align*}
+
+  Step: Assume
+  \begin{align*}
+G(n - 1) &= F((n - 1) + 2) -1 \\
+&= F(n + 1) -1\\
+\end{align*}
+
+  Then
+  \begin{align*}
+G(n) &= F(n) + G(n - 1) \\
+&= F(n) + F(n + 1) -1\\
+&= F(n + 2) - 1
+\end{align*}
+\begin{flushright} by the recurrence relation F(n) \end{flushright}
+Q.E.D.
+
+\end{answer}
+
+
+\end{document}

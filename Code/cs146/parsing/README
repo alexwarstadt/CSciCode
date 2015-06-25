@@ -1,0 +1,19 @@
+README
+
+All my code resides in ./parsing/Parser.java. 
+The executable parse is in ./
+The data is in ./data
+
+The Parser class contains:
+    Many maps
+    method that reads in rules and counts
+    method that calculates rho values
+    Constituent class
+        recursive method that produces a string representation of a constituent
+    Cell class
+    Chart class
+    method that parses
+    method that fills a cell that is called by parse
+    method that does unary rules for a cell that is called by fill
+    method that helps the unary method
+    method that parses a file line by line and writes to output

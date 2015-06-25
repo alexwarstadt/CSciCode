@@ -1,0 +1,199 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname rle) (read-case-sensitive #t) (teachpacks ((lib "cs17.ss" "installed-teachpacks"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "cs17.ss" "installed-teachpacks")))))
+;; TASK 1
+
+;; DATA DEFINTION
+
+;; RLE-unit :
+;; an RLE-unit consists of 
+;;   - datum :  a datum 
+;;   - length : a positive integer, equal to the number of consecutive instances of datum 
+;; in the list.
+(define-struct RLE-unit (datum length))
+(make-RLE-unit true 3)
+
+;; RLE :
+;;   - empty
+;;   - (cons RLE-unit RLE)
+;; Note: all datum in each RLE-unit should be of the same type
+(list (make-RLE-unit "what " 3) (make-RLE-unit "are you doing" 1))
+(list (make-RLE-unit 3 4) (make-RLE-unit 7 1) (make-RLE-unit 8 3))
+empty
+
+
+
+
+
+;; TASK 2
+
+;; repeat : datum number => (listof datum)
+;; I/P : 
+;;   - a datum, datum
+;;   - a natural number, num
+;; O/P : a list with num copies of datum
+;; note : this is a procedure from lab03
+(define (repeat datum num)
+  (cond
+    [(zero? num) empty]
+    [(succ? num)
+     (cons datum (repeat datum (sub1 num)))]))
+;; test cases
+(check-expect (repeat true 3) (list true true true))
+(check-expect (repeat "a" 0) empty)
+(check-expect (repeat 1 4) (list 1 1 1 1))
+
+
+;; rle-decode : rle => (listof datum)
+;; I/P : a run-length-encoding, aRLE
+;; O/P : the (listof datum) that arle represents.
+(define (rle-decode aRLE)
+  (cond
+    [(empty? aRLE) empty]
+    [(cons? aRLE)
+     (append (repeat (RLE-unit-datum (first aRLE)) (RLE-unit-length (first aRLE)))
+             (rle-decode (rest aRLE)))]))
+;; test cases
+(check-expect (rle-decode (list (make-RLE-unit true 3) (make-RLE-unit false 2)))
+              (list true true true false false))
+(check-expect (rle-decode (list (make-RLE-unit "what" 3) (make-RLE-unit "are you doing?" 1)))
+              (list "what" "what" "what" "are you doing?"))
+(check-expect (rle-decode (list (make-RLE-unit 1 4))) (list 1 1 1 1))
+(check-expect (rle-decode empty) empty)
+
+
+
+
+
+
+;; TASK 3
+
+;; The worst case run-time of rle-decode is O(n*m), where n is the length of 
+;; aRLE and m is the greatest of all the values of length for each member of
+;; of aRLE. This is the case because there are n recursive calls
+;; and on each recursive call, rle-decode calls
+;; append and repeat, both of which have runtimes linear in m.
+
+
+
+
+
+
+
+
+;; TASK 4
+
+;; takewhile : (datum => boolean) (listof datum) => (listof datum)
+;; I/P :
+;; a one argument predicate, proc
+;; a (listof datum), alod, containing data of the type that proc takes
+;; O/P : the prefix of alod up to but not including the first element for which
+;; proc is false.
+
+(define (takewhile proc alod)
+  (cond
+    [(empty? alod) empty]
+    [(cons? alod)
+     (if (proc (first alod)) 
+         (cons (first alod) (takewhile proc (rest alod)))
+         empty)]))
+
+;; test cases
+(check-expect (takewhile odd? (list 1 3 5 7 9 2 4 6 8)) (list 1 3 5 7 9))
+(check-expect (takewhile (lambda (x) (string=? "a" x)) (list "a" "a")) (list "a" "a"))
+(check-expect (takewhile (lambda (x) (< 10 x)) (list 10 11 12 13)) empty)
+(check-expect (takewhile zero? empty) empty)
+
+
+
+
+
+
+;; TASK 5
+
+;; dropwhile : (datum => boolean) (listof datum) => (listof datum)
+;; I/P :
+;; a one argument predicate, proc
+;; a (listof datum) alod containing data of the type that proc takes
+;; O/P : a (listof datum) containing all elements of alod except for the prefix
+;; of alod for which the predicate is true on all members.
+
+(define (dropwhile proc alod)
+  (cond
+    [(empty? alod) empty]
+    [(cons? alod)
+     (if (proc (first alod))
+         (dropwhile proc (rest alod))
+         alod)]))
+
+;; test cases
+(check-expect (dropwhile odd? (list 1 3 5 7 9 2 4 6 8)) (list 2 4 6 8))
+(check-expect (dropwhile (lambda (x) (string=? "a" x)) (list "a" "a")) empty)
+(check-expect (dropwhile (lambda (x) (< 10 x)) (list 10 11 12 13)) (list 10 11 12 13))
+(check-expect (dropwhile (lambda (x) (< 10 x)) (list 10 11 2 13)) (list 10 11 2 13))
+(check-expect (dropwhile zero? empty) empty)
+
+
+
+
+
+
+;; TASK 6
+
+;; rle-encode : (listof datum) => RLE
+;; I/P : a (listof datum) alod
+;; O/P : a RLE equivalent to alod
+
+(define (rle-encode alod)
+  (let ((equal-first? (lambda (x) (equal? x (first alod)))))
+  (cond
+    [(empty? alod) empty]
+    [(cons? alod)
+     (cons (make-RLE-unit (first alod) (length (takewhile equal-first? alod)))
+           (rle-encode (dropwhile equal-first? alod)))])))
+
+;; test cases
+(check-expect (rle-encode (list 1 1 1 2 3 3 4))
+              (list
+               (make-RLE-unit 1 3)
+               (make-RLE-unit 2 1)
+               (make-RLE-unit 3 2)
+               (make-RLE-unit 4 1)))
+(check-expect (rle-encode (list true false true))
+              (list
+               (make-RLE-unit true 1)
+               (make-RLE-unit false 1)
+               (make-RLE-unit true 1)))
+(check-expect (rle-encode (list "a" "a"))
+              (list (make-RLE-unit "a" 2)))
+(check-expect (rle-encode empty) empty)
+
+
+
+
+
+;; TASK 7
+
+;; The worst case run time of rle-encode is on the order of O(n) where n is the length of alod.
+;; In the case that every element of alod is the same, rle-encode makes only one recursive call
+;; and on each call it calls only procedures that are at worst linear with respect to n. In the 
+;; case that every consecutive element of alod is different, rle-encode makes n recursive calls but on each
+;; call it calls procedurs that are linear with respect to the length of the number of consecutive
+;; identical elements of the list, which is only 1, thus it really performs a constant amount of
+;; work on each recursive call. In the case that It has mixed identical consecutive elements and 
+;; not identical elements, for an identical sequence of length m, it makes a single call of 
+;; procedures linear with respect to m. Thus it makes m fewer recursive calls, than if all these
+;; elements were different, but the one call is linear with respect to m. 
+;; For all the not identical sequences, there is a recursive call but on each call it only performs
+;; a constant amount of work. Thus, the run time will always be linear with respect to n.
+
+
+
+
+
+;; TASK 8
+(check-expect (rle-decode (rle-encode (list 1 1 1 2 3 3 4))) (list 1 1 1 2 3 3 4))
+(check-expect (rle-decode (rle-encode (list true false true true))) (list true false true true))
+(check-expect (rle-decode (rle-encode (list "a" "a"))) (list "a" "a"))
+(check-expect (rle-decode (rle-encode empty)) empty)
+(check-expect (rle-decode (rle-encode (list 1 2 3 4))) (list 1 2 3 4))

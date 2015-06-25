@@ -1,0 +1,30 @@
+README --- MT
+
+All my code resides in /src/mthandin/mt
+
+Executables reside in /src along with the corpora and must be run from /src.
+
+Classes:
+
+BigramMT is a modified version of my Bigram language model from langmod
+
+Counter, LanguageModel, and Unigram are all unchanged from langmod
+
+EM performs the EM algorithm.
+
+Decoder is an abstract class containing methods for calculating fscore, decoding each line, and decoding an entire document
+
+VeryDumb extends Decoder, using the very dumb decoding algorithm
+
+NoisyChannel extends Decoder, using the noisy channel decoder
+
+Pair is used for hashing pairs of words e/f in the EM algorithm
+
+
+
+
+Questions:
+
+I think the noisychannel decoder produces a slightly more English-like result, though I cannot say with confidence that it produces a better translation. It seems prone to producing some odd words (possibly when the bigram probability eclipses the alignment probability), whereas the verydumb one produces more sensible words but in a less sensible order.
+
+My implementation of the verydumb decoder gives a better fscore. This may be attributable to the fact that fscore as we measure it does care about the word order of the translation at all, just the presence of a word. For instance, if we took the actual translation english-senate-2 and reversed the word order of each sentence, it should have a perfect fscore. The noisychannel decoder sometimes sacrificed giving the best translation for giving a better bigram (i.e. word order), but fscore penalizes it for doing so. The verydumb decoder does not make this sacrifice.

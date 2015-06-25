@@ -1,0 +1,176 @@
+;; The first three lines of this file were inserted by DrRacket. They record metadata
+;; about the language level of this file in a form that our tools can easily process.
+#reader(lib "htdp-beginner-reader.ss" "lang")((modname listnum) (read-case-sensitive #t) (teachpacks ((lib "cs17.ss" "installed-teachpacks"))) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ((lib "cs17.ss" "installed-teachpacks")))))
+;; TASK 1
+
+;; DATA DEFINITION
+
+;; Listnum
+;;    - empty
+;;    - (cons empty Listnum)
+;; the value of the a Listnum is equal to the number of applications of cons
+;; in the Listnum
+(define zero empty)
+(define one (list empty))
+(define two (list empty empty))
+(define three (list empty empty empty))
+(define four (list empty empty empty empty))
+(define five (list empty empty empty empty empty))
+
+
+
+
+;; TASK 2
+
+;; SUCC : Listnum => Listnum
+;; I/P : a Listnum, Listnum
+;; O/P : the Listnum corresponding to the natural number succeeding Listnum,
+;; i.e. a Listnum identical to Listnum but with one additional empty cons-ed
+(define (SUCC Listnum) (cons empty Listnum))
+;; test cases :
+(check-expect (SUCC zero) one)
+(check-expect (SUCC two) three)
+
+
+
+
+
+;; TASK 3
+
+;; PRED : Listnum => Listnum
+;; I/P : a Listnum that is not empty, Listnum
+;; O/P : the Listnum corresponding to the natural number preceding Listnum,
+;; i.e. a Listnum identical to Listnum but with one fewer empty cons-ed
+(define (PRED Listnum) (rest Listnum))
+;; test cases :
+(check-expect (PRED three) two)
+(check-expect (PRED one) zero)
+
+
+
+
+
+;; TASK 4
+
+;; ZERO? : Listnum => boolean
+;; I/P : a Listnum, Listnum
+;; O/P : true iff Listnum is empty
+(define (ZERO? Listnum) (empty? Listnum))
+;; test cases
+(check-expect (ZERO? two) false)
+(check-expect (ZERO? zero) true)
+(check-expect (ZERO? (list)) true)
+
+
+
+
+;; SUCC? : Listnum => boolean
+;; I/P : a Listnum, Listnum
+;; O/P : true iff Listnum is a cons expression
+(define (SUCC? Listnum) (cons? Listnum))
+;; test cases
+(check-expect (SUCC? two) true)
+(check-expect (SUCC? zero) false)
+(check-expect (SUCC? (list)) false)
+
+
+
+
+
+;; less-than? : Listnum Listnum => boolean
+;; I/P : two Listnums, x and y
+;; O/P : true iff x is less than y
+(define (less-than? x y)
+  (cond
+    [(ZERO? y) false]
+    [(SUCC? y) (cond
+                 [(ZERO? x) true]
+                 [(SUCC? x) (less-than? (PRED x) (PRED y))])]))
+;; test cases
+(check-expect (less-than? three two) false)
+(check-expect (less-than? two three) true)
+(check-expect (less-than? zero two) true)
+(check-expect (less-than? two zero) false)
+                 
+
+;; TASK 5
+
+;; difference : Listnum Listnum => Listnum
+;; I/P : two Listnums, num1 and num, with num1 >= num2
+;; O/P : a Listnum equal to the difference of num1 and num2
+(define (difference num1 num2)
+  (cond
+    [(ZERO? num2) num1]
+    [(SUCC? num2) (cond
+                    [(ZERO? num1) (make-error "num1 must be greater than or equal to num2")]
+                    [(SUCC? num1) (difference (PRED num1) (PRED num2))])]))
+;; test cases
+(check-expect (difference three zero) three)
+(check-expect (difference zero zero) zero)
+(check-expect (difference three one) two)
+(check-expect (difference two two) zero)
+(check-error (difference zero one) "error: num1 must be greater than or equal to num2")
+
+
+
+
+;; TASK 6
+
+;; QUOTIENT : Listnum Listnum => Listnum
+;; I/P : two Listnums, num1 and num2.
+;; O/P : the quotient of num1 and num2
+(define (QUOTIENT num1 num2)
+  (cond
+    [(ZERO? num2) (make-error "QUOTIENT: undefined for zero")]
+    [(SUCC? num2) (if (less-than? num1 num2)
+                      empty
+                      (SUCC (QUOTIENT (difference num1 num2) num2)))]))
+;; test cases
+(check-expect (QUOTIENT three one) three)
+(check-error (QUOTIENT three zero) "error: QUOTIENT: undefined for zero")
+(check-expect (QUOTIENT two two) one)
+(check-expect (QUOTIENT one two) zero)
+(check-expect (QUOTIENT zero one) zero)
+(check-error (QUOTIENT zero zero) "error: QUOTIENT: undefined for zero")
+
+
+
+
+;; REMAINDER : Listnum Listnum => Listnum
+;; I/P : two Listnums, num1 and num2.
+;; O/P : the remainder of num1 and num2
+(define (REMAINDER num1 num2)
+  (cond
+    [(ZERO? num2) (make-error "REMAINDER: undefined for zero")]
+    [(SUCC? num2) (if (less-than? num1 num2)
+                      num1
+                      (REMAINDER (difference num1 num2) num2))]))
+;; test cases
+(check-expect (REMAINDER three two) one)
+(check-expect (REMAINDER two two) zero)
+(check-expect (REMAINDER four two) zero)
+(check-expect (REMAINDER one two) one)
+(check-expect (REMAINDER zero two) zero)
+(check-error (REMAINDER three zero) "error: REMAINDER: undefined for zero")
+(check-error (REMAINDER zero zero) "error: REMAINDER: undefined for zero")
+
+
+
+
+;; TASK 7
+
+;; The worst case run time of QUOTIENT is on the order O(n), where n is the length of num1
+;; and m is the length of num2. Worst case, num1 is not less than num2, so there will be
+;; recursive calls. In that case, the number of calls is the quotient of n and m
+;; and on each call QUOTIENT calls difference and less-than on n and m, both of which
+;; have runtimes linear with respect to the length shortest Listnum inputted (for difference
+;; always the second), which in this case is m. Thus, m work multiplied by n/m recursive calls
+;; equals n work.
+
+;; The worst case run time of REMAINDER is on the order O(n), where n is the length of num1
+;; and m is the length of num2. Worst case, num1 is not less than num2, so there will be
+;; recursive calls. In that case, the number of calls is the quotient of n and m
+;; and on each call REMAINDER calls difference and less-than on n and m, both of which
+;; have runtimes linear with respect to the length shortest Listnum inputted (for difference
+;; always the second), which in this case is m. Thus, m work multiplied by n/m recursive calls
+;; equals n work.

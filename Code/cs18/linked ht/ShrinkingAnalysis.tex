@@ -1,0 +1,95 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Include files, leave this alone
+\documentclass[12pt,letterpaper]{article}
+\usepackage{amsmath}
+\usepackage{fullpage}
+\usepackage{enumerate}
+\usepackage{fancyhdr}
+\setlength{\parindent}{0.0in}
+\setlength{\parskip}{0.1in}
+\newcommand{\tab}{\hspace{3em}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% Edit these as appropriate
+\newcommand\course{CS 18}
+\newcommand\semester{Spring 2014}       % <-- current semester
+\newcommand\hwnum{5}                  % <-- homework number
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%This section setups the header for the document, leave this alone
+\pagestyle{fancy}
+\headheight 28pt
+\fancyhead[R]{\course, \semester\\ Homework \hwnum, \today}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newenvironment{answer}[2]{
+  \section*{Problem \hwnum.#1}
+}{\newpage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%The document begins here!
+\begin{document}
+
+\begin{answer}{2}
+
+\textbf{Analysis for delete} \\
+
+On average, deletion runs in constant time when the array is shrunk to half its size as soon as it is $\frac{1}{4}$ full or less.\\
+
+Consider the case where the array has just been grown, and so size of the dynamic array is some power of 2 plus 1, and the "account balance" is at its lowest. Let $i$ be the number removal in the sequence. Let the virtual cost of each removal be 2, the cost of deleting an element be 1, and the cost of moving each element to a new array 1. Then a homogeneous sequence of remove operations will never cause the balance to become negative, as demonstrated in the table below. Let $n_\beta$ be the number of elements before and $n_\alpha$ be the number of elements after deletion. The capacity is after deletion.\\
+
+\begin{tabular}{c|c|c|c|c|c|c}
+$i$ & $n_\beta$ & $n_\alpha$ & capacity & cost & change in balance & balance \\ \hline
+0 & 17 &17& 32 & 0 & 0 & 0\\
+1 & 17 &16& 32 & 1 & 1 & 1\\
+2 & 16 &15& 32 & 1 & 1 & 2\\
+3 & 15 &14& 32 & 1 & 1 & 3\\
+4 & 14 &13& 32 & 1 & 1 & 4\\
+5 & 13 &12& 32 & 1 & 1 & 5\\
+6 & 12 &11& 32 & 1 & 1 & 6\\
+7 & 11 &10& 32 & 1 & 1 & 7\\
+8 & 10 &9& 32 & 1 & 1 & 8\\
+9 & 9 &8& 16 & 9 & -7 & 1\\
+10 & 8 &7& 16 & 1 & 1 & 2\\
+11 & 7 &6& 16 & 1 & 1 & 3\\
+12 & 6 &5& 16 & 1 & 1 & 4\\
+13 & 5 &4& 8 & 5 & -3 & 1\\
+14 & 4 &3& 8 & 1 & 1 & 2\\
+15 & 3 &2& 4 & 3 & -1 & 1\\
+16 & 2 &1& 2 & 2 & 0 & 1\\
+17 & 1 &0& 1 & 1 & 1 & 2\\
+\end{tabular}\\\\
+
+The lowest balance is the initial balance of 0. Afterwards, the table shows that the balance is at its lowest after each shrink, at which point it drops to 1. \\\\
+
+The parallel case is that right after a shrink, a homogeneous sequence of adds will not cause the balance to drop below 0. Here, $i$ is the number insert in the sequence. The values for the initial state are taken from the above table. As in class, the virtual cost of each add is 3.\\\\
+
+\begin{tabular}{c|c|c|c|c|c|c}
+$i$ & $n_\beta$ & $n_\alpha$ & capacity & cost & change in balance & balance \\ \hline
+0 & 2 & 2& 4 & 0 & 0 & 1\\
+1 & 2 &3& 4 & 1 & 2 & 3\\
+2 & 3 &4& 4 & 1 & 2 & 5\\
+3 & 4 &5& 8 & 5 & -2 & 3\\
+4 & 5 &6& 8 & 1 & 2 & 5\\
+5 & 6 &7& 8 & 1 & 2 & 7\\
+6 & 7 &8& 8 & 1 & 2 & 9\\
+7 & 8 &9& 16 & 9 & -6 & 3\\
+8 & 9 &10& 16 & 1 & 2 & 5\\
+9 & 10 &11& 16 & 1 & 2 & 7\\
+10 & 11 &12& 16 & 1 & 2 & 9\\
+11 & 12 &13& 16 & 1 & 2 & 11\\
+12 & 13 &14& 16 & 1 & 2 & 13\\
+13 & 14 &15& 16 & 5 & 2 & 15\\
+14 & 15 &16& 16 & 1 & 2 & 17\\
+15 & 16 &17& 17 & 17 & -14 & 3\\
+\end{tabular}\\\\
+
+As before, the balance will never drop below 0. Its lowest value is the initial value 1 right after a shrink. But each successive lowest value is 3 right after any grow. So a successive run of adds will never cause the balance to drop below 3.\\\\
+
+By the "banker's method" given the real costs and virtual cost, that the balance will never be negative shows that the delete operation runs in constant amortized time.
+
+\end{answer}
+
+
+\end{document}
